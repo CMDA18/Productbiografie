@@ -10,6 +10,6 @@
 | Week 8  \(09 apr\) | [Feedback Frenzy ](feedback-frenzy.md)   | Een grote groep medestudenten en begeleiders | Presenteer je concepten/ontwerpen en verzamel feedback op punten waar je zelf over twijfels hebt of niet uitkomt. |
 | Week 14 \(14 mei\) | [Groenlicht presentatie](groenlicht-presentatie.md) | Eerste & tweede lezer  Groen / Rood / Oranje | Lever ruim vantevoren al je werk in bij de begeleiders en presenteer in 10-15 minuten je project. Sluit af met een planning voor de laatste weken. Je krijgt feedback op basis van de eindcriteria van het project. |
 | Week 18 \(04 jun\) | [Eindoplevering](eindoplevering.md) | Eerste & derde lezer  Voorlopige beoordeling | Lever alles digitaal in. |
-| Week 19 \(11 jun\) | Promovideo | Eerste & derde lezer Voorlopige beoordeling | Inleveren van een promovideo van het eindproduct.  |
+| Week 19 \(11 jun\) | [Promovideo](promovideo.md) | Eerste & derde lezer Voorlopige beoordeling | Inleveren van een promovideo van het eindproduct.  |
 | Week 20 \(18 jun\) | [Eindpresentatie](eindpresentatie.md) | Eerste & derde lezer  Definitieve beoordeling | Geef een presentatie van 10-15 minuten over je project en sluit af met conclusies, aanbevelingen en een reflectie. |
 

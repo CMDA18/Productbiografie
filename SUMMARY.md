@@ -30,6 +30,7 @@
 * Feedback Frenzy
 * Groenlicht presentatie
 * Eindoplevering
+* Promovideo
 * Eindpresentatie
 * Woordenlijst
 * Bibliografie
