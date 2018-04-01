@@ -69,7 +69,7 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 
 | **Week** | **Deliverables** |
 | --- | --- |
-| Week 18/20 | [Eindoplevering](eindoplevering.md) |
+| Week 18/20 | [Eindoplevering](eindoplevering.md) \(design rationale + reflectie\) |
 |  | [Promovideo](promovideo.md) |
 |  | [Eindpresentatie](eindpresentatie.md) |
 
