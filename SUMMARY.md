@@ -26,7 +26,7 @@
 * Projectvoorstel
 * Pitch projectvoorstel
 * Design Brief
-* Planning
+* [Planning](deliverables/planning.md)
 * Feedback Frenzy
 * Groenlicht presentatie
 * Eindoplevering
