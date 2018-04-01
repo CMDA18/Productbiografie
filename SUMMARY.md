@@ -2,8 +2,8 @@
 
 ## 1. Introductie
 * [Algemene informatie](README.md)
-* [Aanleiding Project](introduction/PROJECT.md)
-* [Inleiding](introduction/INTRODUCTION.md)
+* [Aanleiding Project](introductie/PROJECT.md)
+* [Inleiding](introductie/INLEIDING.md)
 
 ## 2. Verkenning
 * [--](verkening/)
