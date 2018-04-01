@@ -30,7 +30,7 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 | --- | --- | --- |
 | Week 0/2 | Concept Overview | Ideation / Fly on the wall / Interview |
 |  | Requirements List | Fly on the wall / Literature Study |
-|  | [Design Brief](design-brief.md) | Literature Study / Interview |
+|  | [Design Brief]() | Literature Study / Interview |
 |  | [Planning](planning.md) |  |
 
 ### Research
@@ -58,9 +58,9 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
 | Week 10/17 | Prototyping v.01 | Prototyping / Peer Review |
-|  | [Feedback Frenzy](feedback-frenzy.md) \(poster\) | Peer Review / Expo |
+|  | [Feedback Frenzy]() \(poster\) | Peer Review / Expo |
 |  | Prototyping v.03 | Think aloud / Peer Review |
-|  | [Groenlicht presentatie](groenlicht-presentatie.md) |  |
+|  | [Groenlicht presentatie]() |  |
 |  | Prototyping v.06 | Usability Testing / Peer Review |
 |  | Prototyping v.09 | Usability Testing / \(Product\) Quality Review |
 |  | Prototyping v.1.0 |  |
@@ -69,7 +69,7 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 
 | **Week** | **Deliverables** |
 | --- | --- |
-| Week 18/20 | [Eindoplevering](eindoplevering.md) |
+| Week 18/20 | [Eindoplevering]() |
 |  | [Promovideo](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/promovideo) |
 |  | [Eindpresentatie](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/eindpresentatie) |
 
