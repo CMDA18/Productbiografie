@@ -12,15 +12,6 @@ Met de bovenvermelde instelling van Jungle Minds in mijn achterhoofd heb ik de v
 
 ### Deelvraag 1
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.1px; font: 11.5px Merriweather}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Merriweather; min-height: 15.0px}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.5px Merriweather}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.5px Merriweather; min-height: 14.0px}  
-table.t1 {border-collapse: collapse}  
-td.td1 {padding: 0.0px 5.0px 0.0px 5.0px}  
-
-
 | **Deelvraag ** | **Subdeelvragen ** | **Methoden ** | **Benodigde ** |
 | --- | --- | --- | --- |
 | 1.Waarom is een interactieve gids relevant voor nieuwe medewerkers?  |  1.1 Welke informatie heeft een nieuwe medewerker nodig om goed te kunnen functioneren?   |  Deskresearch   |  Deze bron gaat over een onderzoek over de oriëntatie van een werknemer. Brown, J. \(2007\). Employee orientation: Keeping new employees on board. hu manresources. about. com/library/week ly/nosearch/nuc042102a.htm, 20\(02\), 2014.   |
