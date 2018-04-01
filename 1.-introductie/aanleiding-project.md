@@ -14,8 +14,7 @@ Voor de periode van februari tot en met juni ga ik mij bezig houden met mijn afs
 
 Bij Jungle Minds draait alles om de gebruikswaarde, het maken van digitale producten die ons dagelijks leven beter maken. De technologie en het design dat problemen oplost, interactie stimuleert en een goede ervaring biedt. Dingen waarvan we zelf als gebruiker vinden, ‘fijn dat iemand daar goed over heeft nagedacht’. 
 
-**Jungle formula **
-
+Jungle formula   
 Binnen het bedrijf wordt veel waarde gehecht aan de verschillende kennis en skills. Daarom werkt het bedrijf met de volgende drie mentaliteit: 
 
 * **Een open blik:** Het bedrijf is in staat om in korte tijd tot de kern van elke vraagstuk of organisatie te komen. Zonder daarbij ooit het frisse perspectief van de buitenstaander te verliezen. 
