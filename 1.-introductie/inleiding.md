@@ -6,7 +6,7 @@
 
 Met de bovenvermelde instelling van Jungle Minds in mijn achterhoofd heb ik de volgende ontwerpvraag geformuleerd voor mijn project: 
 
-`“Hoe kan een webapp ervoor zorgen dat nieuwe medewerkers van Jungle Minds de benodigde informatie over procedures en regels binnen het bedrijf verkrijgen, zodat er efficiënter met de inwerktijd wordt omgegaan?” `
+> “Hoe kan een webapp ervoor zorgen dat nieuwe medewerkers van Jungle Minds de benodigde informatie over procedures en regels binnen het bedrijf verkrijgen, zodat er efficiënter met de inwerktijd wordt omgegaan?”
 
 ## Onderzoeksvragen
 
