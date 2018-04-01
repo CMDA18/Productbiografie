@@ -36,6 +36,6 @@
 
 ## \_
 
-* [Woordenlijst](woordenlijst.md)
-* [Bibliografie](bibliografie.md)
+* [Woordenlijst](_/woordenlijst.md)
+* [Bibliografie](_/bibliografie.md)
 

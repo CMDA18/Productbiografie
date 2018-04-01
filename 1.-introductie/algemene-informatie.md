@@ -2,16 +2,14 @@
 
 Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 
-|  |  |
-| --- | --- |
 | Naam | Luisa Braga dos Santos |
+| --- | --- |
 | Studentnummer | 500726507 |
 | Opleiding | Communication and Multimedia Design |
 | Onderwijsinstelling | Hogeschool van Amsterdam |
 
-|  |  |
-| --- | --- |
 | Startdatum | 05.02.2018 |
+| --- | --- |
 | Eindatum | 29.06.2018 |
 | Projectbegeleider | Martha Lauría |
 | Bedrijf | Jungle Minds |

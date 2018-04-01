@@ -1,6 +1,6 @@
 # Inhoudsopgave
 
-* [Introduction](README.md)
+* [Introduction](./)
 
 ## 1. Introductie
 
@@ -23,7 +23,7 @@
 ## Deliverables
 
 * [Deliverables](deliverables/deliverables.md)
-* [Projectvoorstel](deliverables/projectvoorstel-de.md)
+* [Projectvoorstel](https://github.com/CMDA18/Productbiografie/tree/d16c777de30a11c9cf842b51b021115339af451d/deliverables/projectvoorstel-de.md)
 * [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
 * [Design Brief](deliverables/design-brief.md)
 * [Planning](deliverables/planning.md)
@@ -34,6 +34,7 @@
 * [Eindpresentatie](deliverables/eindpresentatie.md)
 
 ## -
-* [Woordenlijst](woordenlijst.md)
-* [Bibliografie](bibliografie.md)
+
+* [Woordenlijst](_/woordenlijst.md)
+* [Bibliografie](_/bibliografie.md)
 
