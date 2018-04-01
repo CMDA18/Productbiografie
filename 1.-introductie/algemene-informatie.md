@@ -24,7 +24,6 @@ Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 ## Contactgegevens Student:
 
 * Luisa Braga dos Santos
-* 06 – 41025262
 * luisa.braga.dos.santos@hva.nl
 * luisa.braga@jungleminds.nl
 
