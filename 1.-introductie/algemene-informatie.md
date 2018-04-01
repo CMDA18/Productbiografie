@@ -1,5 +1,5 @@
 ---
-description: 'Informartie over student, docentbegeleider en bedrijf.'
+description: 'Informatie over student, projectbegeleider en bedrijf.'
 ---
 
 # Algemene informatie
@@ -17,7 +17,7 @@ Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 | --- | --- |
 | Startdatum | 05.02.2018 |
 | Eindatum | 29.06.2018 |
-| Stagebegeleider | Martha Lauría |
+| Projectbegeleider | Martha Lauría |
 | Bedrijf | Jungle Minds |
 | Functie | Frontend developer |
 
@@ -35,7 +35,7 @@ Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 * 1031 HX Amsterdam
 * [www.jungleminds.nl/](https://www.jungleminds.nl/)
 
-## Contactgegevens Docentbegeleider:
+## Contactgegevens Projectbegeleider:
 
 * Martha Lauría
 * m.a.lauria.baca@hva.nl
