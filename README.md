@@ -1,4 +1,4 @@
-# Introduction
+# Afstudeerproject: Welkom to the Jungle
 
 Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 
