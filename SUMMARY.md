@@ -24,7 +24,7 @@
 ## Deliverables
 
 * [Deliverables](deliverables/deliverables.md)
-* Projectvoorstel
+* [Projectvoorstel](deliverables/projectvoorstel.md)
 * [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
 * [Design Brief](deliverables/design-brief.md)
 * [Planning](deliverables/planning.md)
