@@ -23,15 +23,15 @@
 ## Deliverables
 
 * [Deliverables](deliverables/deliverables.md)
-* [Projectvoorstel](deliverables/projectvoorstel-deliverablesdeliverables.md.md)
-* [Pitch projectvoorstel](deliverables/pitch-projectvoorstel-deliverablesdeliverables.md.md)
-* [Design Brief](deliverables/design-brief-deliverablesdeliverables.md.md)
+* [Projectvoorstel](deliverables/projectvoorstel-de.md)
+* [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
+* [Design Brief](deliverables/design-brief.md)
 * [Planning](deliverables/planning.md)
-* [Feedback Frenzy](deliverables/feedback-frenzy-deliverablesfeedback-frenzy.md.md)
-* [Groenlicht presentatie](deliverables/groenlicht-presentatie-deliverablesgroenlicht-presentatie.md.md)
-* [Eindoplevering](deliverables/eindoplevering-deliverableseindoplevering.md.md)
-* [Promovideo](deliverables/promovideo-deliverablespromovideo.md.md)
-* [Eindpresentatie](deliverables/eindpresentatie-deliverableseindpresentatie.md.md)
+* [Feedback Frenzy](deliverables/feedback-frenzy.md)
+* [Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
+* [Eindoplevering](deliverables/eindoplevering.md)
+* [Promovideo](deliverables/promovideo.md)
+* [Eindpresentatie](deliverables/eindpresentatie.md)
 * [Woordenlijst](deliverables/woordenlijst.md)
 * [Bibliografie](deliverables/bibliografie.md)
 
