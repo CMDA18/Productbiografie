@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Inhoudsopgave](inhoudsopgave.md)
 
 ## 1. Introductie
 
@@ -23,7 +24,7 @@
 ## Deliverables
 
 * [Deliverables](deliverables/deliverables.md)
-* [Projectvoorstel](deliverables/projectvoorstel-de.md)
+* Projectvoorstel
 * [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
 * [Design Brief](deliverables/design-brief.md)
 * [Planning](deliverables/planning.md)
@@ -32,6 +33,9 @@
 * [Eindoplevering](deliverables/eindoplevering.md)
 * [Promovideo](deliverables/promovideo.md)
 * [Eindpresentatie](deliverables/eindpresentatie.md)
-* [Woordenlijst](deliverables/woordenlijst.md)
-* [Bibliografie](deliverables/bibliografie.md)
+
+## \_
+
+* [Woordenlijst](woordenlijst.md)
+* [Bibliografie](bibliografie.md)
 

@@ -1,4 +1,4 @@
 # Bibliografie
 
-Documenten voor mijn afstudeerproject.
+Bibliografie
 

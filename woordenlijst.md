@@ -1,4 +1,4 @@
 # Woordenlijst
 
-Documenten voor mijn afstudeerproject.
+Woordenlijst
 
