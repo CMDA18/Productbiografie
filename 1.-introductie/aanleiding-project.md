@@ -12,7 +12,7 @@ Voor de periode van februari tot en met juni ga ik mij bezig houden met mijn afs
 
 ### **Jungle Minds **
 
-Bij Jungle Minds draait alles om de gebruikswaarde, het maken van digitale producten die ons dagelijks leven beter maken. De technologie en het design dat problemen oplost, interactie stimuleert en een goede ervaring biedt. Dingen waarvan we zelf als gebruiker vinden, ‘fijn dat iemand daar goed over heeft nagedacht’. 
+“Bij Jungle Minds draait alles om de gebruikswaarde, het maken van digitale producten die ons dagelijks leven beter maken. De technologie en design die problemen oplossen, interactie stimuleren en een goede ervaring bieden. Dingen waarvan we zelf als gebruiker vinden, ‘fijn dat iemand daar goed over heeft nagedacht’.” \(Jungle Minds, z.j., p.9\)
 
 #### Jungle formula 
 
