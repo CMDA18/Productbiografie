@@ -21,10 +21,20 @@
 ## 3. Ontwerp
 
 * [Inleiding](3.-ontwerp/inleiding.md)
+* [Comparison chart](3.-ontwerp/comparison-chart.md)
+* [Inspiration wall](3.-ontwerp/inspiration-wall.md)
+* [Concept: 10 ideeën](3.-ontwerp/concept-10-ideeen.md)
+* [Concept: 3 ideeën](3.-ontwerp/concept-3-ideeen.md)
+* [Risk analyse: 3 ideeën](3.-ontwerp/risk-analyse-3-ideeen.md)
 
 ## 4. Prototyping
 
 * [Inleiding](4.-prototyping/inleiding.md)
+* [Prototype v0.1](4.-prototyping/prototype-v0.1.md)
+* [Prototype v0.3](4.-prototyping/prototype-v0.3.md)
+* [Prototype v0.6](4.-prototyping/prototype-v0.6.md)
+* [Prototype v0.9](4.-prototyping/prototype-v0.9.md)
+* [Prototype v1.0](4.-prototyping/prototype-v1.0.md)
 
 ## Deliverables
 
