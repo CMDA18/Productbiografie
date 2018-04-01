@@ -6,7 +6,7 @@
 
 * [Algemene informatie](1.-introductie/algemene-informatie.md)
 * [Aanleiding Project](1.-introductie/aanleiding-project.md)
-* Inleiding
+* [Inleiding](1.-introductie/inleiding.md)
 
 ## 2. Verkenning
 
