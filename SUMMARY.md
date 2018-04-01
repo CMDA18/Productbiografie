@@ -8,18 +8,6 @@
 * [Aanleiding Project](1.-introductie/aanleiding-project.md)
 * [Inleiding](1.-introductie/inleiding.md)
 
-## 2. Verkenning
-
-* --
-
-## 3. Idee ontwikkeling
-
-* --
-
-## 4. Realisatie
-
-* --
-
 ## Deliverables
 
 * [Deliverables](deliverables/deliverables.md)

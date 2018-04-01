@@ -1,7 +1,3 @@
----
-description: 'Informatie over student, projectbegeleider en bedrijf.'
----
-
 # Algemene informatie
 
 Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
