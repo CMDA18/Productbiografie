@@ -36,7 +36,7 @@
 * [Prototype v0.9](4.-prototyping/prototype-v0.9.md)
 * [Prototype v1.0](4.-prototyping/prototype-v1.0.md)
 
-## Opleiding deliverables
+## Deliverables
 
 * [Deliverables](opleiding-deliverables/deliverables.md)
 * [Projectvoorstel](opleiding-deliverables/projectvoorstel.md)
@@ -49,9 +49,9 @@
 * [Promovideo](opleiding-deliverables/promovideo.md)
 * [Eindpresentatie](opleiding-deliverables/eindpresentatie.md)
 
-## Eigen deliverables
+## Onderzoek methodes
 
-* [Interviews](eigen-deliverables/interviews.md)
+* [Interviews](onderzoek-methodes/interviews.md)
 
 ## \_
 
