@@ -3,6 +3,10 @@
   background-color: #03344A;
 }
 
+._1n7bqv {
+    background-color: darkcyan;
+}
+
 .book-summary ul.summary li.header {
   color: #fff;
   font-weight: 700;
