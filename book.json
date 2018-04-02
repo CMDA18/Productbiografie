@@ -1,6 +1,10 @@
 {
-  "plugins": ["styles-sass"],
-  "styles": {
-      "website": "./styles/website.sass"
+  "plugins": ["custom-js-css"],
+  "pluginsConfig": {
+    "custom-js-css": {
+      "css": [
+        "./styles/website.css"
+      ]
+    }
   }
 }
