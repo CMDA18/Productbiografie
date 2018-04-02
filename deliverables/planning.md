@@ -19,7 +19,7 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 ## Planning
 
 * [Project voorstel](planning.md#project-voorstel): Week 0/2
-* [Research](planning.md#research): Week 3/6
+* [Onderzoek](planning.md#onderzoek): Week 3/6
 * [Ontwerp](planning.md#ontwerp): Week 7/9
 * [Prototyping](planning.md#prototyping): Week 10/17
 * [Afronding](planning.md#afronding): Week 18/20
@@ -33,7 +33,7 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 |  | [Design Brief](design-brief.md) | Literature Study / Interview |
 |  | [Planning](planning.md) |  |
 
-### Research
+### Onderzoek
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
