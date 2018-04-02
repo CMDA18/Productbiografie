@@ -2,7 +2,11 @@
 
 ## Jungle Minds 
 
-> Een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland gericht op user-value. \(Minds, z.j.\)
+Het bedrijf Jungle Minds bestaat al sinds 2000 en is werkt user centered. 
+
+> Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.
+
+[https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)
 
 ## Missie, visie & Inspiratie
 
