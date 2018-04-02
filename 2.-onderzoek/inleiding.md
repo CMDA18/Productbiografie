@@ -4,11 +4,11 @@
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
-| Week 3/6 | [Mood board Jungle Minds](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/mood-board-jungle-minds) | Interview / Survey / Fly on the wall |
-|  | [Customer journey \(huidige situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-huidige-situatie) | Orienting Expert Interview / Survey / Context mapping |
-|  | [Customer journey \(gewenste situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-gewenste-situatie) | Interview / Survey / Context mapping |
-|  | [Requirements list](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/requirements-list) | Orienting Expert Interview / Interview / Survey / Literature Study |
-|  | [Content richtlijnen](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/content-richtlijnen) | Orienting Expert Interview / Interview / Survey / Literature Study / Storytelling |
+| Week 3/6         | [Mood board Jungle Minds](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/mood-board-jungle-minds) | Interview / Survey / Fly on the wall |
+| Week 3/9 | [Customer journey \(huidige situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-huidige-situatie) | Orienting Expert Interview / Survey / Context mapping |
+| Week 3/9 | [Customer journey \(gewenste situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-gewenste-situatie) | Interview / Survey / Context mapping |
+| Week 6/8 | [Requirements list](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/requirements-list) | Orienting Expert Interview / Interview / Survey / Literature Study |
+| Week 9 | [Content richtlijnen](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/content-richtlijnen) | Orienting Expert Interview / Interview / Survey / Literature Study / Storytelling |
 
 ## Reflectie
 
