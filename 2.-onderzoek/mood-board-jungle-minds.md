@@ -2,6 +2,10 @@
 
 ## Interview
 
+TODO: Inleiding doel van de interviews, wat ik eruit wilde halen.
+
+TODO: Een samenvatting van de insights uit de interviews.
+
 {% tabs %}
 {% tab title="Managing Partner" %}
 ### De geïnterviewde
@@ -141,8 +145,67 @@
 * tijdlijn samenvatting welkom to the jungle belangrijke data
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="HR Manager" %}
 ### De geïnterviewde
+
+![](../.gitbook/assets/hr_alexandra.png)
+
+### Het bedrijf
+
+* **Waar staat Jungle Minds voor?** lastig om te omschrijven. Handboek te lezen, want als ik product niveau en personeel. informatie uithalen uit de handboek en website. Presentaties van jungle day. 
+* **Wat is de missie van Jungle Minds? **Me 
+* **Wat is de visie van Jungle Minds? **leading partner te zij user experience te gebruike toetepassen in producten. en daar altijd meaningful difference in te geven. 
+* **Hoe straalt Jungle Minds haar missie en visie?**  
+  naar buiten toe uitstrallen&gt; website en vertellen naar klanten tijdens presentaties. ervaren op welke manier we producten doen.
+
+  intern&gt; blijven herhallen op jungle3 days. iets wat van osn allemaal hoort.  
+
+* **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - andere bureaus huge \(inspiratie bron voor de heren\) wij vergelijekn ons niet echt met andere bureaus. 
+* **Waar bent je het meeste trots op van het bedrijf?** dat wij echt mooie dingen maken. we krijgen veel gedaan, bedrijven in beweging en maken echt producten die een vershcil betekenen die echt heel geod zijn voor de gebruikers en op een manier die wij zelf niet arrogant op worden. wij blijven hetzelfde. mensen zijn altijd opzoek naar verbetreing maart op ene nuttire manier. 
+
+### Medewerkers
+
+* **Uit hoeveel medewerkers bestaat het bedrijf? **Ongeveer 50 mensen. 
+* **Werken jullie ook met internationale medewerkers?** J 
+* **Wat is de visie van het bedrijf bij het groeien maar niet groter worden dan 50 medewerkers?** J
+
+### Inwerk procedures en Informatievoorzieningen
+
+* **Wat is jullie "normale"procedure bij een nieuwe medewerker?**  
+  - als ieman in dienst kotm, krijgt hij
+
+  - Personeelsgids. Praktische dingen
+
+  - rondleding door het pand  
+  - uitleggen sleutes en code  
+  - sessie met HR  
+  - Joyce verteld over timetell  
+  - Bart vertelt over de missie ne vissie. ontstaan van jungle minds en ontwikeling  
+  - Vanuit tribe legt iemand uit hoe daar dingen aan toe gaat, hoe de map structuur.  
+  
+
+* **Welke informatie geven jullie aan een nieuwe medewerker?** - H 
+* **Welke informatie vindt u noodzakelijk dat een medewerker moet weten vanuit het bedrijf?**  
+  - visie van het bedrijf
+
+  - Praktische zaken in projecten, dropbox, samenvwerking, hoe het werkt.
+
+  - praktische zaken, zoals wifi bij wie je terechtmoet  
+  - informatie over personeelsbeleid &gt; wat voor verzekering we hebben  
+  - processen, orgenisatie inrichtingen. OKR's met elkaar verbiending staat.  
+  - hyper tribe. 1 x in 6 weken.  
+  - jaar planning \(jungle days\)  
+
+* **Is er iets wat u zal willen veranderen aan de manier waarop nieuwe medewerkers worden ingewerkt?** - O 
+* **Hoe wordt nu de identiteit van Jungle Minds overgebracht aan de nieuwe medewerkers? **C 
+* **Wat beschouwt u als inhoudelijke informatie over het bedrijf? -** k
+
+### Tips, ideeën en opmerkingen
+
+*  _programma's &gt; welke lisenties wij hebben. bij wie je terecht kan \(sadie, astrid\)_
+* dropbox mapstructuur&gt; duidelijk uitleg. \(projectleiders\)
+* Hoe wij in projecten te werk gaan \(projectmanagers\)
+* Structuur kan geven aan jezelf.
 {% endtab %}
 {% endtabs %}
 
