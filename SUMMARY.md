@@ -49,12 +49,11 @@
 * [Promovideo](deliverables/promovideo.md)
 * [Eindpresentatie](deliverables/eindpresentatie.md)
 
-## \_
-
-* [Woordenlijst](_/woordenlijst.md)
-* [Bibliografie](_/bibliografie.md)
-
 ## Eigen deliverables
 
 * [Interviews](interviews.md)
 
+## \_
+
+* [Woordenlijst](_/woordenlijst.md)
+* [Bibliografie](_/bibliografie.md)
