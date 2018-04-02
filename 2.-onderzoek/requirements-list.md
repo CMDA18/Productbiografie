@@ -45,5 +45,7 @@ Aan de hand van de probleemsituatie en mijn ontwerpvraag heb ik gekeken naar de 
 
 ### Survey
 
+![](../.gitbook/assets/screen-shot-2018-04-02-at-19.42.19%20%282%29.png)
+
 ### Literature Study
 

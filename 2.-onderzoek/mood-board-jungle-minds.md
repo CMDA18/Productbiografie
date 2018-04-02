@@ -285,6 +285,8 @@ TODO: Een samenvatting van de insights uit de interviews.
 
 ### Survey
 
+![](../.gitbook/assets/screen-shot-2018-04-02-at-19.41.19.png)
+
 Resultaten uit de enquete hoe mensen het bedrijf Jungle Minds beschrijven.
 
 | **Beschrijving** | **Aantal keer** |

@@ -10,5 +10,7 @@
 
 ### Survey
 
+![](../.gitbook/assets/screen-shot-2018-04-02-at-19.41.53.png)
+
 ### Context mapping
 
