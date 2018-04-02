@@ -1,10 +1,76 @@
 # Mood board Jungle Minds
 
-## Interview
+## Jungle Minds 
 
+> Een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland gericht op user-value. \(Minds, z.j.\)
+
+## Missie, visie & Inspiratie
+
+### Missie
+
+De missie van Jungle Minds wordt op verschillende manier omgeschreven. In hun website wordt Jungle Minds beschreven als:
+
+>
+
+
+
+### Visie
+
+#### Human, business, shape
+
+![](https://files.nuclino.com/files/13a28f71-5dde-46b6-89e1-528297e0d566/Screen%20Shot%202018-02-26%20at%2011.04.34.png)
+
+Dit zijn de kernwoorden van onze visie. Welk vraagstuk je ons ook voorlegt, ons team vertegenwoordigt altijd deze drie invalshoeken. Ze helpen ons het probleem te ontrafelen en waardevolle verbindingen te vinden tussen gebruikers en merken. \(Minds, z.j.\)
+
+#### Klein team, korte cyclus
+
+![](https://files.nuclino.com/files/49040ae5-f21c-4279-8ae3-7634d6158f1b/Screen%20Shot%202018-02-26%20at%2011.04.39.png?preview=o)
+
+We houden van grote ambities maar wel in kleine, snelle stappen. Omdat we weten dat je zo tot een beter en sneller resultaat komt. We itereren vaak, valideren snel en zoeken voortdurend input van onze partners.  \(Minds, z.j.\)
+
+#### Co-client
+
+![](https://files.nuclino.com/files/5294dfac-d645-4b18-9182-7298a8739c5b/Screen%20Shot%202018-02-26%20at%2011.04.43.png)
+
+Is hoe we met onze opdrachtgevers samenwerken. Onze klanten zijn onlosmakelijk verbonden met ons team en onze manier van werken. Alleen zo leren we je business echt kennen en kunnen we begrijpen welke veranderingen nodig zijn. \(Minds, z.j.\)
+
+### Inspiratie
+
+{% hint style="danger" %}
+TODO: Inspiratie 
+{% endhint %}
+
+## Identiteit & merkbeleving
+
+{% hint style="danger" %}
+TODO: Identiteit & merkbeleving
+{% endhint %}
+
+## Huisstijl
+
+{% hint style="danger" %}
+TODO: Voeg huistijl PDF toe 
+{% endhint %}
+
+![](../.gitbook/assets/0001.jpg)
+
+
+
+![](../.gitbook/assets/0002.jpg)
+
+![](../.gitbook/assets/0003.jpg)
+
+## Onderzoek
+
+{% hint style="danger" %}
 TODO: Inleiding doel van de interviews, wat ik eruit wilde halen.
+{% endhint %}
 
+{% hint style="danger" %}
 TODO: Een samenvatting van de insights uit de interviews.
+{% endhint %}
+
+### Interview
 
 {% tabs %}
 {% tab title="Managing Partner" %}
@@ -43,7 +109,11 @@ TODO: Een samenvatting van de insights uit de interviews.
 ### Tips, ideeën en opmerkingen
 
 *  _Het product zal gedeeld kunnen worden in 2 delen namelijk: - Deel 1: Wat wij, Jungle Minds, belangrijk vinden als normen en waarden. - Deel 2:_ Wat de manier van werken is van _Jungle Minds.  - Hoe wij een bepaalde keuze maken en waar het van afhangt.  - Hoe wij werken \(sprints, design sprints van een week\)  - Welke research wij doen bij een fase._
-* Zie de presentatie van afgelopen "Jungle day" voor meer informatie over het bedrijf. [TODO: PDF file toevoegen 2018.02.08.JD1\_PUBLIC.pdf](https://files.nuclino.com/files/8a977453-24e8-4f67-ab8a-9092d5329052/2018.02.08.JD1_PUBLIC.pdf)
+* Zie de presentatie van afgelopen "Jungle day" voor meer informatie over het bedrijf.
+
+{% hint style="danger" %}
+[TODO: PDF file toevoegen 2018.02.08.JD1\_PUBLIC.pdf](https://files.nuclino.com/files/8a977453-24e8-4f67-ab8a-9092d5329052/2018.02.08.JD1_PUBLIC.pdf)
+{% endhint %}
 {% endtab %}
 
 {% tab title="Managing Partner" %}
@@ -209,7 +279,7 @@ TODO: Een samenvatting van de insights uit de interviews.
 {% endtab %}
 {% endtabs %}
 
-## Survey
+### Survey
 
-## Fly on the wall
+### Fly on the wall
 
