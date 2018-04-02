@@ -4,7 +4,7 @@
 }
 
 ._1n7bqv {
-    background-color: darkcyan;
+    background-color: darkcyan; !important
 }
 
 .book-summary ul.summary li.header {
