@@ -22,16 +22,16 @@
 
 ## Deliverables
 
-* [Deliverables](deliverables/deliverables.md)
+* [Deliverables](opleiding-deliverables/deliverables.md)
 * [Projectvoorstel](https://github.com/CMDA18/Productbiografie/tree/d16c777de30a11c9cf842b51b021115339af451d/deliverables/projectvoorstel-de.md)
-* [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
-* [Design Brief](deliverables/design-brief.md)
-* [Planning](deliverables/planning.md)
-* [Feedback Frenzy](deliverables/feedback-frenzy.md)
-* [Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
-* [Eindoplevering](deliverables/eindoplevering.md)
-* [Promovideo](deliverables/promovideo.md)
-* [Eindpresentatie](deliverables/eindpresentatie.md)
+* [Pitch projectvoorstel](opleiding-deliverables/pitch-projectvoorstel.md)
+* [Design Brief](opleiding-deliverables/design-brief.md)
+* [Planning](opleiding-deliverables/planning.md)
+* [Feedback Frenzy](opleiding-deliverables/feedback-frenzy.md)
+* [Groenlicht presentatie](opleiding-deliverables/groenlicht-presentatie.md)
+* [Eindoplevering](opleiding-deliverables/eindoplevering.md)
+* [Promovideo](opleiding-deliverables/promovideo.md)
+* [Eindpresentatie](opleiding-deliverables/eindpresentatie.md)
 
 ## -
 
