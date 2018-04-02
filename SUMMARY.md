@@ -36,7 +36,7 @@
 * [Prototype v0.9](4.-prototyping/prototype-v0.9.md)
 * [Prototype v1.0](4.-prototyping/prototype-v1.0.md)
 
-## Deliverables
+## Opleiding deliverables
 
 * [Deliverables](deliverables/deliverables.md)
 * [Projectvoorstel](deliverables/projectvoorstel.md)
@@ -53,4 +53,8 @@
 
 * [Woordenlijst](_/woordenlijst.md)
 * [Bibliografie](_/bibliografie.md)
+
+## Eigen deliverables
+
+* [Interviews](interviews.md)
 
