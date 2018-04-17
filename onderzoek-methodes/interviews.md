@@ -2,11 +2,13 @@
 
 ## Managing Partner: Kars
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/7261f7e6-d560-418b-a782-bfe7c61152a0/Screen%20Shot%202018-02-28%20at%2016.39.02.png)
 
-### Het bedrijf
+#### Het bedrijf
 
 * **Waar staat Jungle Minds voor?** De ambitie van Jungle Minds is om bepaalde merken te helpen om aan hun doelgroep gebruikswaarden te geven, waarin digital central staat. Digital is iets wat je tegenwoordig steeds minder hoeft te benoemen omdat tegenwoordig is digital al helemaal in. Dit doen we met een groep van 50 mensen van verschillende disciplines die samen werken om een kwalitatief product aan te leveren en dat maakt Jungle Minds onderscheidend. 
 * **Wat is de missie van Jungle Minds? **Merken te helpen om aan hun doelgroep gebruikswaarden te geven, waarin digital central staat. 
@@ -15,7 +17,7 @@
 * **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - Technologie inspireert ons enorm, want daar is natuurlijk waar ons werk omdraait. - Maar internationale bureau is ook iets wat wij vaak naar uitkijken. We willen zien hoe zij eruit zien en wat voor werk zij doen. Voorbeeld van deze bedrijven zijn: [ideal](https://www.ideal.nl/en/), [huge](https://www.hugeinc.com/) , [fabrique](https://www.fabrique.nl/?gclid=Cj0KCQiA5t7UBRDaARIsAOreQtgTjeZW5xnUnLl5_GE2vOh9JBZ2YjMIpOIwbZ5acElmj35N3ZdbLQ8aAodLEALw_wcB). We kijken niet alleen naar bureaus die als Jungle Minds zijn, maar naar hoe bedrijven zich ontwikkelen, daar kunnen we veel van leren. Ook met ons eigen klanten bedrijven leren we veel gedurende het traject, die zijn vaak veel van beïnvloeding van wat wij hier doen. - Ook leren wij veel van de Jungle pro's, deze zitten bij onze klanten en zijn goeie professionals die weten waar ze over hebben. 
 * **Waar bent u het meeste trots op van het bedrijf?** Combinatie van professionaliteit en cultuur die we heir hebben gezet. we zijn in staat om goed met klanten te werken iets professionels opleveren en nog leuk werken. 
 
-### Medewerkers
+#### Medewerkers
 
 * **Uit hoeveel medewerkers bestaat het bedrijf? **Ongeveer 50 mensen. 
 * **Werken jullie ook met internationale medewerkers?** Ja, niet alleen medewerkers maar ook klanten. Ons toekomst zicht is dat we steeds meer gaan werken met internationale medewerkers dus het is essential dat wij een switch maken naar het engels. Wij zijn al met deze switch begonnen door ons "Monday mornings" en "Jungle days" in het engels te geven. 
@@ -25,7 +27,7 @@
 
   _Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf maar dan net op een andere manier. Het zal voor ons als bedrijf fijn zijn om hun ook vaker te kunnen betrekken in ons visie en missie. Zo kunnen ze ook een idee hebben in wat allemaal zich afspeelt en waarom wij bepaalde keuzes maken._
 
-### Inwerk procedures en Informatievoorzieningen
+#### Inwerk procedures en Informatievoorzieningen
 
 * **Wat is jullie "normale"procedure bij een nieuwe medewerker?** - Eerst twee dagen bij de hand genomen om alles te laten zien van lunch tot timetell. - Daarna word je gekoppeld aan een buddy, daar kan je terecht als je vragen hebt. - Wij kiezen een eerst project uit waarvan wij verwachten dat de nieuwe medewerker goed zal kunnen meedraaien om alle procedures te ervaren. 
 * **Welke informatie geven jullie aan een nieuwe medewerker?** - Handboek - Personeelgids - Toegang tot slack enzo \(maar niet gestructureerd aangegeven\) - Welkom to the jungle presentatie 
@@ -41,11 +43,13 @@
 
 ## Managing Partner: Bart
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/13f95181-41e4-4a36-8ec0-8ff49c77b2aa/Screen%20Shot%202018-03-02%20at%2011.06.36.png)
 
-### Het bedrijf
+#### Het bedrijf
 
 * **Waar staat Jungle Minds voor?**  
   bureau: staan we voor digitale inovatie en verbetering &gt; brand produtcs en team. strategisch niveau merken verbetren. op alle niveaus beter scheiden voor gebruikers onderscheidend te maken
@@ -56,9 +60,9 @@
 * **Wat is de visie van Jungle Minds? **E 
 * **Hoe straalt Jungle Minds haar missie en visie?** _onafhankelijkheid ,_ identiteit. is nog veel te doen. rebranding in de missie die wij hebben als bureau . zowel extern als intern. intern communicatie is veel beter dan onze externe. we zijn een introvert bureau. vooral buiten profieliee kan intelligenten. 
 * **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** -ideo &gt; speach vab south soith west. strategisch bureau en hoe z eom gaan met de vraagstukken. - werknemerschap kan aller kant opkomen. - digitale spellers&gt; overgenomen van google over tribes. - toffe communicatie maken 
-* **Waar bent u het meeste trots op van het bedrijf?** op de sfeer die wij onderling hebben. troef kaart - onafhankelijkheid, blijft herhallen maar dat is feitelijk alles waarmee begint. opdrachtevers tof zijn, kan leiden tot onprofessiopnele gedrag , dus kan ytegen je zeer keren maar 9/10 gevallen is goeie eigenschap. transparent, mensen motiveren om beter te worden in hun vak. 
+* **Waar bent u het meeste trots op van het bedrijf?** op de sfeer die wij onderling hebben. troef kaart - onafhankelijkheid, blijft herhallen maar dat is feitelijk alles waarmee begint. opdrachtevers tof zijn, kan leiden tot onprofessiopnele gedrag , dus kan ytegen je zeer keren maar 9/10 gevallen is goeie eigenschap. transparent, mensen motiveren om beter te worden in hun vak.
 
-### Medewerkers
+#### Medewerkers
 
 * **Uit hoeveel medewerkers bestaat het bedrijf? **50 
 * **Werken jullie ook met internationale medewerkers?**  
@@ -69,7 +73,7 @@
 
 * **Wat is de visie van het bedrijf bij het groeien maar niet groter worden dan 50 medewerkers?** jungle pros's belangrijk - welkom to the jungle presentatie - criteria voor jungle pro's zouden eigenlijk een op een zelfde moeten zijn als jungle minds medewerkers.
 
-### Inwerk procedures en Informatievoorzieningen
+#### Inwerk procedures en Informatievoorzieningen
 
 * **Wat is jullie "normale"procedure bij een nieuwe medewerker?** - Eeen van de drie presentatie doe van de welkom to the jungle - bos bloemen en computer is geregeld - detail is meer met alexandra - tribe speelt een rol - handboek op de website 
 * **Welke informatie geven jullie aan een nieuwe medewerker?** - H 
@@ -105,11 +109,13 @@
 
 ## Resource Manager: Joyce
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/cc01df5b-06fc-43e0-b283-fc8902e0cdfc/Screen%20Shot%202018-03-02%20at%2011.16.30.png)
 
-### Het bedrijf
+#### Het bedrijf
 
 * **Waar staat Jungle Minds voor?** Eeen bureau waarde toevoeged vor klanten en gebruikers. mnaken van mooie goedwerkende we producten 
 * **Wat is de missie van Jungle Minds? **gebruikerswaarde toevoegen/bieden 
@@ -119,7 +125,7 @@
 * **Waar bent u het meeste trots op van het bedrijf?** op de cultuur die we hier hebben. moeilijk om ergens anders te vinden. Met elkaar omgaan. 
 * **Omschrijf jouw functie binnen het bedrijf?** plan ik mensen, de juiste mensen op de juiste planning gepland worden. Puzzle dagelijks, soft project management voor kleine projecten. Grote rol in uren e project admnistratie.
 
-### Procedures en Informatie
+#### Procedures en Informatie
 
 * **Wat beschouwt u als inhoudelijke informatie over het bedrijf? -** H
 * **Welke zijn de procedures binnen Jungle Minds wat een project betreft?** - Standarts project: - Bedrijf rechtsstreeks of zelf promoten - Maken voorstel of workshop fase om te laten zien wat we de klanten kunne binnen. - Als het bevalt gaat het akkord met een bepaalde budget. - Project leider maakt een plan van hoeveel mensen gaan werken en budget - eerste concept - design - bouwen  budget speelt grote rol , ambtie van de klant. 
@@ -128,7 +134,7 @@
 * **Welke informatie vindt u noodzakelijk dat een medewerker moet weten over het bedrijf?** - missie en vissie &gt; goed op de hoogte - achtergrond, geschiedenis - Cultuur behouden door geod kenismakingsgesprekken met iedereen - Financieel door strakke uren proces. \(kars ligt het uit, voor de transparantie\) - Hoe werken we. de werkwijze, welke tools en welke procesen er zijn om achter een bepaalde dingen te komen. 
 * **Is er iets wat u zal willen veranderen aan de manier waarop nieuwe medewerkers worden ingewerkt?** - verbeterd afgelopen maande maar het blijft lastig omdat verschil in wat iemand kan, en junior is meestal lastig omadat het best een intensief traject kan zijn qua beschikbaarheid, 
 
-### Tips, ideeën en opmerkingen
+#### Tips, ideeën en opmerkingen
 
 *  dingen die met jungleminds te maken hebben zoals pondtijd
 * manieren heo je kan dingen reserveerd, ruoimte auto
@@ -140,11 +146,13 @@
 
 ## HR Manager : Alexandra
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/c14a9941-8802-4fbc-9a32-bfccc4349e97/Screen%20Shot%202018-03-02%20at%2011.06.51.png)
 
-### Het bedrijf
+#### Het bedrijf
 
 * **Waar staat Jungle Minds voor?** lastig om te omschrijven. Handboek te lezen, want als ik product niveau en personeel. informatie uithalen uit de handboek en website. Presentaties van jungle day. 
 * **Wat is de missie van Jungle Minds? **Me 
@@ -157,13 +165,13 @@
 * **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - andere bureaus huge \(inspiratie bron voor de heren\) wij vergelijekn ons niet echt met andere bureaus. 
 * **Waar bent je het meeste trots op van het bedrijf?** dat wij echt mooie dingen maken. we krijgen veel gedaan, bedrijven in beweging en maken echt producten die een vershcil betekenen die echt heel geod zijn voor de gebruikers en op een manier die wij zelf niet arrogant op worden. wij blijven hetzelfde. mensen zijn altijd opzoek naar verbetreing maart op ene nuttire manier. 
 
-### Medewerkers
+#### Medewerkers
 
 * **Uit hoeveel medewerkers bestaat het bedrijf? **Ongeveer 50 mensen. 
 * **Werken jullie ook met internationale medewerkers?** J 
 * **Wat is de visie van het bedrijf bij het groeien maar niet groter worden dan 50 medewerkers?** J
 
-### Inwerk procedures en Informatievoorzieningen
+#### Inwerk procedures en Informatievoorzieningen
 
 * **Wat is jullie "normale"procedure bij een nieuwe medewerker?**  
   - als ieman in dienst kotm, krijgt hij
@@ -203,7 +211,9 @@
 
 ## Team Designer: Claire
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/2e3e0cb3-41f2-4df7-b847-3937ac40e2e4/Screen%20Shot%202018-03-02%20at%2011.12.00.png)
 
@@ -217,25 +227,29 @@
 
 * **Zijn pro's informatie van junglmihds **- Introductie brief met email - timetell instructie - Opdrachten overeenkomst met juridische dingen als contract - En nu aan het kijken voor een onboarding gids voor freelancers maar daar zijn we nog niet aan toe. - we geven geen informatie over jungle minds zelf als in nromen en warden.
 
-### Inwerkperiode toen
+#### Inwerkperiode toen
 
 * **Hoe heb je jouw inwerkperiode ervaard? **ik ben nog steeds mee bezig met wennen omdat ik vanuit en hele andere vakgebied kom. Alle termen, productie moet ik nog aan wennen. Dit komt wel toot je door door met mensen te praten. kennismakingsgesprek. Freelancers geprak wat zijn rollen zijn, waar ze tegen aan lopen. Sfeer vond ik meteen erg fijn. In begin had ik meteen een bosbloemen aan tafel. is een kleine gebaar maar geeft aan dat ze aan je denken. Ik heb veel met ernst mee lopen en hij heeft mij veel laten zien en geleerd. Maar ik ben nog stees op zoek naar wat mijn rol precies is binnen het bedrijf. Prettig open omgeving &gt;&gt; voelde me erg onwetend en mensen stonden open om uit te leggen en prettig et me omgingen. 
 * **Door wie werd je begeleid?** Ernst en maikel. 
 * **Had je voor dat je bent komen werken al bepaalde informatie over het bedrijf gezocht? Zo ja wat?** ik kom heir cia Jessica, veel informatie gegeven en verteld hoe zij het heeft ervaard. dus over cultuur en type bedrijf. - uitgelegd hoe ze hier werken. - Functies 
 * **Is er iets wat u zal willen veranderen aan de manier waarop nieuwe medewerkers worden ingewerkt? **aanvulling qua inhoudelijk mee te krijgen. zodat je weet hoe het werkt. Dit zal mij helpen om te weten wat ik moet zoeken bij mensen en of ze goed passen bij de groep. Vakinhoudelijk meer weten. Weten wnr je bij projecten zla kunenn kijken en wleke projecten er lopen. vanuit de organisatie daarna neem je he zelf op.
 
-### Inwerkperiode nu
+#### Inwerkperiode nu
 
 * **Begeleid je zelf ook nieuwe medewerkers?** nee 
 * **Welke informatie zal je geven aan een nieuwe medewerker als je die zal moeten begeleiden?** - personeel gids dike je krijgt staat veel in over het bedrijf \(website\) - Doelen ideeen 
 * **Hoe heb je de cultuur van Jungle Minds ervaart?** - bloemen , kleine dingen die voelen dat je hele egr welkom bent - mensen stappen naar je toe om te vragen wat je gaat doen . - In begin ff zoeken je rol en heo je zelf in de organisatie inzet \(nog steeds zoeken\) - Wel heel fijn op ben genomen. - gevoel en vertrouwen dat je fouten mag maken en vragen mag stellen. 
-* Tips, ideeën en opmerkingen
-  *  _scrum training besproken hoe jm dingen aanpakt. - We hebben een project en we doen het zo &gt;&gt; meelopen met een rpoject en begrijpt hoe en waarom wij een bepaalde dingen aanpakken_
-  * JM faciliteert dat je bij vershcillende disciplines mee mag kijkejn en dat je begrijpt hoe zo een proces werkt. 
+
+### Tips, ideeën en opmerkingen
+
+*  _scrum training besproken hoe jm dingen aanpakt. - We hebben een project en we doen het zo &gt;&gt; meelopen met een rpoject en begrijpt hoe en waarom wij een bepaalde dingen aanpakken_
+* JM faciliteert dat je bij vershcillende disciplines mee mag kijkejn en dat je begrijpt hoe zo een proces werkt. 
 
 ## Visual Designer: Noor
 
-### De geïnterviewde
+### De interview
+
+#### De geïnterviewde
 
 ![](https://files.nuclino.com/files/12a2c6a8-0bb1-4510-af60-0de6f1c2f5f6/Screen%20Shot%202018-03-02%20at%2010.12.28.png)
 
@@ -244,14 +258,14 @@
 * **Hoe vaak per week werkte je in het begin? En nu? **Tijdens mijn stage werkte ik 5 dagen per week en nu werk ik 3 dagen in de week i.v.m. mijn afstudeerstage. 
 * **Wat is jouw expertise binnen het bedrijf? **Visual designer
 
-### Inwerkperiode toen
+#### Inwerkperiode toen
 
 * **Hoe heb je jouw inwerkperiode ervaard? **Goed, in het begin was het erg wennen omdat ik wist niet hoe alles werkte, de mensen en de manier van werken niet kende. Ik merkte een duidelijke verschil tussen school en hier. Op school was alles verspreid en hier zit meer vaart in. Wel vond ik dat mijn rol binnen het proces vaak ff zoeken was in het begin. 
 * **Door wie werd je begeleid?** Wessel Tijdens het werk zelf werd ik bij sommige projecten uitgelegd hoe het in elkaar zit en het huisstijl gebruik. Dit gebeurde niet direct maar kwam langzamerhand van toepassing. 
 * **Had je voor dat je bent komen werken al bepaalde informatie over het bedrijf gezocht? Zo ja wat?** Ja, veel zelf gelezen op hun website, daar ben ik de handboek tegengekomen. Die legt wat de algemene voorwaarden van het bedrijf zijn. 
 * **Is er iets wat u zal willen veranderen aan de manier waarop nieuwe medewerkers worden ingewerkt? **Ik ben zelf een person die het liefste stap voor stap alles wilt weten, bijvoorbeeld wat mijn taken zijn binnen de team, voor dat ik zelf aan de slag ga. Als stagiere weet je niet goed hoe alles binnen het bedrijf functioneert, hierdoor kreeg ik vaak het idee dat ik wilde weten wat er aan de hand was en waarom iets gebeurde. Hier wordt er verwacht dat je zelf rolt binnen de projecten en veel vragen steelt. Echter, zat ik steeds in mijn hoofd dat de projecten anders waren als je ging switchen maar achteraf bleek vaak dat niet het geval te zijn maar meer de mensen en hoe ze werkten waren anders.
 
-### Inwerkperiode nu
+#### Inwerkperiode nu
 
 * **Begeleid je zelf ook nieuwe medewerkers?** nee 
 * **Welke informatie zal je geven aan een nieuwe medewerker als je die zal moeten begeleiden?**  
@@ -267,4 +281,6 @@
 
 * **Welke informatie vindt u noodzakelijk dat een medewerker moet weten?** - Algemene informatie krijg je over het algemeen tijdens het sollicitatie gesprek. - Wat mij handig lijkt is om meer te weten over collega's zowel hun taken als hoe ze zijn als persoon. Dit omdat je met ze gaat werken en dat lijkt mij leuk. Hierdoor kan je beter inschatten wat jouw rol binnen het team is. 
 * **Hoe heb je de cultuur van Jungle Minds ervaart?** - _Ervaring_: Ik heb het prettig ervaart. Hier is iedereen heel open en de mis van disciplines is ook erg fijn, je merkt dat er weinig tot geen verschil is er tussen of tussen managers. - _Overdacht_: Dit gebeurt vaak door de "Monday mornings". Hierin krijgen we te horen waar Jungle Minds zich gaat bezig houden gedurende de week \(formeel\) maar ook dingen als kinderen die zijn geboren binnen het team of nieuwe medewerkers \(informeel\). 
+
+### Tips, ideeën en opmerkingen
 
