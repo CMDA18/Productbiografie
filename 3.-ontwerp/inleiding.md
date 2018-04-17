@@ -1,12 +1,14 @@
 # Inleiding
 
+Week 7/9
+
 ### Ontwerp {#ontwerp}
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- | --- | --- | --- |
-| Week 7/9 | [Comparison chart](comparison-chart.md) | Best, good & bad practices / Interview / Survey |
-| [​](inspiration-wall.md) | [Inspiration wall](inspiration-wall.md) | Design Pattern Search / Best, good & bad practices |
-| ​ | [Concept: 10 ideeën](concept-10-ideeen.md) | Sketching / Storytelling / Ideation |
+| Week 11 | [Comparison chart](comparison-chart.md) | Best, good & bad practices / Interview / Survey |
+| [​](inspiration-wall.md)Week 10 | [Inspiration wall](inspiration-wall.md) | Design Pattern Search / Best, good & bad practices |
+| ​Week 8/11 | [Concept: 10 ideeën](concept-10-ideeen.md) | Sketching / Storytelling / Ideation |
 | ​ | [Concept: 3 ideeën](concept-3-ideeen.md) | Ideation / Storytelling |
 | ​ | [Risk analyse: 3 ideeën](risk-analyse-3-ideeen.md) | Proof of Concept / Co-reflection |
 
