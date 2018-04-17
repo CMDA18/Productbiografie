@@ -52,6 +52,7 @@
 ## Onderzoek methodes
 
 * [Interviews](onderzoek-methodes/interviews.md)
+* [Survey: Working at Jungle Minds](onderzoek-methodes/survey-working-at-jungle-minds.md)
 
 ## \_
 
