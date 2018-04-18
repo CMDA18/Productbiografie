@@ -12,6 +12,9 @@ Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 | --- | --- |
 | Eindatum | 29.06.2018 |
 | Projectbegeleider | Martha Lauría |
+| Eerste lezer | Martha Lauría |
+| Tweede lezer | Rob Prass |
+| Derde lezer | - |
 | Bedrijf | Jungle Minds |
 | Functie | Frontend developer |
 
