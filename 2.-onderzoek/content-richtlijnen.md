@@ -2,11 +2,16 @@
 
 ## Content richtlijnen
 
-
+* Manier van Werken van Jungle Minds
+* De Rollen binnen Jungle Minds
+* Bij wie kan je terecht voor welke vragen \(FAQ\)
+* Cultuur van het bedrijf naar voren brengen
 
 ## Onderzoek
 
 ### Orienting Expert Interview 
+
+Docent feedback vragen over content.
 
 
 
