@@ -2,25 +2,49 @@
 
 ## Jungle Minds 
 
-Het bedrijf Jungle Minds bestaat al sinds 2000 en is werkt user centered. Ze bouwen User Centric Brands, producten en teams. 
+Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen User Centric Brands, producten en teams. 
 
-> Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.
+> Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.  
+> Jungle Minds\(2017\)\([https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)\)
 
 ### Jungle Maslow
 
-![](../.gitbook/assets/jungle-maslow.png)
+Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en de waar elke deel van de piramide voor staat. 
+
+![Pdf Jungle Minds handboek 2018](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
 Bronnen:
 
-{% embed data="{\"url\":\"https://jungleminds.nl/ons-verhaal\",\"type\":\"link\",\"title\":\"Story\",\"description\":\"We zijn een onafhankelijk digitaal bureau dat merken in staat stelt echte gebruikerswaarde te leveren.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.jungleminds.com/assets/favicons/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.jungleminds.com/media/\_large/readme.jpg?mtime=20160629173012\",\"width\":960,\"height\":640,\"aspectRatio\":0.6666666666666666}}" %}
+* [https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)
+* Pdf Jungle day 1 2018
 
-Pdf Jungle day 1 2018
+### Expertises
+
+| **Functie** | **Aantal medewerkers** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Managing Partner | 4 |
+| Office Manager | 2 |
+| HR Manager | 1 |
+| Resource Manager | 1 |
+| Finance Manager & Controller | 1 |
+| Project managers | 5 |
+| Team Designer | 2 |
+| Art director | 2 |
+| Designers | 7 |
+| Developers | 9 |
+| Interection Designer | 4 |
+| Researchers | 2 |
+| Strategen | 4 |
+| Motion graphic designers | 1 |
+| Copywriters | 1 |
+| Allrounder | 1 |
+| **Totaal:** | **47** |
 
 ## Missie, visie & Inspiratie
 
 ### Missie
 
-Wij zijn de leidende partner voor High Impact-merken waardoor ze gebruikerswaarde kunnen bieden door hun producten.
+Jungle Minds is de leidende partner voor High Impact-merken waardoor ze gebruikerswaarde kunnen bieden door hun producten.
 
 De missie van Jungle Minds wordt op verschillende manier omgeschreven. In hun website wordt Jungle Minds beschreven als:
 
