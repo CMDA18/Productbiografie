@@ -7,6 +7,10 @@ Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen
 > Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.  
 > Jungle Minds\(2017\)\([https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)\)
 
+
+
+![](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
+
 ### Jungle Maslow
 
 Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en de waar elke deel van de piramide voor staat. 
