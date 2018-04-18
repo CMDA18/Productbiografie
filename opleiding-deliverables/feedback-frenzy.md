@@ -2,7 +2,7 @@
 
 ## Feedback 
 
-### Vraag 1:
+#### Vraag 1:
 
 Wat zou jij willen weten van het bedrijf die je gaat werken? \(Als een nieuwe medewerker\)
 
@@ -13,7 +13,7 @@ Wat zou jij willen weten van het bedrijf die je gaat werken? \(Als een nieuwe me
 | Wie is wie bij het bedrijf. |
 | Welke software het bedrijf gebruikt en waarvoor het dient. |
 
-### Vraag 2: 
+#### Vraag 2: 
 
 Hoe zorg je ervoor dat de inhoud van het product interessant blijft voor de gebruiker?
 
@@ -25,5 +25,12 @@ Hoe zorg je ervoor dat de inhoud van het product interessant blijft voor de gebr
 | Misschien ook kleine quiz toevoegen tussendoor, zodat de gebruiker het beter onthoudt.  |
 | Grote stukken tekst ontleden in kleinere paragraven. |
 
+#### Docent tweede lezer
 
+| Een vertel vertellen over "de eerste keer" wordt altijd als leuk ervaart, daarnaast maakt het mensen ook meer benaderbaarder. |
+| --- | --- | --- | --- | --- |
+| Hou het persoonlijk. |
+| Denk aan leuke titels als: "Most \(not\) stupid questions asked in the Jungle" |
+| Vertel het verhaal met zinnen als "Maikel zegt ....." |
+|   Probeer zoveel mogelijke ervaringen van de collega's erin te krijgen. Dit zorgt ervoor dat het leuk blijft naast dat het informatieve saaie gedeelte. jj\`\`\`\`\`\`\`\` |
 
