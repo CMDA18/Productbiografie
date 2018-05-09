@@ -1,19 +1,17 @@
 # Mood board Jungle Minds
 
-## Jungle Minds 
+## Jungle Minds
 
-Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen User Centric Brands, producten en teams. 
+Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen User Centric Brands, producten en teams.
 
 > Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.  
 > Jungle Minds\(2017\)\([https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)\)
-
-
 
 ![](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
 
 ### Jungle Maslow
 
-Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en de waar elke deel van de piramide voor staat. 
+Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en de waar elke deel van de piramide voor staat.
 
 ![Pdf Jungle Minds handboek 2018](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
@@ -64,7 +62,7 @@ Dit zijn de kernwoorden van onze visie. Welk vraagstuk je ons ook voorlegt, ons 
 
 ![](https://files.nuclino.com/files/49040ae5-f21c-4279-8ae3-7634d6158f1b/Screen%20Shot%202018-02-26%20at%2011.04.39.png?preview=o)
 
-We houden van grote ambities maar wel in kleine, snelle stappen. Omdat we weten dat je zo tot een beter en sneller resultaat komt. We itereren vaak, valideren snel en zoeken voortdurend input van onze partners.  \(Minds, z.j.\)
+We houden van grote ambities maar wel in kleine, snelle stappen. Omdat we weten dat je zo tot een beter en sneller resultaat komt. We itereren vaak, valideren snel en zoeken voortdurend input van onze partners. \(Minds, z.j.\)
 
 #### Co-client
 
@@ -74,9 +72,9 @@ Is hoe we met onze opdrachtgevers samenwerken. Onze klanten zijn onlosmakelijk v
 
 ### Inspiratie
 
-#### Huge 
+#### Huge
 
-Het bedrijf Huge is een grote bron van inspiratie binnen de managing partners. 
+Het bedrijf Huge is een grote bron van inspiratie binnen de managing partners.
 
 [https://www.hugeinc.com/](https://www.hugeinc.com/)
 
@@ -88,16 +86,14 @@ TODO: Identiteit & merkbeleving
 
 ### Nieuwe huisstijl
 
-Regels: 
+Regels:
 
 * Gotham niet meer gebruiken voor teksten. Alleen voor graphs, illustraties en diagrammen.  Ook mag het gebruikt worden als section title. \(Je mag hem gebruiken bij teksten waar je niet goed te lezen en alsnog begrijpt waarover het gaat.\)
 * Driehoeken stellen iets unieks voor. Het verhaal erachter is dat het wordt toegevoegd bij de component die je wilt laten zien waar je op trots bent. Het dient als een dienblad als het ware, maar je wilt niet arrogant over komen. De positie van deze driehoeken zijn altijd anders. Ze zijn dynamisch alsof ze heel langzaam aan het bewegen zijn door de ruimte.
 
-TODO: Voeg huistijl PDF toe 
+TODO: Voeg huistijl PDF toe
 
 ![](../.gitbook/assets/0001.jpg)
-
-
 
 ![](../.gitbook/assets/0002.jpg)
 
@@ -111,8 +107,6 @@ TODO: Een samenvatting van de insights uit de interviews.
 
 ### Interview
 
-{% tabs %}
-{% tab title="Managing Partner" %}
 ### De geïnterviewde
 
 ![](../.gitbook/assets/managing-partner_kars.png)
@@ -131,13 +125,11 @@ TODO: Een samenvatting van de insights uit de interviews.
 * **Uit hoeveel medewerkers bestaat het bedrijf? **Ongeveer 50 mensen. 
 * **Werken jullie ook met internationale medewerkers?** Ja, niet alleen medewerkers maar ook klanten. Ons toekomst zicht is dat we steeds meer gaan werken met internationale medewerkers dus het is essential dat wij een switch maken naar het engels. Wij zijn al met deze switch begonnen door ons "Monday mornings" en "Jungle days" in het engels te geven. 
 * **Wat is de visie van het bedrijf bij het groeien maar niet groter worden dan 50 medewerkers?**  
+
   Je moet zo zien dat per jaar gaan ongeveer 5 medewerkers bij ons weg. Dit kan gebeuren omdat zij zelf buiten Jungle Minds zich willen ontwikkelen of wij vinden dat een persoon zich niet verder ontwikkelt binnen het bedrijf. Het blijven dus altijd doorstroom, daarnaast betekent niet dat nieuwe mensen alleen de gregratie is van groei maar het is een doorstroom van het bureau.  
 
+Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf maar dan net op een andere manier. Het zal voor ons als bedrijf fijn zijn om hun ook vaker te kunnen betrekken in ons visie en missie. Zo kunnen ze ook een idee hebben in wat allemaal zich afspeelt en waarom wij bepaalde keuzes maken.
 
-  Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf maar dan net op een andere manier. Het zal voor ons als bedrijf fijn zijn om hun ook vaker te kunnen betrekken in ons visie en missie. Zo kunnen ze ook een idee hebben in wat allemaal zich afspeelt en waarom wij bepaalde keuzes maken.
-{% endtab %}
-
-{% tab title="Managing Partner" %}
 ### De geïnterviewde
 
 ![](../.gitbook/assets/managing-partner_bart.png)
@@ -147,9 +139,9 @@ TODO: Een samenvatting van de insights uit de interviews.
 * **Waar staat Jungle Minds voor?**  
   bureau: staan we voor digitale inovatie en verbetering &gt; brand produtcs en team. strategisch niveau merken verbetren. op alle niveaus beter scheiden voor gebruikers onderscheidend te maken
 
-  Naar werknemers: Staan we voor het feit dat we geoie werkgevers zijn proberne te zijn. investering op mensen die hier werken. fijn voelt.  
+  Naar werknemers: Staan we voor het feit dat we geoie werkgevers zijn proberne te zijn. investering op mensen die hier werken. fijn voelt.
 
-* **Wat is de missie van Jungle Minds? **bedrijven suc6 vol amken gericht op eindgebruiekr. user value &gt;&gt; boeiend functioneel. meaningfull &gt; wat jungle minds is . persoonlijk bkijft, onafhankelijkheid speelt heir een grote rol in. geld meer te zien als status stelt om een fijne tijd met elkaar te hebben. gevoel van "dit is net anders" 
+* **Wat is de missie van Jungle Minds? **bedrijven suc6 vol amken gericht op eindgebruiekr. user value &gt;&gt; boeiend functioneel. meaningfull &gt; wat jungle minds is . persoonlijk bkijft, onafhankelijkheid speelt heir een grote rol in. geld meer te zien als status stelt om een fijne tijd met elkaar te hebben. gevoel van "dit is net anders"
 * **Wat is de visie van Jungle Minds? **E 
 * **Hoe straalt Jungle Minds haar missie en visie?** _onafhankelijkheid ,_ identiteit. is nog veel te doen. rebranding in de missie die wij hebben als bureau . zowel extern als intern. intern communicatie is veel beter dan onze externe. we zijn een introvert bureau. vooral buiten profieliee kan intelligenten. 
 * **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** -ideo &gt; speach vab south soith west. strategisch bureau en hoe z eom gaan met de vraagstukken. - werknemerschap kan aller kant opkomen. - digitale spellers&gt; overgenomen van google over tribes. - toffe communicatie maken 
@@ -161,13 +153,10 @@ TODO: Een samenvatting van de insights uit de interviews.
 * **Werken jullie ook met internationale medewerkers?**  
   heel belangrijk 2 redenen &gt;&gt; talent je kan beter talent zoeken
 
-  diversiteit beter omdat wij international willen groeien.  
-  
+  diversiteit beter omdat wij international willen groeien.
 
 * **Wat is de visie van het bedrijf bij het groeien maar niet groter worden dan 50 medewerkers?** jungle pros's belangrijk - welkom to the jungle presentatie - criteria voor jungle pro's zouden eigenlijk een op een zelfde moeten zijn als jungle minds medewerkers.
-{% endtab %}
 
-{% tab title="Resource Manager" %}
 ### De geïnterviewde
 
 ![](../.gitbook/assets/resource-manager_joyce.png)
@@ -181,9 +170,7 @@ TODO: Een samenvatting van de insights uit de interviews.
 * **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - vanuit jungleminds &gt; kunst, nieuwe markten, innovatie. verschillende typen kalmnten, gezondheid sports gezelligheid. locatie. 
 * **Waar bent u het meeste trots op van het bedrijf?** op de cultuur die we hier hebben. moeilijk om ergens anders te vinden. Met elkaar omgaan. 
 * **Omschrijf jouw functie binnen het bedrijf?** plan ik mensen, de juiste mensen op de juiste planning gepland worden. Puzzle dagelijks, soft project management voor kleine projecten. Grote rol in uren e project admnistratie.
-{% endtab %}
 
-{% tab title="HR Manager" %}
 ### De geïnterviewde
 
 ![](../.gitbook/assets/hr_alexandra.png)
@@ -196,12 +183,10 @@ TODO: Een samenvatting van de insights uit de interviews.
 * **Hoe straalt Jungle Minds haar missie en visie?**  
   naar buiten toe uitstrallen&gt; website en vertellen naar klanten tijdens presentaties. ervaren op welke manier we producten doen.
 
-  intern&gt; blijven herhallen op jungle3 days. iets wat van osn allemaal hoort.  
+  intern&gt; blijven herhallen op jungle3 days. iets wat van osn allemaal hoort.
 
-* **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - andere bureaus huge \(inspiratie bron voor de heren\) wij vergelijekn ons niet echt met andere bureaus. 
+* **Wat zijn dingen die het bedrijf inspireren? \(bedrijven, producten en/of diensten\)** - andere bureaus huge \(inspiratie bron voor de heren\) wij vergelijekn ons niet echt met andere bureaus.
 * **Waar bent je het meeste trots op van het bedrijf?** dat wij echt mooie dingen maken. we krijgen veel gedaan, bedrijven in beweging en maken echt producten die een vershcil betekenen die echt heel geod zijn voor de gebruikers en op een manier die wij zelf niet arrogant op worden. wij blijven hetzelfde. mensen zijn altijd opzoek naar verbetreing maart op ene nuttire manier.
-{% endtab %}
-{% endtabs %}
 
 ### Survey
 
