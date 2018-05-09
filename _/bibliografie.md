@@ -16,6 +16,8 @@ Pdf Jungle day 1 2018
 
 {% embed data="{\"url\":\"https://www.grafiektool.nl/graph\",\"type\":\"link\",\"title\":\"ONLINE GRAFIEKEN \| ontwerp en maak je eigen online grafieken en diagrammen\",\"description\":\"Grafieken en diagrammen zijn een handig hulpmiddel om bepaalde informatie te visualiseren. Op grafiektool.nl kun je online diverse grafieken en diagrammen maken, delen en bewerken. Onder andere staafdiagrammen, lijn grafieken, taart diagrammen, XY grafieken en Bubble diagrammen zijn mogelijk.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.grafiektool.nl/images/coast-icon-228x228.png\",\"width\":228,\"height\":228,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.grafiektool.nl/images/logo\_big.png\",\"width\":300,\"height\":300,\"aspectRatio\":1},\"caption\":\"https://www.grafiektool.nl/graph\"}" %}
 
+{% embed data="{\"url\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\",\"type\":\"link\",\"title\":\"APA-stijl voorbeelden\",\"description\":\"In dit artikel kun je voorbeelden vinden van verwijzingen voor meestgebruikte bronnen volgens de APA-stijl.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.scribbr.nl/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.scribbr.nl/wp-content/themes/scribbr-2017/img/opengraph/logo.png\",\"width\":750,\"height\":750,\"aspectRatio\":1},\"caption\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\"}" %}
+
 
 
 
