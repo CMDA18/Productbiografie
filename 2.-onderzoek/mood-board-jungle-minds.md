@@ -93,9 +93,7 @@ Regels:
 * Gotham niet meer gebruiken voor teksten. Alleen voor graphs, illustraties en diagrammen.  Ook mag het gebruikt worden als section title. \(Je mag hem gebruiken bij teksten waar je niet goed te lezen en alsnog begrijpt waarover het gaat.\)
 * Driehoeken stellen iets unieks voor. Het verhaal erachter is dat het wordt toegevoegd bij de component die je wilt laten zien waar je op trots bent. Het dient als een dienblad als het ware, maar je wilt niet arrogant over komen. De positie van deze driehoeken zijn altijd anders. Ze zijn dynamisch alsof ze heel langzaam aan het bewegen zijn door de ruimte.
 
-{% hint style="danger" %}
 TODO: Voeg huistijl PDF toe 
-{% endhint %}
 
 ![](../.gitbook/assets/0001.jpg)
 
@@ -107,13 +105,9 @@ TODO: Voeg huistijl PDF toe
 
 ## Onderzoek
 
-{% hint style="danger" %}
 TODO: Inleiding doel van de interviews, wat ik eruit wilde halen.
-{% endhint %}
 
-{% hint style="danger" %}
 TODO: Een samenvatting van de insights uit de interviews.
-{% endhint %}
 
 ### Interview
 
