@@ -82,9 +82,7 @@ Het bedrijf Huge is een grote bron van inspiratie binnen de managing partners.
 
 ## Identiteit & merkbeleving
 
-{% hint style="danger" %}
 TODO: Identiteit & merkbeleving
-{% endhint %}
 
 ## Huisstijl
 
