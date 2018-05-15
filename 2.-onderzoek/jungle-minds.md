@@ -77,24 +77,7 @@ Het bedrijf Huge is een grote bron van inspiratie binnen de managing partners.
 
 ## Identiteit & merkbeleving
 
-TODO: Identiteit & merkbeleving
 
-## Huisstijl
-
-### Nieuwe huisstijl
-
-Regels:
-
-* Gotham niet meer gebruiken voor teksten. Alleen voor graphs, illustraties en diagrammen.  Ook mag het gebruikt worden als section title. \(Je mag hem gebruiken bij teksten waar je niet goed te lezen en alsnog begrijpt waarover het gaat.\)
-* Driehoeken stellen iets unieks voor. Het verhaal erachter is dat het wordt toegevoegd bij de component die je wilt laten zien waar je op trots bent. Het dient als een dienblad als het ware, maar je wilt niet arrogant over komen. De positie van deze driehoeken zijn altijd anders. Ze zijn dynamisch alsof ze heel langzaam aan het bewegen zijn door de ruimte.
-
-TODO: Voeg huistijl PDF toe
-
-![](../.gitbook/assets/0001.jpg)
-
-![](../.gitbook/assets/0002.jpg)
-
-![](../.gitbook/assets/0003.jpg)
 
 ## Onderzoek
 
@@ -129,7 +112,7 @@ Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf ma
 
 ### De geïnterviewde
 
-![](../.gitbook/assets/managing-partner_bart.png)
+![](../.gitbook/assets/managing-partner_bart%20%281%29.png)
 
 ### Het bedrijf
 
@@ -156,7 +139,7 @@ Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf ma
 
 ### De geïnterviewde
 
-![](../.gitbook/assets/resource-manager_joyce.png)
+![](../.gitbook/assets/resource-manager_joyce%20%281%29.png)
 
 ### Het bedrijf
 
@@ -170,7 +153,7 @@ Daarnaast hebben wij ons Jungle pro's die zeker deel uitmaken van het bedrijf ma
 
 ### De geïnterviewde
 
-![](../.gitbook/assets/hr_alexandra.png)
+![](../.gitbook/assets/hr_alexandra%20%281%29.png)
 
 ### Het bedrijf
 

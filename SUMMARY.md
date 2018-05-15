@@ -31,6 +31,7 @@
 ## 4. Ontwerpen
 
 * [4.1 Inleiding](4.-ontwerpen/inleiding.md)
+* [4.2 Huisstijl](4.-ontwerpen/4.2-huisstijl.md)
 * [4.2 Prototype v0.1](4.-ontwerpen/prototype-v0.1.md)
 * [4.3 Prototype v0.3](4.-ontwerpen/prototype-v0.3.md)
 * [4.4 Prototype v0.6](4.-ontwerpen/prototype-v0.6.md)
@@ -50,9 +51,15 @@
 * [5.9 Promovideo](deliverables/promovideo.md)
 * [5.10 Eindpresentatie](deliverables/eindpresentatie.md)
 
-## 6. Onderzoek methodes
+## 6. Bijlage
 
-* [6.1 Interviews](onderzoek-methodes/interviews.md)
+* [6.1 Interviews](onderzoek-methodes/interviews/README.md)
+  * [6.1.1 Managing Partner: Kars](onderzoek-methodes/interviews/6.1.1-managing-partner-kars.md)
+  * [6.1.2 Managing Partner: Bart](onderzoek-methodes/interviews/6.1.2-managing-partner-bart.md)
+  * [6.1.3 HR Manager : Alexandra](onderzoek-methodes/interviews/6.1.3-hr-manager-alexandra.md)
+  * [6.1.4 Team Designer: Claire](onderzoek-methodes/interviews/6.1.4-team-designer-claire.md)
+  * [6.1.5 Visual Designer: Noor](onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md)
+  * [6.1.6 Resource Manager: Joyce](onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md)
 * [6.2 Survey: Working at Jungle Minds](onderzoek-methodes/survey-working-at-jungle-minds.md)
 
 ## \_
