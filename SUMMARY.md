@@ -17,6 +17,7 @@
 * [2.4 Customer journey \(gewenste situatie\)](2.-onderzoek/customer-journey-gewenste-situatie.md)
 * [2.5 Requirements list](2.-onderzoek/requirements-list.md)
 * [2.6 Content richtlijnen](2.-onderzoek/content-richtlijnen.md)
+* [2.7 Onderzoeksvragen](2.-onderzoek/onderzoeksvragen.md)
 
 ## 3. Ontwerp
 
