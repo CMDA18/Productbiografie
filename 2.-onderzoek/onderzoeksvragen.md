@@ -16,29 +16,31 @@ Deze deelvragen heb ik geformuleerd tijdens de Design Brief workshop die gegeven
 
 ### Deelvraag 0.1 {#deelvraag-1}
 
-![Eerste versie van de deelvragen 1](../.gitbook/assets/deelvragen%20%281%29.jpg)
+![Eerste versie van deelvraag 1](../.gitbook/assets/deelvragen%20%282%29.jpg)
 
 ### Deelvraag 0.2 {#deelvraag-2}
 
-![Eerste versie van de deelvragen 2](../.gitbook/assets/deelvragen2.jpg)
+![Eerste versie van deelvraag 2](../.gitbook/assets/deelvragen2%20%281%29.jpg)
 
 ### Deelvraag 0.3 {#deelvraag-3}
 
-![Eerste versie van de deelvragen 3](../.gitbook/assets/deelvragen3.jpg)
+![Eerste versie van deelvraag 3](../.gitbook/assets/deelvragen3%20%281%29.jpg)
 
 Tijdens mijn onderzoek ben ik snel achtergekomen dat ik enkele vragen anders zal moeten formuleren om een betere resultaat te krijgen. De deelvragen waarmee ik mee verder ging werken waren de volgende:
 
 ### Deelvraag 1
 
-![Eerste versie van de deelvragen 3](../.gitbook/assets/deelvragen3.jpg)
+![Laatste versie van deelvraag 1](../.gitbook/assets/deelvragen4.jpg)
+
+![Laatste versie van deelvraag 1](../.gitbook/assets/deelvragen5.jpg)
 
 ### Deelvraag 2
 
-![Eerste versie van de deelvragen 3](../.gitbook/assets/deelvragen3.jpg)
+![Laatste versie van deelvraag 2](../.gitbook/assets/deelvragen6.jpg)
 
 ### Deelvraag 3
 
-![Eerste versie van de deelvragen 3](../.gitbook/assets/deelvragen3.jpg)
+![](../.gitbook/assets/deelvragen7.jpg)
 
 
 
