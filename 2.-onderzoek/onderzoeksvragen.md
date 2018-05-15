@@ -4,7 +4,7 @@
 
 > “Hoe kan een webapp ervoor zorgen dat nieuwe medewerkers van Jungle Minds de benodigde informatie over procedures en regels binnen het bedrijf verkrijgen, zodat er efficiënter met de inwerktijd wordt omgegaan?”
 
-## Deelvragen {#onderzoeksvragen}
+## Eerste Deelvragen {#onderzoeksvragen}
 
 Aan het begin van mijn traject ben ik mijn onderzoek begonnen met de volgende drie deelvragen om uiteindelijk mijn hoofdvraag te kunnen beantwoorden:
 
@@ -25,6 +25,8 @@ Deze deelvragen heb ik geformuleerd tijdens de Design Brief workshop die gegeven
 ### Deelvraag 0.3 {#deelvraag-3}
 
 ![Eerste versie van deelvraag 3](../.gitbook/assets/deelvragen3%20%281%29.jpg)
+
+## Laatste deelvragen
 
 Tijdens mijn onderzoek ben ik snel achtergekomen dat ik enkele vragen anders zal moeten formuleren om een betere resultaat te krijgen. De deelvragen waarmee ik mee verder ging werken waren de volgende:
 
