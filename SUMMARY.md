@@ -19,23 +19,23 @@
 * [2.6 Content richtlijnen](2.-onderzoek/content-richtlijnen.md)
 * [2.7 Onderzoeksvragen](2.-onderzoek/onderzoeksvragen.md)
 
-## 3. Ontwerp
+## 3. Concept
 
-* [3.1 Inleiding](3.-ontwerp/inleiding.md)
-* [3.2 Comparison chart](3.-ontwerp/comparison-chart.md)
-* [3.3 Inspiration wall](3.-ontwerp/inspiration-wall.md)
-* [3.4 Concept: 10 ideeën](3.-ontwerp/concept-10-ideeen.md)
-* [3.5 Concept: 3 ideeën](3.-ontwerp/concept-3-ideeen.md)
-* [3.6 Risk analyse: 3 ideeën](3.-ontwerp/risk-analyse-3-ideeen.md)
+* [3.1 Inleiding](3.-concept/inleiding.md)
+* [3.2 Comparison chart](3.-concept/comparison-chart.md)
+* [3.3 Inspiration wall](3.-concept/inspiration-wall.md)
+* [3.4 Concept: 10 ideeën](3.-concept/concept-10-ideeen.md)
+* [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
+* [3.6 Risk analyse: 3 ideeën](3.-concept/risk-analyse-3-ideeen.md)
 
-## 4. Prototyping
+## 4. Ontwerpen
 
-* [4.1 Inleiding](4.-prototyping/inleiding.md)
-* [4.2 Prototype v0.1](4.-prototyping/prototype-v0.1.md)
-* [4.3 Prototype v0.3](4.-prototyping/prototype-v0.3.md)
-* [4.4 Prototype v0.6](4.-prototyping/prototype-v0.6.md)
-* [4.5 Prototype v0.9](4.-prototyping/prototype-v0.9.md)
-* [4.6 Prototype v1.0](4.-prototyping/prototype-v1.0.md)
+* [4.1 Inleiding](4.-ontwerpen/inleiding.md)
+* [4.2 Prototype v0.1](4.-ontwerpen/prototype-v0.1.md)
+* [4.3 Prototype v0.3](4.-ontwerpen/prototype-v0.3.md)
+* [4.4 Prototype v0.6](4.-ontwerpen/prototype-v0.6.md)
+* [4.5 Prototype v0.9](4.-ontwerpen/prototype-v0.9.md)
+* [4.6 Prototype v1.0](4.-ontwerpen/prototype-v1.0.md)
 
 ## 5. Deliverables
 

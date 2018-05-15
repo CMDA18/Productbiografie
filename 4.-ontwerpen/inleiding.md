@@ -1,25 +1,16 @@
 # 4.1 Inleiding
 
-Inhoudsopgave:
-
-* * Prototype v0.3
-* Prototype v0.6
-* [Prototype v0.9](prototype-v0.9.md)
-* [Prototype v1.0](prototype-v1.0.md)
-
 Week 12/ 18
 
-### Prototyping {#ontwerp}
+## Ontwerpen
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- | --- | --- | --- |
-| Week 11 | [Prototype v0.1](prototype-v0.1.md) | Best, good & bad practices / Interview / Survey |
-| [​](../3.-ontwerp/inspiration-wall.md)Week 10 | Prototype | Design Pattern Search / Best, good & bad practices |
-| ​Week 8/11 | Prototype | Sketching / Storytelling / Ideation |
-| ​Week 12/14 | Prototype | Ideation / Storytelling |
-| ​Week 14 | Prototype | Proof of Concept / Co-reflection |
-
-
+| Week 12 | [Prototype v0.1](prototype-v0.1.md) | Best, good & bad practices / Interview / Survey |
+| [​](../3.-concept/inspiration-wall.md)Week 13 | Prototype | Design Pattern Search / Best, good & bad practices |
+| ​Week 14 | Prototype | Sketching / Storytelling / Ideation |
+| ​Week 15 | Prototype | Ideation / Storytelling |
+| ​Week 18 | [Prototype v1.0](prototype-v1.0.md) | Proof of Concept / Co-reflection |
 
 ## Reflectie 
 
@@ -34,4 +25,20 @@ In week 13 heb ik een gesprek gehad met de opdrachtgever, een van de manager par
 ### Week 14
 
 Na het gesprek van week 13 ben ik verder gaan brainstormen over de concept van een onboarding tool en ben ik op de conclusie gekomen dat mijn concept meer taken moeten bidden aan de gebruiker waarbij hij zo meer informatie kan krijgen over het bedrijf. Daarnaast ben ik bezig geweest met mijn design rationale en de presentatie voor de groenlicht presentatie van week 15. 
+
+### Week 15
+
+Na 
+
+### Week 16
+
+Na 
+
+### Week 17
+
+Na 
+
+### Week 18
+
+Na 
 

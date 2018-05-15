@@ -12,11 +12,11 @@
 
 ## 3. Ontwerp
 
-* [Inleiding](3.-ontwerp/inleiding.md)
+* [Inleiding](3.-concept/inleiding.md)
 
 ## 4. Prototyping
 
-* [Inleiding](4.-prototyping/inleiding.md)
+* [Inleiding](4.-ontwerpen/inleiding.md)
 
 ## Deliverables
 
