@@ -1,6 +1,10 @@
-# Algemene informatie
+---
+description: >-
+  Dit document is een digitale map voor het verzamelen van documenten en het
+  weergeven van mijn process voor mijn afstudeerproject.
+---
 
-Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
+# Algemene informatie
 
 | Naam | Luisa Braga dos Santos |
 | --- | --- |
@@ -16,7 +20,8 @@ Digitale map voor het verzamelen van documenten voor mijn afstudeerproject.
 | Tweede lezer | Rob Prass |
 | Derde lezer | - |
 | Bedrijf | Jungle Minds |
-| Functie | Frontend developer |
+| Functie | Ontwerper  |
+| Specialisatie | Frontend developer |
 
 ## Contactgegevens Student:
 
