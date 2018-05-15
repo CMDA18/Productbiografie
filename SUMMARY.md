@@ -12,7 +12,7 @@
 ## 2. Onderzoek
 
 * [2.1 Inleiding](2.-onderzoek/inleiding.md)
-* [2.2 Mood board Jungle Minds](2.-onderzoek/mood-board-jungle-minds.md)
+* [2.2 Jungle Minds](2.-onderzoek/jungle-minds.md)
 * [2.3 Customer journey \(huidige situatie\)](2.-onderzoek/customer-journey-huidige-situatie.md)
 * [2.4 Customer journey \(gewenste situatie\)](2.-onderzoek/customer-journey-gewenste-situatie.md)
 * [2.5 Requirements list](2.-onderzoek/requirements-list.md)

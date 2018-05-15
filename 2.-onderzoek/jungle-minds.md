@@ -1,4 +1,4 @@
-# 2.2 Mood board Jungle Minds
+# 2.2 Jungle Minds
 
 ## Jungle Minds
 
@@ -11,14 +11,9 @@ Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen
 
 ### Jungle Maslow
 
-Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en de waar elke deel van de piramide voor staat.
+Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en waar elke deel van de piramide voor staat.
 
-![Pdf Jungle Minds handboek 2018](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
-
-Bronnen:
-
-* [https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)
-* Pdf Jungle day 1 2018
+![Pdf Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
 ### Expertises
 
@@ -41,6 +36,8 @@ Bronnen:
 | Copywriters | 1 |
 | Allrounder | 1 |
 | **Totaal:** | **47** |
+
+Jungle Minds\(2017\) [https://jungleminds.nl/team](https://jungleminds.nl/team)
 
 ## Missie, visie & Inspiratie
 
