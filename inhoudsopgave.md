@@ -1,7 +1,5 @@
 # Inhoudsopgave
 
-* [Introduction](./)
-
 ## 1. Introductie
 
 * [Algemene informatie](1.-introductie/algemene-informatie.md)
