@@ -1,5 +1,39 @@
 # Bibliografie
 
+**Literatuur **
+
+Jungle Minds \(2018\) Jungle day XL 1 pdf. 
+
+Jungle Minds \(2017\) Nieuwe huisstijl pdf. 
+
+Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Education Benelux BV. 
+
+**Bronnen **
+
+BambooHR \(z.j.\). Employee Self-Onboarding Software. Verkregen op 15 februari 2018, van https://www.bamboohr.com/employee-self-onboarding/ 
+
+Bellinzin, A. T. \(2017\), Warm welkom: de beste introductie van je nieuwe medewerker. Verkregen op 15 januari 2018, van https://peoplebusiness.nl/ artikelen/hr-trends/introductie-nieuwe-medewerker 
+
+Brown, J. \(2007\). Employee orientation: Keeping new employees on board. humanresources. about. com/library/weekly/nosearch/nuc042102a.htm, 20\(02\), 2014. 
+
+Cornerstone \(z.j.\). CORNERSTONE ONBOARDING. Verkregen op 15 februari 2018, van https://www.cornerstoneondemand.nl/onboarding 
+
+Grafhorst Geerst, S \(z.j.\) Hoe geef je de introductie van nieuwe medewerkers vorm? Verkregen op 18 februari 2018, van http://www. managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm 
+
+Holland, R. J. \(2012\). The 6 things all new employees should be told. Verkregen op 16 januari 2018, van https://www.ragan.com/Main/Articles/ The\_6\_things\_all\_new\_employees\_should\_be\_told\_45604.aspx 
+
+Jungle Minds \(z.j.\). Welkom to the Jungle, pagina 9. Verkregen op 04 februari 2018 van https://cdn.jungleminds.nl/media/files/jm\_handboek\_webversie\_v2.pdf 
+
+Marino, M. \(2016\). How Culture and Values Fit Into the Onboarding Experience. Verkregen op 15 januari 2018, van https://www.tlnt.com/how-culture-and-values-fit-into-the-onboarding-experience/ 
+
+Mindgame \(z.j.\) Introductiedagen nieuwe medewerkers. Verkregen op 03 maart 2018, van https://mindgame.eu/wp-content/uploads/manual/purple-page/Mindgame-introductiegames.pdf 
+
+Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de onboarding-app \[case\]. Verkregen op 03 maart 2018, van https:// www.frankwatching.com/archive/2016/08/03/medewerkers-inwerken-al-voordat-ze-starten-de-onboarding-app-case/
+
+Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van http://www. pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 
+
+We the Talent \(19 maart 2018\) HOE JE NIEUWE MEDEWERKERS SUCCESVOL INTEGREERT . Verkregen op 29 maart 2018, van http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers 
+
 Bibliografie
 
 
