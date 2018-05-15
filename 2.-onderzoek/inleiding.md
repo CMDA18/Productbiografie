@@ -1,4 +1,4 @@
-# Inleiding
+# 2.1 Inleiding
 
 ## Onderzoek
 

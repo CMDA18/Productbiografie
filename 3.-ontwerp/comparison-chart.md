@@ -1,4 +1,4 @@
-# Comparison chart
+# 3.2 Comparison chart
 
 Comparison chart
 

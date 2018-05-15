@@ -4,7 +4,7 @@ description: >-
   weergeven van mijn process voor mijn afstudeerproject.
 ---
 
-# Algemene informatie
+# 1.1 Algemene informatie
 
 | Naam | Luisa Braga dos Santos |
 | --- | --- |

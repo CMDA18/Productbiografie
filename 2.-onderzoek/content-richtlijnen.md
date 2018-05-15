@@ -1,4 +1,4 @@
-# Content richtlijnen
+# 2.6 Content richtlijnen
 
 ## Content richtlijnen
 

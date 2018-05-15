@@ -1,4 +1,4 @@
-# Inleiding
+# 4.1 Inleiding
 
 Inhoudsopgave:
 

@@ -1,4 +1,4 @@
-# Customer journey \(huidige situatie\)
+# 2.3 Customer journey \(huidige situatie\)
 
 ## Customer journey \(huidige situatie\)
 

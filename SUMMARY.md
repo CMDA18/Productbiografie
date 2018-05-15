@@ -5,54 +5,54 @@
 
 ## 1. Introductie
 
-* [Algemene informatie](1.-introductie/algemene-informatie.md)
-* [Aanleiding Project](1.-introductie/aanleiding-project.md)
-* [Inleiding](1.-introductie/inleiding.md)
+* [1.1 Algemene informatie](1.-introductie/algemene-informatie.md)
+* [1.2 Aanleiding Project](1.-introductie/aanleiding-project.md)
+* [1.3 Inleiding](1.-introductie/inleiding.md)
 
 ## 2. Onderzoek
 
-* [Inleiding](2.-onderzoek/inleiding.md)
-* [Mood board Jungle Minds](2.-onderzoek/mood-board-jungle-minds.md)
-* [Customer journey \(huidige situatie\)](2.-onderzoek/customer-journey-huidige-situatie.md)
-* [Customer journey \(gewenste situatie\)](2.-onderzoek/customer-journey-gewenste-situatie.md)
-* [Requirements list](2.-onderzoek/requirements-list.md)
-* [Content richtlijnen](2.-onderzoek/content-richtlijnen.md)
+* [2.1 Inleiding](2.-onderzoek/inleiding.md)
+* [2.2 Mood board Jungle Minds](2.-onderzoek/mood-board-jungle-minds.md)
+* [2.3 Customer journey \(huidige situatie\)](2.-onderzoek/customer-journey-huidige-situatie.md)
+* [2.4 Customer journey \(gewenste situatie\)](2.-onderzoek/customer-journey-gewenste-situatie.md)
+* [2.5 Requirements list](2.-onderzoek/requirements-list.md)
+* [2.6 Content richtlijnen](2.-onderzoek/content-richtlijnen.md)
 
 ## 3. Ontwerp
 
-* [Inleiding](3.-ontwerp/inleiding.md)
-* [Comparison chart](3.-ontwerp/comparison-chart.md)
-* [Inspiration wall](3.-ontwerp/inspiration-wall.md)
-* [Concept: 10 ideeën](3.-ontwerp/concept-10-ideeen.md)
-* [Concept: 3 ideeën](3.-ontwerp/concept-3-ideeen.md)
-* [Risk analyse: 3 ideeën](3.-ontwerp/risk-analyse-3-ideeen.md)
+* [3.1 Inleiding](3.-ontwerp/inleiding.md)
+* [3.2 Comparison chart](3.-ontwerp/comparison-chart.md)
+* [3.3 Inspiration wall](3.-ontwerp/inspiration-wall.md)
+* [3.4 Concept: 10 ideeën](3.-ontwerp/concept-10-ideeen.md)
+* [3.5 Concept: 3 ideeën](3.-ontwerp/concept-3-ideeen.md)
+* [3.6 Risk analyse: 3 ideeën](3.-ontwerp/risk-analyse-3-ideeen.md)
 
 ## 4. Prototyping
 
-* [Inleiding](4.-prototyping/inleiding.md)
-* [Prototype v0.1](4.-prototyping/prototype-v0.1.md)
-* [Prototype v0.3](4.-prototyping/prototype-v0.3.md)
-* [Prototype v0.6](4.-prototyping/prototype-v0.6.md)
-* [Prototype v0.9](4.-prototyping/prototype-v0.9.md)
-* [Prototype v1.0](4.-prototyping/prototype-v1.0.md)
+* [4.1 Inleiding](4.-prototyping/inleiding.md)
+* [4.2 Prototype v0.1](4.-prototyping/prototype-v0.1.md)
+* [4.3 Prototype v0.3](4.-prototyping/prototype-v0.3.md)
+* [4.4 Prototype v0.6](4.-prototyping/prototype-v0.6.md)
+* [4.5 Prototype v0.9](4.-prototyping/prototype-v0.9.md)
+* [4.6 Prototype v1.0](4.-prototyping/prototype-v1.0.md)
 
-## Deliverables
+## 5. Deliverables
 
-* [Deliverables](deliverables/deliverables.md)
-* [Projectvoorstel](deliverables/projectvoorstel.md)
-* [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
-* [Design Brief](deliverables/design-brief.md)
-* [Planning](deliverables/planning.md)
-* [Feedback Frenzy](deliverables/feedback-frenzy.md)
-* [Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
-* [Eindoplevering](deliverables/eindoplevering.md)
-* [Promovideo](deliverables/promovideo.md)
-* [Eindpresentatie](deliverables/eindpresentatie.md)
+* [5.1 Deliverables](deliverables/deliverables.md)
+* [5.2 Projectvoorstel](deliverables/projectvoorstel.md)
+* [5.3 Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
+* [5.4 Design Brief](deliverables/design-brief.md)
+* [5.5 Planning](deliverables/planning.md)
+* [5.6 Feedback Frenzy](deliverables/feedback-frenzy.md)
+* [5.7 Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
+* [5.8 Eindoplevering](deliverables/eindoplevering.md)
+* [5.9 Promovideo](deliverables/promovideo.md)
+* [5.10 Eindpresentatie](deliverables/eindpresentatie.md)
 
-## Onderzoek methodes
+## 6. Onderzoek methodes
 
-* [Interviews](onderzoek-methodes/interviews.md)
-* [Survey: Working at Jungle Minds](onderzoek-methodes/survey-working-at-jungle-minds.md)
+* [6.1 Interviews](onderzoek-methodes/interviews.md)
+* [6.2 Survey: Working at Jungle Minds](onderzoek-methodes/survey-working-at-jungle-minds.md)
 
 ## \_
 

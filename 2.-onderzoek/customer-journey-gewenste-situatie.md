@@ -1,4 +1,4 @@
-# Customer journey \(gewenste situatie\)
+# 2.4 Customer journey \(gewenste situatie\)
 
 ## Customer journey \(gewenste situatie\)
 
