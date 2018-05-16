@@ -59,7 +59,8 @@
   * [6.1.3 HR Manager : Alexandra](onderzoek-methodes/interviews/6.1.3-hr-manager-alexandra.md)
   * [6.1.4 Team Designer: Claire](onderzoek-methodes/interviews/6.1.4-team-designer-claire.md)
   * [6.1.5 Visual Designer: Noor](onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md)
-  * [6.1.6 Resource Manager: Joyce](onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md)
+  * [6.1.6 Frontend Developer: Luisa](onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)
+  * [6.1.7 Resource Manager: Joyce](onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md)
 * [6.2 Survey: Working at Jungle Minds](onderzoek-methodes/survey-working-at-jungle-minds.md)
 
 ## \_
