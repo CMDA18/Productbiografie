@@ -18,7 +18,7 @@ Bellinzin, A. T. \(2017\), Warm welkom: de beste introductie van je nieuwe medew
 
 Brown, J. \(2007\). Employee orientation: Keeping new employees on board. humanresources. about. com/library/weekly/nosearch/nuc042102a.htm, 20\(02\), 2014. 
 
-Cornerstone \(z.j.\). CORNERSTONE ONBOARDING. Verkregen op 15 februari 2018, van https://www.cornerstoneondemand.nl/onboarding 
+Cornerstone \(z.j.\). Cornerstone Onboarding. Verkregen op 15 februari 2018, van https://www.cornerstoneondemand.nl/onboarding 
 
 Grafhorst Geerst, S \(z.j.\) Hoe geef je de introductie van nieuwe medewerkers vorm? Verkregen op 18 februari 2018, van http://www. managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm 
 
@@ -38,7 +38,7 @@ Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de on
 
 Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van http://www. pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 
 
-We the Talent \(19 maart 2018\) HOE JE NIEUWE MEDEWERKERS SUCCESVOL INTEGREERT . Verkregen op 29 maart 2018, van http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers 
+Drain, N. en Marchand, B. \(z.j.\)  \(19 maart 2018\) Hoe je nieuwe medewerkers succesvol integreert. Verkregen op 29 maart 2018, van http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers 
 
 Bibliografie
 
