@@ -8,7 +8,7 @@
 
 ## 2. Onderzoek
 
-* [Inleiding](2.-onderzoek/inleiding.md)
+* [Inleiding](2.-verkenningsfase/inleiding.md)
 
 ## 3. Ontwerp
 

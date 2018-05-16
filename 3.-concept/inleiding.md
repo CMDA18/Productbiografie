@@ -4,6 +4,12 @@ description: Week 8/ 14
 
 # 3.1 Inleiding
 
+Tijdens de verkenningsfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 1, "[1. Waarom is een webapp relevant voor nieuwe medewerkers?](../1.-introductie/onderzoeksvragen.md#deelvraag-1)", en deelvraag 2, "[2. Wat zijn de benodigde informatie dat het product moet bevatten?](../1.-introductie/onderzoeksvragen.md#deelvraag-2)". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md).
+
+## Onderzoek
+
+De verkenningsfase heeft plaats gevonden in week 1 tot en met week 8. Hieronder ziet u een tabel met de verschillende deliverables die ik heb opgeleverd tijdens deze fase met daarbij in welke week ik ermee bezig was en welke onderzoeksmethode ik gebruik heb om het te kunnen opleveren.
+
 ## Concept
 
 | **Week** | **Deliverables** | **Methods** |
@@ -51,7 +57,7 @@ Deze week:
 
 ### Week 11
 
-Tijdens deze week ben ik aan de slag gegaan met het bepalen van de content voor de applicatie. Ik heb de resultaten van de enquete en de interviews op een rijtje gezet en heb hieruit kunnen concluderen welke content er vraag naar is. Zie [2.6 Content richtlijnen](../2.-onderzoek/content-richtlijnen.md) voor meer informatie hierover. 
+Tijdens deze week ben ik aan de slag gegaan met het bepalen van de content voor de applicatie. Ik heb de resultaten van de enquete en de interviews op een rijtje gezet en heb hieruit kunnen concluderen welke content er vraag naar is. Zie [2.6 Content richtlijnen](../2.-verkenningsfase/content-richtlijnen.md) voor meer informatie hierover. 
 
 Deze week:
 

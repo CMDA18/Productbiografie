@@ -1,4 +1,4 @@
-# 2.7 Onderzoeksvragen
+# 1.4 Onderzoeksvragen
 
 ## Hoofdvraag
 
@@ -16,15 +16,15 @@ Deze deelvragen heb ik geformuleerd tijdens de Design Brief workshop die gegeven
 
 ### Deelvraag 0.1 {#deelvraag-1}
 
-![Eerste versie van deelvraag 1](../.gitbook/assets/deelvragen%20%282%29.jpg)
+![Afbeelding 1: Eerste versie van deelvraag 1](../.gitbook/assets/deelvragen%20%282%29.jpg)
 
 ### Deelvraag 0.2 {#deelvraag-2}
 
-![Eerste versie van deelvraag 2](../.gitbook/assets/deelvragen2%20%281%29.jpg)
+![Afbeelding 2: Eerste versie van deelvraag 2](../.gitbook/assets/deelvragen2%20%281%29.jpg)
 
 ### Deelvraag 0.3 {#deelvraag-3}
 
-![Eerste versie van deelvraag 3](../.gitbook/assets/deelvragen3%20%281%29.jpg)
+![Afbeelding 3: Eerste versie van deelvraag 3](../.gitbook/assets/deelvragen3%20%281%29.jpg)
 
 ## Laatste deelvragen
 
@@ -32,17 +32,17 @@ Tijdens mijn onderzoek ben ik snel achtergekomen dat ik enkele vragen anders zal
 
 ### Deelvraag 1
 
-![Laatste versie van deelvraag 1](../.gitbook/assets/deelvragen4.jpg)
+![Afbeelding 4: Laatste versie van deelvraag 1](../.gitbook/assets/deelvragen14.jpg)
 
-![Laatste versie van deelvraag 1](../.gitbook/assets/deelvragen5.jpg)
+
 
 ### Deelvraag 2
 
-![Laatste versie van deelvraag 2](../.gitbook/assets/deelvragen6.jpg)
+![Afbeelding 5: Laatste versie van deelvraag 2](../.gitbook/assets/deelvragen6.jpg)
 
 ### Deelvraag 3
 
-![](../.gitbook/assets/deelvragen7.jpg)
+![Afbeelding 6: Laatste versie van deelvraag 3](../.gitbook/assets/deelvragen7.jpg)
 
 
 

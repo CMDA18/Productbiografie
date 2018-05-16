@@ -8,16 +8,16 @@
 * [1.1 Algemene informatie](1.-introductie/algemene-informatie.md)
 * [1.2 Aanleiding Project](1.-introductie/aanleiding-project.md)
 * [1.3 Inleiding](1.-introductie/inleiding.md)
+* [1.4 Onderzoeksvragen](1.-introductie/onderzoeksvragen.md)
 
-## 2. Onderzoek
+## 2. Verkenningsfase
 
-* [2.1 Inleiding](2.-onderzoek/inleiding.md)
-* [2.2 Jungle Minds](2.-onderzoek/jungle-minds.md)
-* [2.3 Customer journey \(huidige situatie\)](2.-onderzoek/customer-journey-huidige-situatie.md)
-* [2.4 Customer journey \(gewenste situatie\)](2.-onderzoek/customer-journey-gewenste-situatie.md)
-* [2.5 Requirements list](2.-onderzoek/requirements-list.md)
-* [2.6 Content richtlijnen](2.-onderzoek/content-richtlijnen.md)
-* [2.7 Onderzoeksvragen](2.-onderzoek/onderzoeksvragen.md)
+* [2.1 Inleiding](2.-verkenningsfase/inleiding.md)
+* [2.2 Jungle Minds](2.-verkenningsfase/jungle-minds.md)
+* [2.3 Customer journey \(huidige situatie\)](2.-verkenningsfase/customer-journey-huidige-situatie.md)
+* [2.4 Customer journey \(gewenste situatie\)](2.-verkenningsfase/customer-journey-gewenste-situatie.md)
+* [2.5 Requirements list](2.-verkenningsfase/requirements-list.md)
+* [2.6 Content richtlijnen](2.-verkenningsfase/content-richtlijnen.md)
 
 ## 3. Concept
 
@@ -61,9 +61,10 @@
   * [6.1.5 Visual Designer: Noor](onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md)
   * [6.1.6 Frontend Developer: Luisa](onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)
   * [6.1.7 Resource Manager: Joyce](onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md)
-* [6.2 Surveys](onderzoek-methodes/surveys/README.md)
-  * 6.2.1 Survey: Working at Jungle Minds
-  * 6.2.2 Survey: Inwerkproces
+* [6.2 Persona](onderzoek-methodes/6.2-persona.md)
+* [6.3 Surveys](onderzoek-methodes/surveys/README.md)
+  * 6.3.1 Survey: Working at Jungle Minds
+  * 6.3.2 Survey: Inwerkproces
 
 ## \_
 

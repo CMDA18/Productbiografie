@@ -6,6 +6,8 @@ Jungle Minds \(2018\) Jungle day XL 1 pdf.
 
 Jungle Minds \(2017\) Nieuwe huisstijl pdf. 
 
+
+
 Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Education Benelux BV. 
 
 **Bronnen** 
@@ -21,6 +23,8 @@ Cornerstone \(z.j.\). CORNERSTONE ONBOARDING. Verkregen op 15 februari 2018, van
 Grafhorst Geerst, S \(z.j.\) Hoe geef je de introductie van nieuwe medewerkers vorm? Verkregen op 18 februari 2018, van http://www. managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm 
 
 Holland, R. J. \(2012\). The 6 things all new employees should be told. Verkregen op 16 januari 2018, van https://www.ragan.com/Main/Articles/ The\_6\_things\_all\_new\_employees\_should\_be\_told\_45604.aspx 
+
+Jungle Minds. \(2017\). User centered sinds 2000. Geraadpleegd op 4 februari 2018, van https://jungleminds.nl/ons-verhaal
 
 Jungle Minds \(z.j.\). Welkom to the Jungle, pagina 9. Verkregen op 04 februari 2018 van https://cdn.jungleminds.nl/media/files/jm\_handboek\_webversie\_v2.pdf 
 
@@ -52,7 +56,23 @@ Pdf Jungle day 1 2018
 
 {% embed data="{\"url\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\",\"type\":\"link\",\"title\":\"APA-stijl voorbeelden\",\"description\":\"In dit artikel kun je voorbeelden vinden van verwijzingen voor meestgebruikte bronnen volgens de APA-stijl.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.scribbr.nl/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.scribbr.nl/wp-content/themes/scribbr-2017/img/opengraph/logo.png\",\"width\":750,\"height\":750,\"aspectRatio\":1},\"caption\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\"}" %}
 
+Aflbeeldingen:
 
+Afbeelding 1: Eerste versie van deelvraag 1
 
+Afbeelding 2: Eerste versie van deelvraag 2
 
+Afbeelding 3: Eerste versie van deelvraag 3
+
+Afbeelding 4: Laatste versie van deelvraag 1
+
+Afbeelding 5: Laatste versie van deelvraag 2
+
+Afbeelding 6: Laatste versie van deelvraag 3
+
+Afbeelding 7: Moodboard van uitstralling van de cuultuur van Jungle Minds.
+
+Afbeelding 8: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
+
+Afbeelding 9: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
 
