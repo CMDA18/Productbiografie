@@ -4,7 +4,10 @@ Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/
 
 ![Afbeelding 12: Visuele weergave van de meeste voorkomende vraag naar content.](../.gitbook/assets/tabellen-project-01.png)
 
-Naast de interviews en enquetes met de doelgroep heb ik ook en deskresearch onderzoek gedaan naar
+Naast de interviews en enquetes met de doelgroep heb ik ook en deskresearch onderzoek gedaan om te kunnen zien wat voor soort informatie er bewezen is om nuttig te zijn voor een nieuwe medewerker. Uit deze onderzoek heb ik de volgende geconstateerd:
+
+* 
+
 
 Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier onderwerpen in de webapp moeten komen. 
 
