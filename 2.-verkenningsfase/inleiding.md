@@ -1,7 +1,3 @@
----
-description: Week 1 tot en met 8
----
-
 # 2.1 Inleiding
 
 Tijdens de verkenningsfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 1, "[1. Waarom is een webapp relevant voor nieuwe medewerkers?](../1.-introductie/onderzoeksvragen.md#deelvraag-1)", en deelvraag 2, "[2. Wat zijn de benodigde informatie dat het product moet bevatten?](../1.-introductie/onderzoeksvragen.md#deelvraag-2)". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md).
@@ -13,8 +9,8 @@ De verkenningsfase heeft plaats gevonden in week 1 tot en met week 8. Hieronder 
 | **Week** | **Deliverables** | **Onderzoeksmethode** |
 | --- | --- | --- |
 | Week 3/6         | [Mood board Jungle Minds](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/mood-board-jungle-minds) | Fly on the wall / Deskresearch / Interview / Survey  |
-| Week 3/9 | [Customer journey \(huidige situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-huidige-situatie) | Orienting Expert Interview / Survey / Context mapping |
-| Week 3/9 | [Customer journey \(gewenste situatie\)](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/customer-journey-gewenste-situatie) | Interview / Survey / Context mapping |
+| Week 3/9 | [Customer journey \(huidige situatie\)](customer-journey.md#huidige-situatie) | Orienting Expert Interview / Survey / Context mapping |
+| Week 3/9 | [Customer journey \(gewenste situatie\)](customer-journey.md#gewenste-situatie) | Interview / Survey / Context mapping |
 | Week 6/8 | [Requirements list](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/requirements-list) | Orienting Expert Interview / Interview / Survey / Literature Study |
 | Week 9 | [Content richtlijnen](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/content-richtlijnen) | Orienting Expert Interview / Interview / Survey / Literature Study / Storytelling |
 

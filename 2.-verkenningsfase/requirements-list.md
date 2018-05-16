@@ -1,6 +1,6 @@
-# 2.5 Requirements list
+# 2.4 Requirements list
 
-Aan de hand van de probleemsituatie en mijn ontwerpvraag heb ik gekeken naar de voorwaarden die mijn opleiding stelde, naar de eisen van die het bedrijf als opdrachtgever stelde en naar mijn eigen leereisen binnen dit project. Hieruit heb ik een voorlopige programma van eisen gesteld. Deze heeft betrekking tot de klant, de gebruiker, de technische eisen, de markteisen, de vormgeving en de gebruiksomstandigheden. 
+Aan de hand van de probleemsituatie en mijn [hoofdvraag](../1.-introductie/onderzoeksvragen.md#hoofdvraag) heb ik gekeken naar de voorwaarden die mijn opleiding stelde, naar de eisen van die het bedrijf als opdrachtgever stelde en naar mijn eigen leereisen binnen dit project. Hieruit heb ik een voorlopige programma van eisen gesteld. Deze heeft betrekking tot de klant, de gebruiker, de technische eisen, de markteisen, de vormgeving en de gebruiksomstandigheden. 
 
 ### Programma van eisen: 
 
@@ -19,16 +19,17 @@ Aan de hand van de probleemsituatie en mijn ontwerpvraag heb ik gekeken naar de 
 {% endtab %}
 
 {% tab title="Technische eisen " %}
-* Het product moet gecodeerd worden in React of React Native. 
-* Het product moet werken op zowel grote als kleine schermen. 
+* Het product moet gecodeerd worden in React.
+* Het product moet werken op grote schermen. 
 {% endtab %}
 
 {% tab title="Markteisen" %}
 * Het product mag geen gevoelige informatie bevatten over projecten binnen Jungle Minds.
+* Het product mag geen gevoelige informatie bevatten over het bedrijf.
 {% endtab %}
 
 {% tab title="Vormgeving" %}
-* Het product moet aan de huisstijl van Jungle Minds voldoen. 
+* Het product moet aan de nieuwe huisstijl van Jungle Minds voldoen. 
 * Er moet een balans zien te vinden tussen de geschreven content en visuele content. 
 {% endtab %}
 
@@ -37,15 +38,5 @@ Aan de hand van de probleemsituatie en mijn ontwerpvraag heb ik gekeken naar de 
 {% endtab %}
 {% endtabs %}
 
-## Onderzoek
-
-### Orienting Expert Interview
-
-### Interview
-
-### Survey
-
-![](../.gitbook/assets/screen-shot-2018-04-02-at-19.42.19%20%282%29.png)
-
-### Literature Study
+### 
 

@@ -1,23 +1,19 @@
-# 2.6 Content richtlijnen
+# 2.5 Content richtlijnen
 
-## Content richtlijnen
+Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/interviews/6.1.4-team-designer-claire.md), [Noor](../onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md) en [Luisa](../onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)\) en de antwoorden op mijn [enquete](../onderzoek-methodes/surveys/survey-working-at-jungle-minds.md) heb ik gekeken naar waar de meeste vraag naar content was. Zie afbeelding 1 voor de weergave van de meeste voorkomende content.
+
+![Afbeelding 12: Visuele weergave van de meeste voorkomende vraag naar content.](../.gitbook/assets/tabellen-project-01.png)
+
+Naast de interviews en enquetes met de doelgroep heb ik ook en deskresearch onderzoek gedaan naar
+
+Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier onderwerpen in de webapp moeten komen. 
 
 * Manier van Werken van Jungle Minds
 * De Rollen binnen Jungle Minds
 * Bij wie kan je terecht voor welke vragen \(FAQ\)
 * Cultuur van het bedrijf naar voren brengen
 
-## Onderzoek
-
-### Orienting Expert Interview
-
-Docent feedback vragen over content.
-
-### Interview
-
-### Survey
-
-![](../.gitbook/assets/screen-shot-2018-04-02-at-19.42.19%20%281%29.png)
+### 
 
 ### Literature Study
 

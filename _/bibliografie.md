@@ -1,6 +1,6 @@
 # Bibliografie
 
-**Literatuur** 
+### **Literatuur** 
 
 Jungle Minds \(2018\) Jungle day XL 1 pdf. 
 
@@ -10,7 +10,7 @@ Jungle Minds \(2017\) Nieuwe huisstijl pdf.
 
 Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Education Benelux BV. 
 
-**Bronnen** 
+### **Bronnen** 
 
 BambooHR \(z.j.\). Employee Self-Onboarding Software. Verkregen op 15 februari 2018, van https://www.bamboohr.com/employee-self-onboarding/ 
 
@@ -58,7 +58,7 @@ Pdf Jungle day 1 2018
 
 {% embed data="{\"url\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\",\"type\":\"link\",\"title\":\"APA-stijl voorbeelden\",\"description\":\"In dit artikel kun je voorbeelden vinden van verwijzingen voor meestgebruikte bronnen volgens de APA-stijl.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.scribbr.nl/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.scribbr.nl/wp-content/themes/scribbr-2017/img/opengraph/logo.png\",\"width\":750,\"height\":750,\"aspectRatio\":1},\"caption\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\"}" %}
 
-Aflbeeldingen:
+### Aflbeeldingen:
 
 Afbeelding 1: Eerste versie van deelvraag 1
 
@@ -77,4 +77,16 @@ Afbeelding 7: Moodboard van uitstralling van de cuultuur van Jungle Minds.
 Afbeelding 8: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
 
 Afbeelding 9: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
+
+Afbeelding 10: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
+
+Afbeelding 11: Door middel van het eindproduct zullen de eindprestaties verbeterd worden.
+
+Afbeelding 12: Visuele weergave van de meeste voorkomende vraag naar content.
+
+
+
+
+
+
 
