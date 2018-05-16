@@ -1,6 +1,6 @@
 # Bibliografie
 
-**Literatuur **
+**Literatuur** 
 
 Jungle Minds \(2018\) Jungle day XL 1 pdf. 
 
@@ -8,7 +8,7 @@ Jungle Minds \(2017\) Nieuwe huisstijl pdf.
 
 Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Education Benelux BV. 
 
-**Bronnen **
+**Bronnen** 
 
 BambooHR \(z.j.\). Employee Self-Onboarding Software. Verkregen op 15 februari 2018, van https://www.bamboohr.com/employee-self-onboarding/ 
 

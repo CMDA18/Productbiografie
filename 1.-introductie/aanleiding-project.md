@@ -10,7 +10,7 @@ Dit klinkt onhandig, echter, zal dit voor mijn project goed van pas komen omdat 
 
 Voor de periode van februari tot en met juni ga ik mij bezig houden met mijn afstudeerproject. De opdrachtgevers van dit project zijn het bedrijf Jungle Minds en mijn opleiding Communication and Multimedia Design.
 
-### **Jungle Minds **
+### **Jungle Minds** 
 
 “Bij Jungle Minds draait alles om de gebruikswaarde, het maken van digitale producten die ons dagelijks leven beter maken. De technologie en design die problemen oplossen, interactie stimuleren en een goede ervaring bieden. Dingen waarvan we zelf als gebruiker vinden, ‘fijn dat iemand daar goed over heeft nagedacht’.” \(Jungle Minds, z.j., p.9\)
 
@@ -22,7 +22,7 @@ Binnen het bedrijf wordt veel waarde gehecht aan de verschillende kennis en skil
 * **Een koel hoofd:** Persoonlijk kwaliteitsbesef en toewijding maken in het vak het verschil. 
 * **Trots op wat je doet:** Iedereen werkt in Jungle Minds omdat ‘ie daar goed in is. Er wordt dus gewaardeerd als medewerkers hun mond open trekken als dat nodig is. 
 
-### **Communication and Multimedia Design **
+### **Communication and Multimedia Design** 
 
 Communication and Multimedia Design is een HBO ontwerp opleiding op het gebied van digitale interactieve producten en diensten. De studenten ontwerpen en realiseren digitale interactieve oplossingen die optimaal aansluiten bij de behoeften van de gebruikers. De gebruiker staat altijd centraal. 
 

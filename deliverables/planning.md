@@ -4,15 +4,15 @@
 
 Binnen deze twintig weken wil ik mijn project verdelen in 3 hoofdfasen. Namelijk: verkenning, idee ontwikkeling en realisatie. Hieronder beschrijf ik de drie losse fases. Maar in de praktijk zullen ze elkaar overlappen aan de hand van de informatie dat ik zal verkrijgen van elke fase. 
 
-### **Verkenning **
+### **Verkenning** 
 
 Tijdens de verkenningsfase wil ik mij voornamelijk richten op onderzoek naar de behoeftes van de verschillende stakeholders, hoe andere bedrijven deze situatie aanpakken en literair onderzoek. Ik schat dat ik zes weken bezig zal zijn met het verzamelen en het verwerken van allerlei informatie uit verschillende onderzoeken. 
 
-### **Idee ontwikkeling **
+### **Idee ontwikkeling** 
 
 Tijdens mijn idee ontwikkeling wil ik de focus leggen bij design patterns onderzoek en mijn concepten ontwikkelingen. Ik wil zo veel mogelijke potentiële concepten uitschetsen en aan het einde van deze fase wil ik een low-fi prototype hebben gemaakt van het meest potentiële concept. Ik schat dat ik vier weken hiermee bezig zal zijn. 
 
-### **Realisatie **
+### **Realisatie** 
 
 Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken zal ik mij bezig houden met het maken en testen van een high-fi prototype van het eindproduct. Als eindproduct wil ik in ieder geval een product maken waarbij de algemene procedures en informatie van Jungle Minds goed overgebracht wordt naar de nieuwe medewerkers. 
 
