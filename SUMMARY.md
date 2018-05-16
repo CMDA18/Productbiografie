@@ -63,7 +63,7 @@
   * [6.1.7 Resource Manager: Joyce](onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md)
 * [6.2 Persona](onderzoek-methodes/6.2-persona.md)
 * [6.3 Surveys](onderzoek-methodes/surveys/README.md)
-  * 6.3.1 Survey: Working at Jungle Minds
+  * [6.3.1 Survey: Working at Jungle Minds](onderzoek-methodes/surveys/survey-working-at-jungle-minds.md)
   * 6.3.2 Survey: Inwerkproces
 
 ## \_
