@@ -15,15 +15,17 @@ Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslo
 
 ![Afbeelding 8: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
-## Missie, visie & Inspiratie
+## Missie & visie
 
 ### Missie
 
-Uit de interviews met de managing partners, de HR-afdeling en de resource manager heb ik kunnen concluderen dat...
+Uit de interviews met de managing partners [Kars](../onderzoek-methodes/interviews/6.1.1-managing-partner-kars.md) en [Bart](../onderzoek-methodes/interviews/6.1.2-managing-partner-bart.md), de [HR-afdeling](../onderzoek-methodes/interviews/6.1.3-hr-manager-alexandra.md) en de [resource manager](../onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md) heb ik kunnen concluderen dat Jungle Minds de ambitie heeft om merken te helpen om aan hun doelgroep gebruikswaarden te geven waarin digital central staat. Als bureau staan we voor digitale innovatie en verbetering op elke niveau van een organisatie, dat noemen wij brands, products en team.
 
-Jungle Minds is de leidende partner voor High Impact-merken waardoor ze gebruikerswaarde kunnen bieden door hun producten.
+Naar werknemers is onze missie om goede werknemers te zijn, waar ruimte is voor menselijke maat. Wij investeren veel op mensen die hier werken zodat zij zich steeds blijven ontwikkelen. We zijn niet alleen een plek waar je je inkomen verdient, maar een plek waar je kan ontwikkelen en met een plezier werkt.
 
 ### Visie
+
+Uit de interviews met de managing partners [Kars](../onderzoek-methodes/interviews/6.1.1-managing-partner-kars.md) en [Bart](../onderzoek-methodes/interviews/6.1.2-managing-partner-bart.md), de [HR-afdeling](../onderzoek-methodes/interviews/6.1.3-hr-manager-alexandra.md) en de [resource manager](../onderzoek-methodes/interviews/6.1.6-resource-manager-joyce.md) bleek dat de visie van Jungle Minds gelijk staat met zijn missie, waar de focus op human, shape en business ligt.
 
 #### Human, business, shape
 
@@ -39,16 +41,6 @@ We houden van grote ambities maar wel in kleine, snelle stappen. Omdat we weten 
 
 Is hoe we met onze opdrachtgevers samenwerken. Onze klanten zijn onlosmakelijk verbonden met ons team en onze manier van werken. Alleen zo leren we je business echt kennen en kunnen we begrijpen welke veranderingen nodig zijn. \(Jungle Minds, 2017\)
 
-### Inspiratie
-
-#### Huge
-
-Het bedrijf Huge is een grote bron van inspiratie binnen de managing partners.
-
-[https://www.hugeinc.com/](https://www.hugeinc.com/)
-
-## Identiteit & merkbeleving
-
 ## Medewerkers
 
 Jungle Minds is een bedrijf die een diverse team in huis heeft. Van frontend developers tot copywriters. Dit wil zeggen dat goede samenwerking en communicatie erg belangrijk is binnen projecten. Uit mijn enquetes en interviews met de doelgroep is er gebleken dat het belangrijk is dat een nieuwe medewerker de basiskennis kent van de verschillende expertises binnen het bedrijf. 
@@ -63,23 +55,23 @@ In de huidige situatie krijgen de nieuwe medewerkers toegang tot welke functies 
 
 | **Functie**                                  | **Aantal medewerkers** | **Beschrijving** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Managing Partner                                                                                                                                                                                                                                   | 4 |  |
-| Office Manager              | 2 |  |
-| HR Manager | 1 |  |
-| Resource Manager | 1 |  |
-| Finance Manager & Controller | 1 |  |
+| Managing Partner                                                                                                                                                                                                                                   | 4 | Managing Partners focusses on nurturing a creative and progressive culture within Jungle Minds. They are always working to build long-term partnerships with our clients. And they are always driven to go the extra mile to achieve the best result.  |
+| Office Manager              | 2 | Office Manager aim to pamper everyone and make sure we’re all comfortable. |
+| HR Manager | 1 | HR Manager shapes Jungle Minds’ creative and stimulating atmosphere and is responsible for attracting new Jungle talent.  |
+| Resource Manager | 1 | Resource Manager is responsible for the project planning, coordinating which colleagues work on what projects.  |
+| Finance Manager & Controller | 1 | Finance manager & controller is responsible for a sound financial policy and involved in Jungle Minds’ order, payroll and project administration.  |
 | Project managers | 5 | Project Managers facilitate the process and team work between accounts, design, research, strategy and development and they are the point of contact for our client on scope, planning, budget and sales opportunities. They keep track of the project’s process and also function as Scrum Masters in agile projects.  |
-| Team Designer | 2 |  |
-| Art director | 2 |  |
+| Team Designer | 2 | Team Designer advises our clients about how to compose the best in house digital product teams and other digital issues. But also advises our clients about talent, tooling and the right composition of digital teams.  |
+| Art director | 2 | Art Director is as such responsible for the brand and user experience of all our solutions. |
 | Visual Designers | 7 | Visual Designers translate brand objectives and user needs into functional and creative user experiences. They look for the best way to translate the message of the product by combining creativity and esthetics with technical knowledge. So Visual Designers not only make our products look nice but they also make sure that the visual elements are enhancing our clients business goals. |
 | Frontend Developers | 9 | Frontend Developers develop the best solutions to make our products work. They connect the visual designs with the software that is needed to make the product function by translating the designs into codes. They do this in a way that is user friendly and accessible. So Front-End Developers transform the designs for our digital products into a technical working unity. |
 | Interection Designer | 4 | Interaction Designers translate user insights into effective Interaction Designs. Based on user stories they define which steps a user should take to achieve his goal and they create wireframes to bring structure and overview within all the complex information that need to be part of the product. So Interaction Designers fulfill the needs of users in a functional product. |
 | Researchers | 2 | Researchers are the ambassadors of the end users. By using different kinds of research methodologies they search for the needs, issues and behaviour of the users in every project. The researchers make sure that these insights are integrated by the team throughout the whole product development process. And to make sure we keep on the right track our researchers will be doing user tests in several phases during the process. |
 | Strategen | 4 | Strategists have the important task to translate our clients problems into solutions. They are well aware of the market trends and they know what our clients require from a business perspective. Strategists facilitate the creative process in our \(client\)teams, they inspire and guide clients towards the best solution by helping our clients to translate user value into tangible KPI’s and by guiding the client’s Product Owner to achieve the most value within the product. |
-| Motion graphic designers | 1 |  |
-| Copywriters | 1 |  |
-| Allrounder | 1 |  |
+| Motion graphic designers | 1 | A Motion Graphic Designer makes illustrations, video's and animations.  |
+| Copywriters | 1 | A Jungle Mind’s copywriter applies her broad interests and insights into human motives to tell clear stories.  |
+| Allrounder | 1 | Desk research? Content-chores? A game of Disney-trivia? I am here for you. |
 | **Totaal:** | **47** |  |
 
-Jungle Minds\(2017\) [https://jungleminds.nl/team](https://jungleminds.nl/team)
+Jungle Minds\(2017\) 
 

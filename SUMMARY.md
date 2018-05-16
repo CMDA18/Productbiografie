@@ -31,7 +31,7 @@
 ## 4. Ontwerpen
 
 * [4.1 Inleiding](4.-ontwerpen/inleiding.md)
-* [4.2 Huisstijl](4.-ontwerpen/4.2-huisstijl.md)
+* [4.2 Identiteit & merkbeleving](4.-ontwerpen/4.2-identiteit-and-merkbeleving.md)
 * [4.2 Prototype v0.1](4.-ontwerpen/prototype-v0.1.md)
 * [4.3 Prototype v0.3](4.-ontwerpen/prototype-v0.3.md)
 * [4.4 Prototype v0.6](4.-ontwerpen/prototype-v0.6.md)

@@ -26,6 +26,8 @@ Holland, R. J. \(2012\). The 6 things all new employees should be told. Verkrege
 
 Jungle Minds. \(2017\). User centered sinds 2000. Geraadpleegd op 4 februari 2018, van https://jungleminds.nl/ons-verhaal
 
+Jungle Minds. \(2017\). Say hello to our team. Geraadpleegd op 1 februari 2018, van https://jungleminds.nl/team
+
 Jungle Minds \(z.j.\). Welkom to the Jungle, pagina 9. Verkregen op 04 februari 2018 van https://cdn.jungleminds.nl/media/files/jm\_handboek\_webversie\_v2.pdf 
 
 Marino, M. \(2016\). How Culture and Values Fit Into the Onboarding Experience. Verkregen op 15 januari 2018, van https://www.tlnt.com/how-culture-and-values-fit-into-the-onboarding-experience/ 
