@@ -6,7 +6,16 @@ Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/
 
 Naast de interviews en enquetes met de doelgroep heb ik ook en deskresearch onderzoek gedaan om te kunnen zien wat voor soort informatie er bewezen is om nuttig te zijn voor een nieuwe medewerker. Uit deze onderzoek heb ik de volgende geconstateerd:
 
-* 
+Uit het artikel "Hoe je nieuwe medewerkers succesvol integreert" schrijven Drain, N. en Marchand, B. dat de integratieproces uit vier belangrijke stappen bestaat, namelijk:
+
+*  ****De ontvangst van een nieuwe medewerker voorbereiden
+  * De HR afdeling 
+    * Moet zorgen dat de medewerker alles krijgt om met hun werk te kunnen beginnen.
+    * Moet de opdrachten en doelen op een rijtje zetten, zodat de nieuwe medewerkers en hun managers ze kunnen doornemen en goedkeuren.
+  * Managers
+    * Kondig de komst van de nieuwe teamleden aan in een e-mail of een vergadering.
+    * Stel een welkomstpakket samen met relevante informatie over elke nieuwe medewerker: loopbaan, nieuwe functie, de rol die hij of zij gaat spelen.
+
 
 
 Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier onderwerpen in de webapp moeten komen. 
