@@ -8,7 +8,7 @@ Dit klinkt onhandig, echter, zal dit voor mijn project goed van pas komen omdat 
 
 ## De opdrachtgevers
 
-Voor de periode van februari tot en met juni ga ik mij bezig houden met mijn afstudeerproject. De opdrachtgevers van dit project zijn het bedrijf Jungle Minds en mijn opleiding Communication and Multimedia Design.
+Gedurende de periode van februari tot en met juni ga ik mij bezig houden met mijn afstudeerproject. De opdrachtgevers van dit project zijn het bedrijf Jungle Minds en mijn opleiding Communication and Multimedia Design.
 
 ### **Jungle Minds** 
 
