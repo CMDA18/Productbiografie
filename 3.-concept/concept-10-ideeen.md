@@ -3,7 +3,7 @@
 Onboardingtool.
 
 Wat houdt een onboarding tool in?  
-Onboarding betekent: The user needs to acquire the necessary knowledge, skills and behaviours to become effective.
+ Met een onboarding wordt bedoeld dat de gebruiker moet de nodige kennis, vaardigheden en gedrag verwerven om effectief te worden.
 
 Webapp uitstraling: 
 

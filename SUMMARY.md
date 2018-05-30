@@ -17,7 +17,7 @@
 * [2.3 Customer journey](2.-verkenningsfase/customer-journey.md)
 * [2.4 Requirements list](2.-verkenningsfase/requirements-list.md)
 * [2.5 Content richtlijnen](2.-verkenningsfase/content-richtlijnen.md)
-* [Conclusie](2.-verkenningsfase/conclusie.md)
+* [2.6 Conclusie](2.-verkenningsfase/conclusie.md)
 
 ## 3. Concept
 
