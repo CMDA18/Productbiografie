@@ -27,16 +27,3 @@ Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier o
 
 
 
-!!! Moet ngo gedaan worden + uitstraling grafiek
-
-### Literature Study
-
-#### Nederlandse uitspraken naar Engels
-
-* [https://www.fashionscene.nl/fashion/172743/gieren-nederlandse-spreekwoorden-vertaald-in-engels](https://www.fashionscene.nl/fashion/172743/gieren-nederlandse-spreekwoorden-vertaald-in-engels)
-* [https://froot.nl/posttype/froot/dit-gebeurt-er-als-je-nederlandse-uitspraken-letterlijk-vertaalt-naar-het-engels/](https://froot.nl/posttype/froot/dit-gebeurt-er-als-je-nederlandse-uitspraken-letterlijk-vertaalt-naar-het-engels/)
-
-
-
-### Storytelling
-
