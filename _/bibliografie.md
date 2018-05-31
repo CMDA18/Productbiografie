@@ -60,37 +60,43 @@ Pdf Jungle day 1 2018
 
 ### Aflbeeldingen:
 
-Afbeelding 1: Eerste versie van deelvraag 1
+Afbeelding 1: Overzicht van deelvraag 1 en de subdeelvragen
 
-Afbeelding 2: Eerste versie van deelvraag 2
+Afbeelding 2: Overzicht van deelvraag 2 en de subdeelvragen
 
-Afbeelding 3: Eerste versie van deelvraag 3
+Afbeelding 3: Overzicht van deelvraag 3 en de subdeelvragen
 
-Afbeelding 4: Laatste versie van deelvraag 1
+Afbeelding 4: Eerste versie van deelvraag 1
 
-Afbeelding 5: Laatste versie van deelvraag 2
+Afbeelding 5: Eerste versie van deelvraag 2
 
-Afbeelding 6: Laatste versie van deelvraag 3
+Afbeelding 6: Eerste versie van deelvraag 3
 
-Afbeelding 7: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
+Afbeelding 7: Laatste versie van deelvraag 1
 
-Afbeelding 8: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
+Afbeelding 8: Laatste versie van deelvraag 2
 
-Afbeelding 9: Moodboard van uitstralling van de cuultuur van Jungle Minds.
+Afbeelding 9: Laatste versie van deelvraag 3
 
-Afbeelding 10: Stakeholders overzicht.
+Afbeelding 10: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
 
-Afbeelding 11: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
+Afbeelding 11: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
 
-Afbeelding 12: Door middel van het eindproduct zullen de eindprestaties verbeterd worden.
+Afbeelding 12: Moodboard van uitstralling van de cuultuur van Jungle Minds.
 
-Afbeelding 13: Visuele weergave van de meeste voorkomende vraag naar content.
+Afbeelding 13: Stakeholders overzicht.
+
+Afbeelding 14: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
+
+Afbeelding 15: Door middel van het eindproduct zullen de eindprestaties verbeterd worden.
+
+Afbeelding 16: Visuele weergave van de meeste voorkomende vraag naar content.
 
 
 
-Afbeelding 15: Subdeelvragen van deelvraag 1 met inzichten.
+Afbeelding 18: Subdeelvragen van deelvraag 1 met inzichten.
 
-Afbeelding 16: Subdeelvragen van deelvraag 2 met inzichten.
+Afbeelding 19: Subdeelvragen van deelvraag 2 met inzichten.
 
 
 

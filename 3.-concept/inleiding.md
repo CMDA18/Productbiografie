@@ -4,7 +4,7 @@ description: Week 8/ 14
 
 # 3.1 Inleiding
 
-Tijdens de verkenningsfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 1, "[1. Waarom is een webapp relevant voor nieuwe medewerkers?](../1.-introductie/onderzoeksvragen.md#deelvraag-1)", en deelvraag 2, "[2. Wat zijn de benodigde informatie dat het product moet bevatten?](../1.-introductie/onderzoeksvragen.md#deelvraag-2)". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md).
+Tijdens de conceptfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 3, "[3 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken](../1.-introductie/onderzoeksvragen.md#deelvraag-3)?". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md).
 
 ## Onderzoek
 

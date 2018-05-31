@@ -10,7 +10,7 @@ Jungle Minds werd opgericht IN 2000 als het eerste digital focussed onderzoeks- 
 
 Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en waar elke deel van de piramide voor staat.
 
-![Afbeelding 7: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
+![Afbeelding 10: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
 ## Missie & visie
 
@@ -26,7 +26,7 @@ Uit de interviews met de managing partners [Kars](../onderzoek-methodes/intervie
 
 #### Human, business, shape
 
-![Afbeelding 8: Illustratie van hoe human, shape en business met elkaar in verhouding staan.](../.gitbook/assets/screen-shot-2018-05-16-at-12.01.47%20%281%29.png)
+![Afbeelding 11: Illustratie van hoe human, shape en business met elkaar in verhouding staan.](../.gitbook/assets/screen-shot-2018-05-16-at-12.01.47%20%281%29.png)
 
 Dit zijn de kernwoorden van onze visie. Welk vraagstuk je ons ook voorlegt, ons team vertegenwoordigt altijd deze drie invalshoeken. Ze helpen ons het probleem te ontrafelen en waardevolle verbindingen te vinden tussen gebruikers en merken. \(Jungle Minds, 2017\)
 
@@ -80,7 +80,7 @@ Daarnaast worden er gedurende jaar ook twee grote feesten georganiseerd, namelij
 
 
 
-![Afbeelding 9: Moodboard van uitstralling van de cuultuur van Jungle Minds. \(Instagram\)](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
+![Afbeelding 12: Moodboard van uitstralling van de cuultuur van Jungle Minds. \(Instagram\)](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
 
 ### 
 

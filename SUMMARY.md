@@ -20,7 +20,7 @@
 * [2.6 Requirements list](2.-verkenningsfase/requirements-list.md)
 * [2.7 Conclusie](2.-verkenningsfase/conclusie.md)
 
-## 3. Concept
+## 3. conceptfase
 
 * [3.1 Inleiding](3.-concept/inleiding.md)
 * [3.2 Comparison chart](3.-concept/comparison-chart.md)

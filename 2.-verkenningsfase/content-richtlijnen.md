@@ -2,7 +2,7 @@
 
 Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/interviews/6.1.4-team-designer-claire.md), [Noor](../onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md) en [Luisa](../onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)\) en de antwoorden op mijn [enquete](../onderzoek-methodes/surveys/survey-working-at-jungle-minds.md) heb ik gekeken naar waar de meeste vraag naar content was. Zie afbeelding 1 voor de weergave van de meeste voorkomende content.
 
-![Afbeelding 13: Visuele weergave van de meeste voorkomende vraag naar content.](../.gitbook/assets/tabellen-project-01.png)
+![Afbeelding 16: Visuele weergave van de meeste voorkomende vraag naar content.](../.gitbook/assets/tabellen-project-01.png)
 
 Naast de interviews en enquetes met de doelgroep heb ik ook en deskresearch onderzoek gedaan om te kunnen zien wat voor soort informatie er bewezen is om nuttig te zijn voor een nieuwe medewerker. Uit deze onderzoek heb ik de volgende geconstateerd:
 
