@@ -1,4 +1,4 @@
-# 2.6 Conclusie
+# 2.7 Conclusie
 
 beantwoorden van de deelvraag
 

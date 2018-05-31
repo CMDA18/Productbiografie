@@ -72,11 +72,11 @@ Afbeelding 5: Laatste versie van deelvraag 2
 
 Afbeelding 6: Laatste versie van deelvraag 3
 
-Afbeelding 7: Moodboard van uitstralling van de cuultuur van Jungle Minds.
+Afbeelding 7: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
 
-Afbeelding 8: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19
+Afbeelding 8: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
 
-Afbeelding 9: Illustratie van hoe human, shape en business met elkaar in verhouding staan.
+Afbeelding 9: Moodboard van uitstralling van de cuultuur van Jungle Minds.
 
 Afbeelding 10: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
 

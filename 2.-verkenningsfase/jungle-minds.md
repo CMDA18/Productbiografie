@@ -2,18 +2,15 @@
 
 ## Jungle Minds
 
-Het bedrijf Jungle Minds bestaat al sinds 2000 en werkt user centered. Ze bouwen User Centric Brands, producten en teams.
+De opdrachtgever van dit project is het bedrijf Jungle Minds. “Bij Jungle Minds draait alles om de gebruikswaarde, het maken van digitale producten die ons dagelijks leven beter maken. De technologie en design die problemen oplossen, interactie stimuleren en een goede ervaring bieden. Dingen waarvan we zelf als gebruiker vinden, ‘fijn dat iemand daar goed over heeft nagedacht’.” \(Jungle Minds, z.j., p.9\) Het bedrijf werkt met grote klanten als Akzo Nobel, AFC Ajax, BAM Wonen, LeasePlan Digital B.V. en Tele2. 
 
-> Jungle Minds werd opgericht als het eerste _digital focussed_ onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value.  
-> \(Jungle Minds, 2017\)
-
-![Afbeelding 7: Moodboard van uitstralling van de cuultuur van Jungle Minds.](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
+Jungle Minds werd opgericht IN 2000 als het eerste digital focussed onderzoeks- en strategiebureau van Nederland. Vanaf daar is het bedrijf gegroeid naar het bureau dat we vandaag zijn: een toonaangevend design & technologie bureau met aansprekende klanten binnen en buiten Nederland. Nog altijd 100% onafhankelijk. En bovenal: onveranderd gericht op user-value. Het bedrijf bouwt User Centric Brands, producten en teams.\(Jungle Minds, 2017\)
 
 ### Jungle Maslow
 
 Bij Jungle Minds hebben zij een eigen maslow opgesteld, namelijk de Jungle maslow. Dit weergeeft de visie die zij hebben op hun eigen bedrijf. Het wordt gelezen van onder naar boven op de manier dat Jungle Minds is gevestigd als bedrijf. Zie de afbeelding hieronder voor de Jungle Maslow en waar elke deel van de piramide voor staat.
 
-![Afbeelding 8: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
+![Afbeelding 7: Uitleg over de Jungle Maslow uit Jungle Minds handboek 2018 pag. 18/19](../.gitbook/assets/screen-shot-2018-04-18-at-11.14.23.png)
 
 ## Missie & visie
 
@@ -29,7 +26,7 @@ Uit de interviews met de managing partners [Kars](../onderzoek-methodes/intervie
 
 #### Human, business, shape
 
-![Afbeelding 9: Illustratie van hoe human, shape en business met elkaar in verhouding staan.](../.gitbook/assets/screen-shot-2018-05-16-at-12.01.47%20%281%29.png)
+![Afbeelding 8: Illustratie van hoe human, shape en business met elkaar in verhouding staan.](../.gitbook/assets/screen-shot-2018-05-16-at-12.01.47%20%281%29.png)
 
 Dit zijn de kernwoorden van onze visie. Welk vraagstuk je ons ook voorlegt, ons team vertegenwoordigt altijd deze drie invalshoeken. Ze helpen ons het probleem te ontrafelen en waardevolle verbindingen te vinden tussen gebruikers en merken. \(Jungle Minds, 2017\)
 
@@ -74,4 +71,18 @@ In de huidige situatie krijgen de nieuwe medewerkers toegang tot welke functies 
 | **Totaal:** | **47** |  |
 
 Jungle Minds\(2017\) 
+
+## Cultuur
+
+Naast het goed werk dat Jungle Minds verricht wordt er flink aan de cultuur van het bedrijf gewerkt om deze te behouden en door te geven aan nieuwe medewerkers. Zo worden er per kwartaal bijeenkomsten georganiseerd, genaamd Jungle Days. Hierin bespreken ze de voortgang van het bedrijf en de verschillende projecten waar het bedrijf mee bezig is.
+
+Daarnaast worden er gedurende jaar ook twee grote feesten georganiseerd, namelijk de zomer- en kerstfeest. Dit wordt groot aangepakt, vaak worden niet alleen de medewerkers uitgenodigd maar ook de freelancers en sommige klanten. Zie afbeelding 8 voor de mood board die de sfeer en cultuur van het bedrijf straalt. 
+
+
+
+![Afbeelding 9: Moodboard van uitstralling van de cuultuur van Jungle Minds. \(Instagram\)](../.gitbook/assets/moodboard-bedrijf-uitstralling.jpg)
+
+### 
+
+
 

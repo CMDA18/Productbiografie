@@ -1,4 +1,4 @@
-# 2.5 Content richtlijnen
+# 2.6 Content richtlijnen
 
 Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/interviews/6.1.4-team-designer-claire.md), [Noor](../onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md) en [Luisa](../onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)\) en de antwoorden op mijn [enquete](../onderzoek-methodes/surveys/survey-working-at-jungle-minds.md) heb ik gekeken naar waar de meeste vraag naar content was. Zie afbeelding 1 voor de weergave van de meeste voorkomende content.
 

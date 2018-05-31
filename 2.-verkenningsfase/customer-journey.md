@@ -1,4 +1,4 @@
-# 2.3 Customer journey
+# 2.4 Customer journey
 
 ## Huidige situatie
 

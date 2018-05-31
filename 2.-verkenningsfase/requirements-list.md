@@ -1,4 +1,4 @@
-# 2.4 Requirements list
+# 2.5 Requirements list
 
 Aan de hand van de probleemsituatie en mijn [hoofdvraag](../1.-introductie/onderzoeksvragen.md#hoofdvraag) heb ik gekeken naar de voorwaarden die mijn opleiding stelde, naar de eisen van die het bedrijf als opdrachtgever stelde en naar mijn eigen leereisen binnen dit project. Hieruit heb ik een voorlopige programma van eisen gesteld. Deze heeft betrekking tot de klant, de gebruiker, de technische eisen, de markteisen, de vormgeving en de gebruiksomstandigheden. 
 

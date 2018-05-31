@@ -14,10 +14,11 @@
 
 * [2.1 Inleiding](2.-verkenningsfase/inleiding.md)
 * [2.2 Jungle Minds](2.-verkenningsfase/jungle-minds.md)
-* [2.3 Customer journey](2.-verkenningsfase/customer-journey.md)
-* [2.4 Requirements list](2.-verkenningsfase/requirements-list.md)
-* [2.5 Content richtlijnen](2.-verkenningsfase/content-richtlijnen.md)
-* [2.6 Conclusie](2.-verkenningsfase/conclusie.md)
+* 2.3 Stakeholders
+* [2.4 Customer journey](2.-verkenningsfase/customer-journey.md)
+* [2.5 Requirements list](2.-verkenningsfase/requirements-list.md)
+* [2.6 Content richtlijnen](2.-verkenningsfase/content-richtlijnen.md)
+* [2.7 Conclusie](2.-verkenningsfase/conclusie.md)
 
 ## 3. Concept
 
