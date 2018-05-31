@@ -1,4 +1,4 @@
-# 3.3 Inspiration wall
+# 3.3 Inspiratie patterns
 
 Inspiration wall
 

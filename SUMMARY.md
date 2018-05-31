@@ -23,8 +23,8 @@
 ## 3. conceptfase
 
 * [3.1 Inleiding](3.-concept/inleiding.md)
-* [3.2 Comparison chart](3.-concept/comparison-chart.md)
-* [3.3 Inspiration wall](3.-concept/inspiration-wall.md)
+* [3.2 Best, good & bad practices](3.-concept/best-good-and-bad-practices.md)
+* [3.3 Inspiratie patterns](3.-concept/inspiratie-patterns.md)
 * [3.4 Concept: 10 ideeën](3.-concept/concept-10-ideeen.md)
 * [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
 * [3.6 Risk analyse: 3 ideeën](3.-concept/risk-analyse-3-ideeen.md)

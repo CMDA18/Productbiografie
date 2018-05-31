@@ -4,18 +4,16 @@ description: Week 8/ 14
 
 # 3.1 Inleiding
 
-Tijdens de conceptfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 3, "[3 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken](../1.-introductie/onderzoeksvragen.md#deelvraag-3)?". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md).
-
-## Onderzoek
-
-De verkenningsfase heeft plaats gevonden in week 1 tot en met week 8. Hieronder ziet u een tabel met de verschillende deliverables die ik heb opgeleverd tijdens deze fase met daarbij in welke week ik ermee bezig was en welke onderzoeksmethode ik gebruik heb om het te kunnen opleveren.
+Tijdens de conceptfase heb ik mij voornamelijk gericht op het gebied van onderzoeken. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 3, "[3 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken](../1.-introductie/onderzoeksvragen.md#deelvraag-3)?". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/onderzoeksvragen.md#deelvraag-3).
 
 ## Concept
 
+De conceptfase heeft plaats gevonden in week 8 tot en met week 14. Hieronder ziet u een tabel met de verschillende deliverables die ik heb opgeleverd tijdens deze fase met daarbij in welke week ik ermee bezig was en welke onderzoeksmethode ik gebruik heb om het te kunnen opleveren.
+
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- | --- | --- | --- |
-| Week 11 | [Comparison chart](comparison-chart.md) | Best, good & bad practices / Interview / Survey |
-| [​](inspiration-wall.md)Week 10 | [Inspiration wall](inspiration-wall.md) | Design Pattern Search / Best, good & bad practices |
+| Week 11 | [Best, good & bad practices](best-good-and-bad-practices.md) | Best, good & bad practices / Interview / Survey |
+| [​](inspiratie-patterns.md)Week 10 | [Inspiratie patterns](inspiratie-patterns.md) | Design Pattern Search / Best, good & bad practices |
 | ​Week 8/11 | [Concept: 10 ideeën](concept-10-ideeen.md) | Sketching / Storytelling / Ideation |
 | ​Week 12/14 | [Concept: 3 ideeën](concept-3-ideeen.md) | Ideation / Storytelling |
 | ​Week 14 | [Risk analyse: 3 ideeën](risk-analyse-3-ideeen.md) | Proof of Concept / Co-reflection |
@@ -64,7 +62,15 @@ Deze week:
 * [x] Content richtlijnen bepaald
 * [x] Eerste hi-fi versie van concept gemaakt
 
-### 
+### Week 12
 
+Zie reflectie van [week 12 in hoofdstuk 4.1 Inleiding](../4.-ontwerpen/inleiding.md#week-12)
 
+### Week 13
+
+Zie reflectie van [week 13 in hoofdstuk 4.1 Inleiding](../4.-ontwerpen/inleiding.md#week-13)
+
+### Week 14
+
+Zie reflectie van [week 14 in hoofdstuk 4.1 Inleiding](../4.-ontwerpen/inleiding.md#week-14)
 

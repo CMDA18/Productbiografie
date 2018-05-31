@@ -1,6 +1,8 @@
 # 2.5 Content richtlijnen
 
-Aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/interviews/6.1.4-team-designer-claire.md), [Noor](../onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md) en [Luisa](../onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)\) en de antwoorden op mijn [enquete](../onderzoek-methodes/surveys/survey-working-at-jungle-minds.md) heb ik gekeken naar waar de meeste vraag naar content was. Zie afbeelding 1 voor de weergave van de meeste voorkomende content.
+Uit de voorafgaande verkregen inzichten heb ik kunnen concluderen dat het product een onboarding tool, voor tijdens het inwerkperiode, moet worden. Met een onboarding tool wordt bedoeld dat de gebruiker de nodige kennis, vaardigheden en gedrag moet verwerven uit een tool om effectief te worden. Zo beschrijft Weidema, N. \(2017\)  “een goede onboarding tool laat de werknemer alvast kennismaken met de organisatie. Hij of zij leert meer over het bedrijf, soms in de vorm van een virtuele rondleiding, kan contact leggen met zijn nieuwe collega’s, en ziet welke professionele eisen aan hem worden gesteld.”.
+
+Om te bepalen welke content on onboarding tool moet bevatten heb ik aan de hand van de interviews met de doelgroep \([claire](../onderzoek-methodes/interviews/6.1.4-team-designer-claire.md), [Noor](../onderzoek-methodes/interviews/6.1.5-visual-designer-noor.md) en [Luisa](../onderzoek-methodes/interviews/6.1.6-frontend-developer-luisa.md)\) en de antwoorden op mijn [enquete](../onderzoek-methodes/surveys/survey-working-at-jungle-minds.md)  gekeken naar waar de meeste vraag naar content was. Zie afbeelding 1 voor de weergave van de meeste voorkomende content.
 
 ![Afbeelding 16: Visuele weergave van de meeste voorkomende vraag naar content.](../.gitbook/assets/tabellen-project-01.png)
 
