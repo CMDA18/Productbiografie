@@ -88,6 +88,12 @@ Afbeelding 13: Visuele weergave van de meeste voorkomende vraag naar content.
 
 
 
+Afbeelding 15: Subdeelvragen van deelvraag 1 met inzichten.
+
+Afbeelding 16: Subdeelvragen van deelvraag 2 met inzichten.
+
+
+
 
 
 

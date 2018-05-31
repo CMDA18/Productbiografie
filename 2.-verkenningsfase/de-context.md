@@ -1,6 +1,14 @@
-# 2.3 Het probleem
+# 2.3 De context
 
-## De context
+## Het probleem
+
+Tijdens de eerste twee maanden van mijn afstudeerstage heb ik de gelegenheid gekregen om het bedrijf beter te leren kennen. Ik liep tijdens deze periode maar twee dagen per week stage i.v.m. het versnellingstraject die ik op mijn opleiding CMD volg. 
+
+Mijn ervaring als nieuwe stagiaire ervoer ik erg chaotisch. Op mijn eerste werkdag kreeg ik meteen een eigen project toegewezen. Ik was de enige developer in het team en zonder enige ervaring van hoe het bedrijf zelf aan de slag gaat. Hierdoor heb ik geen inwerk proces gehad en heb ik veel informatie en procedures van Jungle Minds gemist. 
+
+Door deze ervaring ben ik gaan brainstormen en andere medewerkers gaan vragen hoe ze hun eerste weken in het bedrijf hadden ervaart. Uit dit kleine onderzoek bleek dat andere medewerkers ook niet altijd alle benodigde informatie kregen. Echter, iedereen ervoer het een beetje anders. Dat hing af van de begeleider waar elke nieuwe medewerker mee aan gekoppeld werd. 
+
+## Stakeholders
 
 Onbewust wordt er tijdens het inwerkperiode informatie achtergehouden voor nieuwe medewerkers. Dit heeft als gevolgen dat medewerkers geen goed inwerkperiode krijgen en hun weg binnen het bedrijf niet kunnen vinden. Op afbeelding 10 ziet u de stakeholders overzicht die te maken hebben met dit probleem situatie.
 
@@ -13,8 +21,6 @@ De doelgroep binnen dit project zijn de nieuwe medewerkers van Jungle Minds tijd
 De doelgroep zijn de personen die het meest last hebben van de probleemsituatie. Hun behoeftes binnen deze situatie is dat ze goed op de hoogte gehouden willen worden van de procedures en belangrijke informatie binnen het bedrijf. Dit is een zekere behoefte waar ik achtergekomen ben doordat ik zelf ook deze situatie meegemaakt heb. Daarnaast kwam dit ook naar voren tijdens de gesprekken die ik met nieuwe medewerkers ging voeren. 
 
 Wanneer nieuwe medewerkers niet de benodigde informatie krijgen tijdens hun inwerkperiode kan dat gevolgen hebben op hun werkbeleving. Vaak voelen de nieuwe medewerkers dat ze zich in de diepte worden gegooid en kunnen hun weg binnen het bedrijf moeilijk vinden. \(Brown, 2007\) 
-
-
 
 ### Jungle Minds
 
@@ -35,6 +41,22 @@ Door een oplossing te bedenken voor deze probleemsituatie zullen de begeleiders 
 De collega’s zijn de overige medewerkers van het bedrijf, de mensen waarmee je in een team zit en/of mensen die aan je bureau eiland zitten. Zij hebben indirect te maken met deze probleemsituatie. 
 
 Tijdens de probleemsituatie kunnen de nieuwe medewerkers altijd hulpvragen aan hun collega’s. De collega’s staan altijd bereid om iedereen te helpen. Echter, hebben die vaak het ook druk en kunnen ze niet altijd hulp verlenen. Dit is een aanname, ik zal tijdens dit project onderzoek naar de behoeftes van de collega’s doen. Daarnaast vind een nieuwe medewerker het moeilijk om op andere collega’s af te stappen en vragen te stellen. Vaak weten ze ook niet bij wie ze terecht moeten voor bepaalde vragen. 
+
+## Omgevingsfactoren
+
+### **Trends** 
+
+Jungle Minds ontwikkeld zich continu samen met de technologie. Zo proberen ze altijd op de hoogte te zijn van de nieuwe trends binnen ons vakgebied. Een belangrijke trend dat het bedrijf altijd toepast is responsive design. Daarnaast kunnen trends als gamification, sociaal media en branding een invloed hebben bij het maken van mijn project. 
+
+Daarnaast speelt ‘Werkgeluk’ een grote rol binnen de maatschappelijke trends. Zo is het al jaren bekend dat tevreden en betrokken medewerkers productiever en gezonder zijn. Ook zorgen ze voor betere prestaties van een organisatie. Werkgeluk begint het met het bewustzijn en de ambitie om als organisatie te investeren in het geluk van medewerkers. \(Driessen, 2018\) 
+
+### **Kansen** 
+
+Het product die ik aan het maken ben is gericht op Jungle Minds. Als het product succesvol wordt kan het ook worden ingezet voor andere bedrijven. 
+
+### **Bedreigingen** 
+
+De grootste bedreiging die zich voor Jungle Minds kan afspelen binnen mijn project is het lekken van gevoelige informatie. Het is voor mij belangrijk om precies te weten welke informatie ik probleemloos in het product kan verwerken zonder dat ik informatie voor concurrenten weggeef van het bedrijf zelf of van de bedrijven waarmee ze werken. 
 
 
 
