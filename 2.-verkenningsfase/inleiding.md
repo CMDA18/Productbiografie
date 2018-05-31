@@ -9,7 +9,7 @@ De verkenningsfase heeft plaats gevonden in week 1 tot en met week 8. Hieronder 
 | **Week** | **Deliverables** | **Onderzoeksmethode** |
 | --- | --- | --- |
 | Week 3/6         | [Mood board Jungle Minds](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/mood-board-jungle-minds) | Fly on the wall / Deskresearch / Interview / Survey  |
-| Week 3 | [Stakeholders](stakeholders.md) | Fly on the wall |
+| Week 3 | [Het probleem](het-probleem.md) | Fly on the wall |
 | Week 3/9 | [Customer journey \(huidige situatie\)](customer-journey.md#huidige-situatie) | Orienting Expert Interview / Survey / Context mapping |
 | Week 3/9 | [Customer journey \(gewenste situatie\)](customer-journey.md#gewenste-situatie) | Interview / Survey / Context mapping |
 | Week 6/8 | [Requirements list](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/2.-onderzoek/requirements-list) | Orienting Expert Interview / Interview / Survey / Literature Study |
