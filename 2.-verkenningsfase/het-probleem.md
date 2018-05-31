@@ -6,7 +6,23 @@ Onbewust wordt er tijdens het inwerkperiode informatie achtergehouden voor nieuw
 
 ![Afbeelding 10: Stakeholders overzicht](../.gitbook/assets/screen-shot-2018-05-31-at-10.10.47.png)
 
-### **Doelgroep** 
+### **Nieuwe medewerker** 
 
 De doelgroep binnen dit project zijn de nieuwe medewerkers 
+
+
+
+### Jungle Minds
+
+
+
+### Begeleider
+
+
+
+### Collega's
+
+
+
+
 
