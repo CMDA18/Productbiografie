@@ -78,11 +78,13 @@ Afbeelding 8: Illustratie van hoe human, shape en business met elkaar in verhoud
 
 Afbeelding 9: Moodboard van uitstralling van de cuultuur van Jungle Minds.
 
-Afbeelding 10: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
+Afbeelding 10: Stakeholders overzicht.
 
-Afbeelding 11: Door middel van het eindproduct zullen de eindprestaties verbeterd worden.
+Afbeelding 11: De probleemsituatie speelt zich af in de laatste fase, namelijk prestaties.
 
-Afbeelding 12: Visuele weergave van de meeste voorkomende vraag naar content.
+Afbeelding 12: Door middel van het eindproduct zullen de eindprestaties verbeterd worden.
+
+Afbeelding 13: Visuele weergave van de meeste voorkomende vraag naar content.
 
 
 
