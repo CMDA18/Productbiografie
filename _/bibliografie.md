@@ -46,7 +46,7 @@ Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de on
 
 Taletdoft \(z.j.\). Onboarding met Talentsoft. Verkregen op 15 januari 2018, van [http://www.talentsoft.nl/hr-software/recruiting-nl/onboarding/](http://www.talentsoft.nl/hr-software/recruiting-nl/onboarding/)
 
-TinQwise \(z.j.\). Tommy Hilfiger. Verkregen op 15 januari 2018, van [https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)
+Tinqwise \(z.j.\). Tommy Hilfiger. Verkregen op 15 januari 2018, van [https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)
 
 Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van [https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 ](https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621%20)
 

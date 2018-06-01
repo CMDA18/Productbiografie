@@ -2,7 +2,7 @@
 
 Inspiration wall
 
-
+http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/
 
 ![Voorbeeld onboarding tool \(http://www.rmmbr.com/wp-content/uploads/2017/11/04\_eurocaps-800x450.jpg\)](http://www.rmmbr.com/wp-content/uploads/2017/11/04_eurocaps-800x450.jpg)
 

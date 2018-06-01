@@ -2,15 +2,15 @@
 
 In deze fase van mijn project ben ik van bewust dat het eindproduct een onboarding tool moet worden. Echter, is het aan mij over om dit te vertalen naar een onboarding tool met een toegevoegde waarde voor Jungle Minds. 
 
-Om een brede zicht te hebben in wat een onboarding tool inhoudt heb ik onderzoek gedaan naar "Best, good & bad practices" van al bestaande tools. 
+Om mijn subdeelvraag "[3.1 Welke methoden worden gebruikt om een medewerker efficiënter in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)" te kunnen beantwoorden heb ik onderzoek gedaan naar de verschillende methodes die gebruikt worden binnen verschillende bedrijven. Voor deze fase heb ik onderzoek gedaan naar zowel offline als online methodes. Dit geeft mij een brede zicht voor de inhoudt die het eindproduct zal/moet kunnen bevatten. 
 
 ## Offline
 
-Vaak worden door kleine bedrijven gekozen voor een offline methode voor het inwerken van hun medewerkers. 
+In de artikel "Example of an Orientation Program for New Employees" vertelt Brookins, M. \(2017\) dat oriëntatieprogramma's kunnen variëren afhankelijk van de industrie, de managementstijl en de algehele bedrijfscultuur. Hieronder volgen er een aantal voorbeelden die vaak gebruikt worden door kleine en middelgrote bedrijven. Daarnaast beantwoord ik de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". 
 
 ### Voorbeelden
 
-In de artikel "Example of an Orientation Program for New Employees" noemt Brookins, M. \(2017\) enkele voorbeelden van de meeste voorkomende inwerkmethodes:
+In de artikel "Example of an Orientation Program for New Employees" benoemt Brookins, M. \(2017\) enkele voorbeelden van de meeste voorkomende inwerkmethodes:
 
 * Werknemershandboek en papierwerk bekijken
 
@@ -58,6 +58,8 @@ Van de genoemde aantal voorbeelden worden er een aantal gedaan door Jungle Minds
 
 ## Online
 
+Vaak wordt door grote bedrijven gekozen om te werken met een onboarding tool tijdens het inwerkperiode van een nieuwe medewerker. Dit komt vaak voor bij bedrijven waar wel dagelijks iemand aangenomen wordt. De voordeel van een onboarding tool is dat de medewerkers altijd dezelfde informatie verkrijgen en het bedrijf bepaald zelf welke informatie zij vertellen. Zie hieronder een aantal voorbeelden van tools die gebruikt wordt door verschillende bedrijven.
+
 ### Voorbeelden
 
 Op de markt bestaan al een aantal onboarding tools, in het artikel "Onboardingtools: de mogelijkheden en aandachtspunten" benoemt Weidema, N. \(2017\) een aantal voorbeelden: 
@@ -73,7 +75,7 @@ Op de markt bestaan al een aantal onboarding tools, in het artikel "Onboardingto
 
 ### Inspiratie voorbeelden
 
-Hieronder zijn er een aantal voorbeelden van bestande producten die verschillende elementen bevatten die mij inspireren voor mijn eigen eindproduct.
+Uit de bovenste voorbeelden heb ik een selectie gemaakt van drie onboarding tools die mij het meeste aanspraken. Deze producten bevatten verschillende elementen die mij inspireren voor mijn eigen eindproduct. Daarnaast beantwoord ik de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)" over de relevantie van deze methodes. 
 
 * [**Bamboo HR**](https://www.bamboohr.com/employee-self-onboarding/) 
 
@@ -87,15 +89,15 @@ Hieronder zijn er een aantal voorbeelden van bestande producten die verschillend
 
 ![Afbeelding 20: Voorbeeld weergave van Cornerstone. \(Cornerstone, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.03.39.png)
 
-
-
 * [**Tinqwise**](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)  Maakt leeroplossingen voor professionals. Dit kan ook de vorm krijgen van een online leerplatform dat nieuwe medewerkers klaarstoomt voor hun werkzaamheden en de kennis van huidige werknemers up to date houdt. Zie afbeelding 21 voor een voorbeeld weergave van Tinqwis gebruikt door het bedrijf Tommy Hilfiger. 
 
 ![Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.05.27.png)
 
 ## Bureaus
 
-{% embed data="{\"url\":\"http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/\",\"type\":\"link\",\"title\":\"Leeroplossingen met impact! RMMBR to learn\",\"description\":\"Het onboarding programma van RMMBR is een belangrijke toevoeging. Ze werken snel en hebben aan een half woord genoeg, de expertise druipt ervan af.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.rmmbr.com/wp-content/uploads/2016/09/profile.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://www.rmmbr.com/wp-content/uploads/2017/11/onbaording-eurocaps-612x1024.png\",\"width\":612,\"height\":1024,\"aspectRatio\":1.673202614379085},\"caption\":\"http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/\"}" %}
+Om een beter beeld te krijgen van hoe andere vergelijkbare bedrijven als Jungle Minds hun medewerkers inwerken, heb ik een kleine enquete aangemaakt. Door middel van deze onderzoek geef ik antwoord op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". 
+
+De bedrijven die ik 
 
 
 
