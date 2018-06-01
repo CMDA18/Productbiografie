@@ -4,7 +4,7 @@
 
 Om deelvraag 1 te beantwoorden heb ik voornamelijk deskresearch en interviews uitgevoerd. Zie afbeelding 15 voor een korte samenvatting van mijn verkregen inzichten tijdens het beantwoorden van de subdeelvragen uit deelvraag 1.
 
-![Afbeelding 18: Subdeelvragen van deelvraag 1 met inzichten.](../.gitbook/assets/deelvragen_antwoorden.jpg)
+![Afbeelding 17: Subdeelvragen van deelvraag 1 met inzichten.](../.gitbook/assets/deelvragen_antwoorden.jpg)
 
 Uit mijn deskresearch onderzoek kwam ik op twee inzichten, namelijk wat een effectieve introductie oplevert en de voordelen van een onboarding tool app.  Zo wordt er in het artikel “Hoe geef je de introductie van nieuwe medewerkers vorm?” door de schrijver Grafhorst Geerst, S. \(z.j.\) uitgelegd wat een effectieve introductie oplevert voor zowel de medewerkers als voor het bedrijf,  namelijk: 
 
@@ -23,7 +23,7 @@ Daarnaast wordt er door Smith, M. \(2016\) in het artikel “Medewerkers inwerke
 
 Om deze deelvraag te beantwoorden heb ik deskresearch, interviews en enquêtes uitgevoerd. Zie afbeelding 16 voor een korte samenvatting van mijn verkregen inzichten tijdens het beantwoorden van de subdeelvragen uit deelvraag 2.
 
-![Afbeelding 19: Subdeelvragen van deelvraag 2 met inzichten](../.gitbook/assets/deelvragen_antwoorden2.jpg)
+![Afbeelding 18: Subdeelvragen van deelvraag 2 met inzichten](../.gitbook/assets/deelvragen_antwoorden2.jpg)
 
 Uit mijn onderzoek kwam ik erachter dat er binnen de doelgroep een vraag is naar vier onderwerpen over Jungle Minds, namelijk:
 

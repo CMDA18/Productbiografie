@@ -6,7 +6,11 @@ Om een brede zicht te hebben in wat een onboarding tool inhoudt heb ik onderzoek
 
 ## Offline
 
-Vaak worden door kleine bedrijven gekozen voor een offline methode voor het inwerken van hun medewerkers. In de artikel "Example of an Orientation Program for New Employees" noemt Brookins, M. \(2017\) enkele voorbeelden van de meeste voorkomende inwerkmethodes:
+Vaak worden door kleine bedrijven gekozen voor een offline methode voor het inwerken van hun medewerkers. 
+
+### Voorbeelden
+
+In de artikel "Example of an Orientation Program for New Employees" noemt Brookins, M. \(2017\) enkele voorbeelden van de meeste voorkomende inwerkmethodes:
 
 * Werknemershandboek en papierwerk bekijken
 
@@ -40,6 +44,8 @@ Vaak worden door kleine bedrijven gekozen voor een offline methode voor het inwe
 
   Evaluaties bieden werknemers ook de mogelijkheid om hun werkgever feedback te geven over hun ervaringen met het bedrijf. Geef tijdens de oriëntatie medewerkers informatie over het evaluatieproces van uw bedrijf, zodat zij weten hoe hun prestaties worden beoordeeld. In plaats van een jaar te wachten om uw eerste feedback te geven, stelt u een beoordelingsperiode van 30, 60 of 90 dagen in voor nieuwe werknemers. Dit geeft je een kans om te zien hoe ze zich binnen het bedrijf vestigen in hun rollen en verantwoordelijkheden voor een jaarlijkse beoordeling.
 
+### Jungle Minds procedure
+
 Van de genoemde aantal voorbeelden worden er een aantal gedaan door Jungle Minds. In [een interview met de HR-afdeling](../onderzoek-methodes/interviews/6.1.3-hr-manager-alexandra.md) heb ik gevraagd wat het normale inwerkproces is binnen het bedrijf en die zit er als volgt uit:
 
 * Medewerker krijgt de Arbeidsvoorwaarden en de Jungle Minds handboek toegestuurd
@@ -52,6 +58,8 @@ Van de genoemde aantal voorbeelden worden er een aantal gedaan door Jungle Minds
 
 ## Online
 
+### Voorbeelden
+
 Op de markt bestaan al een aantal onboarding tools, in het artikel "Onboardingtools: de mogelijkheden en aandachtspunten" benoemt Weidema, N. \(2017\) een aantal voorbeelden: 
 
 * [**ADP**](https://www.adp.nl/producten/adp-ihcm2/)  Richt zich met iHCM op het verbeteren van de medewerkers-ervaring vanaf de eerste werkdag tot de eerste evaluatie van hun functioneren en de periode daarna. Deze biedt nu ook onboarding- opties die werkgevers het volledige recruitmentproces van begin tot eind laten volgen. Medewerkers en managers krijgen inzicht in en toegang tot de activiteiten op het gebied van professionele ontwikkeling. 
@@ -63,11 +71,27 @@ Op de markt bestaan al een aantal onboarding tools, in het artikel "Onboardingto
 * [**Talentsoft**](http://www.talentsoft.nl/hr-software/recruiting-nl/onboarding/)  Biedt software voor werving en selectie en voor onboarding. Met behulp van de carrièresite kunnen bedrijven vacatures publiceren. De tool zorgt verder voor automatische selectie van de sollicitanten. De tool genereert automatisch contracten, en geeft notificaties bij aflopende proefperiodes en contracten. De sollicitanten krijgen alle relevante informatie via een persoonlijk account. 
 * [**Tinqwise**](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)  Maakt leeroplossingen voor professionals. Dit kan ook de vorm krijgen van een online leerplatform dat nieuwe medewerkers klaarstoomt voor hun werkzaamheden en de kennis van huidige werknemers up to date houdt.
 
+### Inspiratie voorbeelden
+
+Hieronder zijn er een aantal voorbeelden van bestande producten die verschillende elementen bevatten die mij inspireren voor mijn eigen eindproduct.
+
+* [**Bamboo HR**](https://www.bamboohr.com/employee-self-onboarding/) 
+
+  Biedt tools en softwareoplossingen voor kleine en middelgrote bedrijven. Deze onboarding tool inspireert mij omdat het persoonlijk is gemaakt door eigen informatie van de eerste werkdag van de nieuwe medewerker aan te koppelen. Zo is een nieuwe medewerker beter voorbereid voor hun eerste werkdag. Voor de HR betekent de onboarding tool veel tijdbesparing omdat een groot deel van de voorbereiding is geautomatiseerd. \(Bamboo, z.j.\) Zie afbeelding 19 voor een visuele weergave van Bamboo.
+
+![Afbeelding 19: Voorbeeld weergave van Bamboo. \(BambooHR, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.03.24.png)
+
+* [**Cornerstone**](https://www.cornerstoneondemand.nl/onboarding) 
+
+  Cornerstone heeft onboarding tool die nieuwe medewerkers welkom heet met gepersonaliseerde pagina’s en een centrale bron van organisatorische informatie. Deze tool zorgt ervoor dat nieuwe medewerkers sneller worden ingewerkt door taken, training, doelen en certificaten toe te wijzen. Uit deze tool vind ik de flow van deze website fijn. Het is makkelijk aangegeven wat ge gebruiker binnen de website kan doen en tegelijkertijd wordt er veel geïnformeerd over het bedrijf. \(Cornerstone, z.j\) Zie afbeelding 20 voor een visuele weergave van Cornerstone. 
+
+![Afbeelding 20: Voorbeeld weergave van Cornerstone. \(Cornerstone, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.03.39.png)
 
 
-Bamboo HR biedt tools en softwareoplossingen voor kleine en middelgrote bedrijven. Deze onboardingtool inspireert mij omdat het persoonlijk is gemaakt door eigen informatie van de eerste werkdag van de nieuwe medewerker aan te koppelen. Zo beginnen ze beter voorbereid aan hun eerste werkdag. Voor HR betekent de onboardingtool veel tijdbesparing omdat een groot deel van de voorbereiding is geautomatiseerd. \(Bamboo, z.j.\) Zie afbeelding 1 voor een visuele weergave van Bamboo
 
-hieronder zijn er een aantal voorbeelden van deze producten, deze bevatten verschillende elementen die mij inspireren voor mijn eigen product.
+* [**Tinqwise**](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)  Maakt leeroplossingen voor professionals. Dit kan ook de vorm krijgen van een online leerplatform dat nieuwe medewerkers klaarstoomt voor hun werkzaamheden en de kennis van huidige werknemers up to date houdt. Zie afbeelding 21 voor een voorbeeld weergave van Tinqwis gebruikt door het bedrijf Tommy Hilfiger. 
+
+![Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.05.27.png)
 
 ## Bureaus
 

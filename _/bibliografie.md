@@ -12,33 +12,45 @@ Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Educ
 
 ### **Bronnen** 
 
-BambooHR \(z.j.\). Employee Self-Onboarding Software. Verkregen op 15 februari 2018, van https://www.bamboohr.com/employee-self-onboarding/ 
+ADP \(z.j.\). Complete cloudoplossing voor Human Capital Management. Verkregen op 15 februari 2018, van [https://www.adp.nl/producten/adp-ihcm2/](https://www.adp.nl/producten/adp-ihcm2/)
 
-Bellinzin, A. T. \(2017\), Warm welkom: de beste introductie van je nieuwe medewerker. Verkregen op 15 januari 2018, van https://peoplebusiness.nl/ artikelen/hr-trends/introductie-nieuwe-medewerker 
+BambooHR \(z.j.\). Employee Self-Onboarding Software. Verkregen op 15 februari 2018, van [https://www.bamboohr.com/employee-self-onboarding/ ](https://www.bamboohr.com/employee-self-onboarding/%20)
+
+Bellinzin, A. T. \(2017\), Warm welkom: de beste introductie van je nieuwe medewerker. Verkregen op 15 januari 2018, van [https://peoplebusiness.nl/ artikelen/hr-trends/introductie-nieuwe-medewerker ](https://peoplebusiness.nl/%20artikelen/hr-trends/introductie-nieuwe-medewerker%20)
 
 Brown, J. \(2007\). Employee orientation: Keeping new employees on board. humanresources. about. com/library/weekly/nosearch/nuc042102a.htm, 20\(02\), 2014. 
 
-Cornerstone \(z.j.\). Cornerstone Onboarding. Verkregen op 15 februari 2018, van https://www.cornerstoneondemand.nl/onboarding 
+Cornerstone \(z.j.\). Cornerstone Onboarding. Verkregen op 15 februari 2018, van [https://www.cornerstoneondemand.nl/onboarding ](http://www.%20managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm%20)
 
-Grafhorst Geerst, S \(z.j.\) Hoe geef je de introductie van nieuwe medewerkers vorm? Verkregen op 18 februari 2018, van http://www. managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm 
+Drain, N. en Marchand, B. \(z.j.\)  \(19 maart 2018\) Hoe je nieuwe medewerkers succesvol integreert. Verkregen op 29 maart 2018, van [http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers ](http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers%20)
 
-Holland, R. J. \(2012\). The 6 things all new employees should be told. Verkregen op 16 januari 2018, van https://www.ragan.com/Main/Articles/ The\_6\_things\_all\_new\_employees\_should\_be\_told\_45604.aspx 
+Grafhorst Geerst, S \(z.j.\) Hoe geef je de introductie van nieuwe medewerkers vorm? Verkregen op 18 februari 2018, van [http://www. managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm ](http://www.%20managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm%20)
 
-Jungle Minds. \(2017\). User centered sinds 2000. Geraadpleegd op 4 februari 2018, van https://jungleminds.nl/ons-verhaal
+Holland, R. J. \(2012\). The 6 things all new employees should be told. Verkregen op 16 januari 2018, van [https://www.ragan.com/Main/Articles/ The\_6\_things\_all\_new\_employees\_should\_be\_told\_45604.aspx ](https://www.ragan.com/Main/Articles/%20The_6_things_all_new_employees_should_be_told_45604.aspx%20)
 
-Jungle Minds. \(2017\). Say hello to our team. Geraadpleegd op 1 februari 2018, van https://jungleminds.nl/team
+Jungle Minds. \(2017\). User centered sinds 2000. Geraadpleegd op 4 februari 2018, van [https://jungleminds.nl/ons-verhaal](https://jungleminds.nl/ons-verhaal)
 
-Jungle Minds \(z.j.\). Welkom to the Jungle, pagina 9. Verkregen op 04 februari 2018 van https://cdn.jungleminds.nl/media/files/jm\_handboek\_webversie\_v2.pdf 
+Jungle Minds. \(2017\). Say hello to our team. Geraadpleegd op 1 februari 2018, van [https://jungleminds.nl/team](https://jungleminds.nl/team)
 
-Marino, M. \(2016\). How Culture and Values Fit Into the Onboarding Experience. Verkregen op 15 januari 2018, van https://www.tlnt.com/how-culture-and-values-fit-into-the-onboarding-experience/ 
+Jungle Minds \(z.j.\). Welkom to the Jungle, pagina 9. Verkregen op 04 februari 2018 van [https://cdn.jungleminds.nl/media/files/jm\_handboek\_webversie\_v2.pdf ](https://cdn.jungleminds.nl/media/files/jm_handboek_webversie_v2.pdf%20)
 
-Mindgame \(z.j.\) Introductiedagen nieuwe medewerkers. Verkregen op 03 maart 2018, van https://mindgame.eu/wp-content/uploads/manual/purple-page/Mindgame-introductiegames.pdf 
+Kronos \(z.j.\). Kronos Workforce Ready® HR. Verkregen op 15 februari 2018, van [https://www.kronosglobal.nl/hulpmiddelen/kronos-workforce-ready-hr](https://www.kronosglobal.nl/hulpmiddelen/kronos-workforce-ready-hr)
 
-Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de onboarding-app \[case\]. Verkregen op 03 maart 2018, van https:// www.frankwatching.com/archive/2016/08/03/medewerkers-inwerken-al-voordat-ze-starten-de-onboarding-app-case/
+Marino, M. \(2016\). How Culture and Values Fit Into the Onboarding Experience. Verkregen op 15 januari 2018, van [https://www.tlnt.com/how-culture-and-values-fit-into-the-onboarding-experience/ ](https://www.tlnt.com/how-culture-and-values-fit-into-the-onboarding-experience/%20)
 
-Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 
+Mindgame \(z.j.\) Introductiedagen nieuwe medewerkers. Verkregen op 03 maart 2018, van [https://mindgame.eu/wp-content/uploads/manual/purple-page/Mindgame-introductiegames.pdf ](https://mindgame.eu/wp-content/uploads/manual/purple-page/Mindgame-introductiegames.pdf%20)
 
-Drain, N. en Marchand, B. \(z.j.\)  \(19 maart 2018\) Hoe je nieuwe medewerkers succesvol integreert. Verkregen op 29 maart 2018, van http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers 
+SAP SuccessFactors \(z.j.\). Realize the Full Potential of Your Workforce. Verkregen op 15 januari 2018, van [https://www.successfactors.com/en\_us/lp/hcm-solutions-suite.html?Campaign\_CRM=CRM-XM17-GTM-1HR\_HCMS02](https://www.successfactors.com/en_us/lp/hcm-solutions-suite.html?Campaign_CRM=CRM-XM17-GTM-1HR_HCMS02)
+
+Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de onboarding-app \[case\]. Verkregen op 03 maart 2018, van [https:// www.frankwatching.com/archive/2016/08/03/medewerkers-inwerken-al-voordat-ze-starten-de-onboarding-app-case/](https://%20www.frankwatching.com/archive/2016/08/03/medewerkers-inwerken-al-voordat-ze-starten-de-onboarding-app-case/)
+
+Taletdoft \(z.j.\). Onboarding met Talentsoft. Verkregen op 15 januari 2018, van [http://www.talentsoft.nl/hr-software/recruiting-nl/onboarding/](http://www.talentsoft.nl/hr-software/recruiting-nl/onboarding/)
+
+TinQwise \(z.j.\). Tommy Hilfiger. Verkregen op 15 januari 2018, van [https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)
+
+Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van [https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 ](https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621%20)
+
+
 
 Bibliografie
 
@@ -92,13 +104,15 @@ Afbeelding 15: Door middel van het eindproduct zullen de eindprestaties verbeter
 
 Afbeelding 16: Visuele weergave van de meeste voorkomende vraag naar content.
 
+Afbeelding 17: Subdeelvragen van deelvraag 1 met inzichten.
 
+Afbeelding 18: Subdeelvragen van deelvraag 2 met inzichten.
 
-Afbeelding 18: Subdeelvragen van deelvraag 1 met inzichten.
+Afbeelding 19: Voorbeeld weergave van Bamboo. \(BambooHR, z.j.\)
 
-Afbeelding 19: Subdeelvragen van deelvraag 2 met inzichten.
+Afbeelding 20: Voorbeeld weergave van Cornerstone. \(Cornerstone, z.j.\)
 
-
+Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)
 
 
 
