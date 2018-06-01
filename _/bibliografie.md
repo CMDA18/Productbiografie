@@ -36,7 +36,7 @@ Mindgame \(z.j.\) Introductiedagen nieuwe medewerkers. Verkregen op 03 maart 201
 
 Smith, M. \(03 augustus 2016\) Medewerkers inwerken al voordat ze starten: de onboarding-app \[case\]. Verkregen op 03 maart 2018, van https:// www.frankwatching.com/archive/2016/08/03/medewerkers-inwerken-al-voordat-ze-starten-de-onboarding-app-case/
 
-Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van http://www. pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 
+Weidema, N. \(26 oktober 2017\) Onboardingtools: de mogelijkheden en aandachtspunten. Verkregen op 15 februari 2018, van https://www.pwnet.nl/instroom/artikel/2017/10/onboardingtools-de-mogelijkheden-en-aandachtspunten-10125621 
 
 Drain, N. en Marchand, B. \(z.j.\)  \(19 maart 2018\) Hoe je nieuwe medewerkers succesvol integreert. Verkregen op 29 maart 2018, van http://www.wethetalent.co/nl/hr-toekomst/integratie-medewerkers 
 
