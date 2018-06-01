@@ -4,7 +4,15 @@
 
 ### Survey
 
-![](../../.gitbook/assets/screen-shot-2018-04-02-at-19.41.19.png)
+![caption](../../.gitbook/assets/screen-shot-2018-04-02-at-19.41.19.png)
+
+### 
+
+![Afbeelding ...: caption](../../.gitbook/assets/working_at_jungle_2.png)
+
+![Afbeelding ...: caption](../../.gitbook/assets/working_at_jungle_3.png)
+
+### Resultaten
 
 Resultaten uit de enquete hoe mensen het bedrijf Jungle Minds beschrijven.
 
@@ -44,4 +52,18 @@ Resultaten uit de enquete hoe mensen het bedrijf Jungle Minds beschrijven.
 | Teamwork | 1 |
 | Real user value | 1 |
 | Experience | 1 |
+
+
+
+## Conclusie
+
+### Het bedrijf
+
+![Afbeelding ...: caption](../../.gitbook/assets/tabel_cultuur_bedrijf.png)
+
+### De content
+
+![Afbeelding ...: caption](../../.gitbook/assets/tabel_vraag_naar_content.png)
+
+
 
