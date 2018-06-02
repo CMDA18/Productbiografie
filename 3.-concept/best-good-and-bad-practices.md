@@ -97,7 +97,7 @@ Uit de bovenste voorbeelden heb ik een selectie gemaakt van drie onboarding tool
 
 Om een beter beeld te krijgen van hoe andere vergelijkbare bedrijven als Jungle Minds hun medewerkers inwerken, heb ik een kleine enquete aangemaakt met de vraag aan bedrijven wat hun proces is gedurende de inwerkperiode van een nieuwe medewerker. Door middel van deze onderzoek geef ik antwoord op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". 
 
-De bedrijven die ik benaderd heb waren [Fabrique](https://www.fabrique.nl/), Huge en Ideo. Ik heb bewust deze drie bedrijven benaderd omdat uit mijn interviews met de opdrachtgevers werden deze bedrijven als inspiratiebronnen benoemd voor Jungle Minds. 
+De bedrijven die ik benaderd heb waren [Fabrique](https://www.fabrique.nl/), [Huge](https://www.hugeinc.com/) en Ideo. Ik heb bewust deze drie bedrijven benaderd omdat uit mijn interviews met de opdrachtgevers werden deze bedrijven als inspiratiebronnen benoemd voor Jungle Minds. 
 
 ### Fabrique
 
@@ -113,9 +113,19 @@ Via een e-mail heb ik Fabrique benaderd en verzocht om mijn enquete te beantwoor
 
 
 
-![Afbeelding 22: Antwoorden van fabrique ](../.gitbook/assets/fabrike_antwoorden_enquete.png)
+![Afbeelding 22: Antwoorden van fabrique op de enquete](../.gitbook/assets/fabrique_antwoorden_enquete.png)
 
-Huge
+### Huge
 
-Ideo 
+[Huge](https://www.hugeinc.com/) transformeert bedrijven door het ontwerpen van best-in-class ervaringen, aangedreven door sterke creatieve en geworteld in de technologie, data en organisatorische strategie die nodig is voor operationele uitmuntendheid. Ze combineren deze mogelijkheden tot één oplossing, waarbij huge  merkervaringen creëert die industrieën veranderen en zinvolle relaties met gebruikers bevorderen. Deze gebruikersgerichte aanpak heeft van huge het snelst groeiende bureau van het afgelopen decennium gemaakt.
+
+Via een e-mail heb ik Huge benaderd en verzocht om mijn enquete te beantwoorden voor mijn afstudeerproject. Omdat het een engelstalige bedrijf is heb ik een e-mail opgesteld waarin ik kort uitlegde over mijn project en waar ik ze vriendelijk verzocht om vier vragen te beantwoorden voor mijn afstudeerproject. Zie afbeelding 23 voor de e-mail die ik naar ze heb opgestuurd. Helaas, heb ik geen antwoord van Huge terug gehad. 
+
+![Afbeelding 23: E-mail vertuurd naar Huge.](../.gitbook/assets/screen-shot-2018-06-02-at-09.10.55%20%282%29.png)
+
+### Ideo 
+
+![Afbeelding 24: E-mail verstuurd naar Ideo.](../.gitbook/assets/email_naar_ideo%20%281%29.png)
+
+![](../.gitbook/assets/email_van_ideo%20%281%29.png)
 
