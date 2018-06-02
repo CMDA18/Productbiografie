@@ -95,9 +95,27 @@ Uit de bovenste voorbeelden heb ik een selectie gemaakt van drie onboarding tool
 
 ## Bureaus
 
-Om een beter beeld te krijgen van hoe andere vergelijkbare bedrijven als Jungle Minds hun medewerkers inwerken, heb ik een kleine enquete aangemaakt. Door middel van deze onderzoek geef ik antwoord op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". 
+Om een beter beeld te krijgen van hoe andere vergelijkbare bedrijven als Jungle Minds hun medewerkers inwerken, heb ik een kleine enquete aangemaakt met de vraag aan bedrijven wat hun proces is gedurende de inwerkperiode van een nieuwe medewerker. Door middel van deze onderzoek geef ik antwoord op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". 
 
-De bedrijven die ik 
+De bedrijven die ik benaderd heb waren [Fabrique](https://www.fabrique.nl/), Huge en Ideo. Ik heb bewust deze drie bedrijven benaderd omdat uit mijn interviews met de opdrachtgevers werden deze bedrijven als inspiratiebronnen benoemd voor Jungle Minds. 
+
+### Fabrique
+
+[Fabrique](https://www.fabrique.nl/) is een strategisch ontwerpbureau, die gelooft in de vernieuwende kracht van design. Ontwerp als kracht om dingen te veranderen, te verbeteren en om impact te hebben. Niet slechts om dingen mooi of bruikbaar te maken.
+
+Via een e-mail heb ik Fabrique benaderd en verzocht om mijn enquete te beantwoorden voor mijn afstudeerproject. Zie afbeelding 22 voor de antwoorden op mijn enquete gegeven door Fabrique. Uit de enquete heb ik de volgende inzichten kunnen krijgen over de inwerkproces van dit bedrijf:
+
+* Het bedrijf bestaat uit meer dan 51 medewerkers.
+* Het bedrijf neemt maandelijks nieuwe medewerkers aan. 
+* De inwerkperiode verschilt per functie, van 1 week tot 6 maanden met een buddy. 
+* Buddy leidt nieuwe medewerkers rond en helpt hem met al zijn vragen.
+* Nieuwe medewerkers doorloopt de "FabWash", het inwerkprogramma. Daar zitten een aantal onderdelen in, van werkwijze en systemen, tot bedrijf's kernwaarden en historie.
 
 
+
+![Afbeelding 22: Antwoorden van fabrique ](../.gitbook/assets/fabrike_antwoorden_enquete.png)
+
+Huge
+
+Ideo 
 

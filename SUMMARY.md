@@ -27,7 +27,7 @@
 * [3.3 Inspiratie patterns](3.-concept/inspiratie-patterns.md)
 * [3.4 Concept: 10 ideeën](3.-concept/concept-10-ideeen.md)
 * [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
-* [3.6 Risk analyse: 3 ideeën](3.-concept/risk-analyse-3-ideeen.md)
+* [3.6 Conclusie](3.-concept/conclusie.md)
 
 ## 4. Ontwerpen
 
@@ -38,6 +38,7 @@
 * [4.4 Prototype v0.6](4.-ontwerpen/prototype-v0.6.md)
 * [4.5 Prototype v0.9](4.-ontwerpen/prototype-v0.9.md)
 * [4.6 Prototype v1.0](4.-ontwerpen/prototype-v1.0.md)
+* [4.7 Conclusie](4.-ontwerpen/4.7-conclusie.md)
 
 ## 5. Deliverables
 
