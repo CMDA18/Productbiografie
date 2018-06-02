@@ -66,8 +66,8 @@
 * [6.2 Persona](onderzoek-methodes/6.2-persona.md)
 * [6.3 Fly on the wall](onderzoek-methodes/6.3-fly-on-the-wall.md)
 * [6.4 Surveys](onderzoek-methodes/surveys/README.md)
-  * [6.4.1 Survey: Working at Jungle Minds](onderzoek-methodes/surveys/survey-working-at-jungle-minds.md)
-  * 6.4.2 Survey: Inwerkproces
+  * [6.4.1 Working at Jungle Minds](onderzoek-methodes/surveys/working-at-jungle-minds.md)
+  * 6.4.2 Inwerkproces
 
 ## \_
 
