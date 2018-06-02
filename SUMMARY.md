@@ -35,10 +35,12 @@
 * [4.2 Identiteit & merkbeleving](4.-ontwerpen/4.2-identiteit-and-merkbeleving.md)
 * [4.2 Prototype v0.1](4.-ontwerpen/prototype-v0.1.md)
 * [4.3 Prototype v0.3](4.-ontwerpen/prototype-v0.3.md)
-* [4.4 Prototype v0.6](4.-ontwerpen/prototype-v0.6.md)
-* [4.5 Prototype v0.9](4.-ontwerpen/prototype-v0.9.md)
-* [4.6 Prototype v1.0](4.-ontwerpen/prototype-v1.0.md)
-* [4.7 Conclusie](4.-ontwerpen/4.7-conclusie.md)
+* [4.4 Prototype v0.4](4.-ontwerpen/4.4-prototype-v0.4.md)
+* [4.5 Prototype v0.5](4.-ontwerpen/prototype-v0.6.md)
+* [4.6 Prototype v0.7](4.-ontwerpen/untitled.md)
+* [4.7 Prototype v0.9](4.-ontwerpen/prototype-v0.9.md)
+* [4.8 Prototype v1.0](4.-ontwerpen/prototype-v1.0.md)
+* [4.9 Conclusie](4.-ontwerpen/4.7-conclusie.md)
 
 ## 5. Deliverables
 
