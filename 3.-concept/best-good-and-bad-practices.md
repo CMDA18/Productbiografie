@@ -143,9 +143,25 @@ Mijn contact persoon binnen Ideo, komt uit de afdeling [Ideo U](https://www.ideo
 
 ## Conclusie
 
+### Subdeelvraag 3.1
+
+Uit mijn voorafgaande onderzoek \([Offline](best-good-and-bad-practices.md#offline) en [Online](best-good-and-bad-practices.md#online)\)  ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.1 Welke methoden worden gebruikt om een medewerker efficiënter in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)":
+
+* Bedrijven die voor een offline inwerk methode kiezen meestaal voor de volgende methoden:
+  * Werknemershandboek en papierwerk bekijken.
+  * Ken een mentor toe.
+  * Faciliteit rondleiding.
+  * Stel een evaluatieperiode in
+* Bedrijven die voor een online tool verkiezen bevatten de volgende:
+  * De bedrijf's kernwaarden en historie
+  * De bedrijfs cultuur
+  * Video’s 
+  * Checklists 
+  * Quizzen / Interactieve opdrachten
+
 ### Subdeelvraag 3.2
 
-Uit mijn voorafgaande onderzoek ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)":
+Uit mijn voorafgaande onderzoek \([Bureaus](best-good-and-bad-practices.md#bureaus)\) ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.2 Welke methoden gebruiken bedrijven met kantoorwerkzaamheden om nieuwe werknemers in te werken?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)":
 
 * Grotere bedrijven die maandelijks nieuwe werknemers aannemen gebruiken vaak een tool tijdens de inwerkperiode. 
 * De inwerk tool bevat vaak informatie als:
@@ -156,7 +172,8 @@ Uit mijn voorafgaande onderzoek ben ik op de volgende inzichten gekomen die antw
 
 ### Subdeelvraag 3.3
 
-Uit mijn voorafgaande onderzoek ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". ":
+Uit mijn voorafgaande onderzoek \([Inspiratie voorbeelden](best-good-and-bad-practices.md#inspiratie-voorbeelden)\) ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)":
 
+* 
 
 
