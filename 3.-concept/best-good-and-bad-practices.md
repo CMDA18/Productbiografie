@@ -85,11 +85,11 @@ Uit de bovenste voorbeelden heb ik een selectie gemaakt van drie onboarding tool
 
 * [**Cornerstone**](https://www.cornerstoneondemand.nl/onboarding) 
 
-  Cornerstone heeft onboarding tool die nieuwe medewerkers welkom heet met gepersonaliseerde pagina’s en een centrale bron van organisatorische informatie. Deze tool zorgt ervoor dat nieuwe medewerkers sneller worden ingewerkt door taken, training, doelen en certificaten toe te wijzen. Uit deze tool vind ik de flow van deze website fijn. Het is makkelijk aangegeven wat ge gebruiker binnen de website kan doen en tegelijkertijd wordt er veel geïnformeerd over het bedrijf. \(Cornerstone, z.j\) Zie afbeelding 20 voor een visuele weergave van Cornerstone. 
+  Cornerstone heeft onboarding tool die nieuwe medewerkers welkom heet met gepersonaliseerde pagina’s en een centrale bron van organisatorische informatie. Deze tool zorgt ervoor dat nieuwe medewerkers sneller worden ingewerkt door taken, training, doelen en certificaten toe te wijzen. Uit deze tool vind ik de flow van deze website fijn. Het is makkelijk aangegeven wat de gebruiker binnen de website kan doen en tegelijkertijd wordt er veel geïnformeerd over het bedrijf. \(Cornerstone, z.j\) Zie afbeelding 20 voor een visuele weergave van Cornerstone. 
 
 ![Afbeelding 20: Voorbeeld weergave van Cornerstone. \(Cornerstone, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.03.39.png)
 
-* [**Tinqwise**](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)  Maakt leeroplossingen voor professionals. Dit kan ook de vorm krijgen van een online leerplatform dat nieuwe medewerkers klaarstoomt voor hun werkzaamheden en de kennis van huidige werknemers up to date houdt. Zie afbeelding 21 voor een voorbeeld weergave van Tinqwis gebruikt door het bedrijf Tommy Hilfiger. 
+* [**Tinqwise**](https://tinqwise.nl/wat-we-voor-je-doen/case-tommy-hilfiger)  Maakt leeroplossingen voor professionals. Dit kan ook de vorm krijgen van een online leerplatform dat nieuwe medewerkers klaarstoomt voor hun werkzaamheden en de kennis van huidige werknemers up to date houdt. Zie afbeelding 21 voor een voorbeeld weergave van Tinqwis gebruikt door het bedrijf Tommy Hilfiger. Uit deze tool vind ik de weergave van de leeromgeving duidelijk. Je kan binnen een oogopslag zien uit welke delen de tool bestaat en door de titels kan je ook weten waarover elke deel is. 
 
 ![Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)](../.gitbook/assets/screen-shot-2018-02-16-at-15.05.27.png)
 
@@ -137,7 +137,7 @@ Mijn contact persoon binnen Ideo, komt uit de afdeling [Ideo U](https://www.ideo
 
 ![Afbeelding 24: E-mail verstuurd naar Ideo.](../.gitbook/assets/email_naar_ideo%20%281%29.png)
 
-![](../.gitbook/assets/email_van_ideo%20%281%29.png)
+![Afbeelding 24: Antwoord e-mail gekregen van Ideo.](../.gitbook/assets/email_van_ideo%20%281%29.png)
 
 
 
@@ -172,8 +172,11 @@ Uit mijn voorafgaande onderzoek \([Bureaus](best-good-and-bad-practices.md#burea
 
 ### Subdeelvraag 3.3
 
-Uit mijn voorafgaande onderzoek \([Inspiratie voorbeelden](best-good-and-bad-practices.md#inspiratie-voorbeelden)\) ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)":
+Uit mijn voorafgaande onderzoek \([Inspiratie voorbeelden](best-good-and-bad-practices.md#inspiratie-voorbeelden)\) ben ik op de volgende inzichten gekomen die antwoord geven op de subdeelvraag "[3.3 Hoe efficiënt zijn deze methodes?](../1.-introductie/onderzoeksvragen.md#deelvraag-3)". Om een efficiënte applicatie van te maken moet het de volgende bevatten:
 
-* 
+* Het moet persoonlijk worden gemaakt.
+* De flow van de website is belangrijk. Het moet aangegeven worden wat de gebruiker binnen de website kan doen en tegelijkertijd wordt er veel geïnformeerd over het bedrijf.
+* De weergave van de content moet duidelijk en overzichtelijk worden voor de gebruikers.
+
 
 
