@@ -32,8 +32,6 @@ Concept 2 bestaat uit een "sticky footer" menu. Dit betekent dat de menu altijd 
 
 ![](../.gitbook/assets/0003%20%281%29.jpg)
 
-
-
 ### Concept 3
 
 Concept 3 bestaat uit een hoofdscherm die een overzicht toont van 8 onderwerpen. Deze onderwerpen worden ingevuld aan de hand van de gekozen content beschreven in[ 2.5 Content richtlijnen](../2.-verkenningsfase/content-richtlijnen.md). Bij het klikken van een van deze onderwerpen wordt je gelinkt naar de pagina van de desbetreffende onderwerp. Per onderwerp wordt er een afbeelding weergegeven en de titel van de onderwerp.
@@ -42,33 +40,20 @@ Concept 3 bestaat uit een hoofdscherm die een overzicht toont van 8 onderwerpen.
 
 ### Concept 4
 
-Concept 4 bevat een "side" menu die altijd zichtbaar in beeld is. De content van de menu zijn de onderwerpen van de gekozen content beschreven in[ 2.5 Content richtlijnen](../2.-verkenningsfase/content-richtlijnen.md). Door het klikken van een van deze onderwerp wordt de gebruiker gelinkt naar de desbetreffende pagina. De pagina waar de gebruiker zich bevindt wordt gehighlight, zodat de gebruiker weet op welke pagina hij zich bevindt.
+Concept 4 bevat een "side" menu die altijd zichtbaar in beeld is. De content van de menu zijn de onderwerpen van de gekozen content beschreven in[ 2.5 Content richtlijnen](../2.-verkenningsfase/content-richtlijnen.md). Door het klikken van een van deze onderwerp wordt de gebruiker gelinkt naar de desbetreffende pagina. De pagina waar de gebruiker zich bevindt wordt gehighlight, zodat de gebruiker weet op welke pagina hij zich bevindt.  
+De inhoudt van de pagina's worden weergegeven door middel van de pagina titel, een introductie tekst en de hoofdcontent. De hoofdcontent bestaat uit twee kolommen. Een kolom is voor tekst en de andere voor afbeeldingen. 
 
 ![](../.gitbook/assets/0005.jpg)
 
-### Concept 6
+### Concept 5
+
+Concept 5 bestaat uit een tabblad menu, de content van deze menu zijn de onderwerpen van de gekozen content beschreven in[ 2.5 Content richtlijnen](../2.-verkenningsfase/content-richtlijnen.md). Verder wordt de menu altijd bovenaan weergegeven. De inhoudt van de pagina's worden weergegeven door middel van de pagina titel en de hoofdcontent. De hoofdcontent bestaat uit twee kolommen. Een kolom is voor tekst en de andere voor afbeeldingen. 
 
 ![](../.gitbook/assets/0006.jpg)
 
-### Concept 7
-
-![](../.gitbook/assets/deelvragen_0.3.jpg)
-
-### Concept 8
-
-![](../.gitbook/assets/deelvragen_0.3.jpg)
-
 ### 
 
-### Concept 9
 
-![](../.gitbook/assets/deelvragen_0.3.jpg)
-
-
-
-### Concept 10
-
-![](../.gitbook/assets/deelvragen_0.3.jpg)
 
 
 
