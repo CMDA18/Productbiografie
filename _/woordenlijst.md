@@ -8,3 +8,5 @@ Jungle pro: Bedoelt voor lange termijn klussen op locatie \(freelancers\)
 
 Tribe: Bijenkomsten van medewerkers met leden van dezelfde expertise. 
 
+Zero state:
+

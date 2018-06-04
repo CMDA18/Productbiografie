@@ -59,7 +59,7 @@ Resultaten uit de enquete hoe mensen het bedrijf Jungle Minds beschrijven.
 
 ### Het bedrijf
 
-![Afbeelding ...: caption](../../.gitbook/assets/tabel_cultuur_bedrijf.png)
+![Afbeelding ...: caption](../../.gitbook/assets/tabel_cultuur_bedrijf%20%281%29.png)
 
 ### De content
 

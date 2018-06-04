@@ -14,7 +14,7 @@ De conceptfase heeft plaats gevonden in week 8 tot en met week 14. Hieronder zie
 | --- | --- | --- | --- | --- | --- |
 | Week 11 | [Best, good & bad practices](best-good-and-bad-practices.md) | Best, good & bad practices / Interview / Survey |
 | [​](inspiratie-patterns.md)Week 10 | [Inspiratie patterns](inspiratie-patterns.md) | Design Pattern Search / Best, good & bad practices |
-| ​Week 8/11 | [Concept: 10 ideeën](concept-10-ideeen.md) | Sketching / Storytelling / Ideation |
+| ​Week 8/11 | [Concept schetsen](concept-schetsen.md) | Sketching / Storytelling / Ideation |
 | ​Week 12/14 | [Concept: 3 ideeën](concept-3-ideeen.md) | Ideation / Storytelling |
 | ​Week 14 | [Risk analyse: 3 ideeën](conclusie.md) | Proof of Concept / Co-reflection |
 

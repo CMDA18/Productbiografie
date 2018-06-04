@@ -25,7 +25,7 @@
 * [3.1 Inleiding](3.-concept/inleiding.md)
 * [3.2 Best, good & bad practices](3.-concept/best-good-and-bad-practices.md)
 * [3.3 Inspiratie patterns](3.-concept/inspiratie-patterns.md)
-* [3.4 Concept: 10 ideeën](3.-concept/concept-10-ideeen.md)
+* [3.4 Concept schetsen](3.-concept/concept-schetsen.md)
 * [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
 * [3.6 Conclusie](3.-concept/conclusie.md)
 
