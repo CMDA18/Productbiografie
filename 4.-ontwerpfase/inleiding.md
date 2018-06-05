@@ -28,17 +28,17 @@ Na het gesprek van week 13 ben ik verder gaan brainstormen over de concept van e
 
 ### Week 15
 
-Na 
+Tijdens de groenlicht presentatie heb ik feedback gekregen op mijn design rationale en presentatie. Mijn presentatie ging over het algemeen goed, de docenten vonden dat ik mijn verhaal kort maar krachtig had overgebracht en dat ik goed gebruik had gemaakt van plaatjes tijdens de presentatie. Voor de rationale waren er een aantal punten waar ik op moest gaan letten tijdens het inleveren van mijn documentatie. Lees [5.7 Groenlicht presentatie](../deliverables/groenlicht-presentatie.md) voor meer informatie erover. Na de presentatie ben ik begonnen met het bouwen van de website in React, omdat ik nog graag mijn developer expertise wilde toepassen binnen dit project. 
 
 ### Week 16
 
-Na 
+Tijdens week 16 heb ik mijn prototype v0.7 getest met de doelgroep. Ik had hiervoor de testplan aangemaakt en na het testen gekeken naar mogelijke iteraties om het product te verbeteren. 
 
 ### Week 17
 
-Na 
+Tijdens week 17 heb ik mijn prototype v0.8/0.9 getest met de doelgroep. Ik had hiervoor de testplan aangemaakt en na het testen gekeken naar mogelijke iteraties om het product te verbeteren. Daarnaast heb ik aan mijn design rationale en biografie gewerkt zodat ik mijn laatste feedback kon opvragen bij mijn eerste lezer. 
 
 ### Week 18
 
-Na 
+Tijdens deze week ben ik bezig geweest met het afronden van mijn gecodeerde product en het schrijven/bijhouden van alle documentatie.
 

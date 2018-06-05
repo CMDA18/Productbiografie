@@ -1,6 +1,10 @@
 # 5.1 Inleiding
 
-Binnen mijn afstudeerproces zijn er een aantal mijlpalen vastgezet waarbij ik een aantal opleveringen moet doen. Zie hieronder een lijst van deze opleveringen met een korte toelichting erover:
+Binnen mijn afstudeerproces zijn er een aantal mijlpalen vastgezet waarbij ik een aantal opleveringen moet doen. Zie afbeelding ... voor de weergave van het gehele proces. 
+
+![Afbeelding ...: Visuele weergave van het proces van afstudeerproject.](../.gitbook/assets/screen-shot-2018-06-05-at-10.09.21.png)
+
+Zie hieronder een lijst van deze opleveringen met een korte toelichting erover:
 
 | **Wanneer** | **Mijlpaal** | **Wie** | **Toelichting** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,7 +13,9 @@ Binnen mijn afstudeerproces zijn er een aantal mijlpalen vastgezet waarbij ik ee
 | Week 3 \(19 feb\) | [Design Brief](design-brief.md) + [Planning](planning.md) | Eerste lezer & Afstudeercommissie  Go / Go mits / No go | De criteria waarnaar wordt gekeken, staan bij het inleverpunt. |
 | Week 8  \(09 apr\) | [Feedback Frenzy ](feedback-frenzy.md)   | Een grote groep medestudenten en begeleiders | Presenteer je concepten/ontwerpen en verzamel feedback op punten waar je zelf over twijfels hebt of niet uitkomt. |
 | Week 14 \(14 mei\) | [Groenlicht presentatie](groenlicht-presentatie.md) | Eerste & tweede lezer  Groen / Rood / Oranje | Lever ruim vantevoren al je werk in bij de begeleiders en presenteer in 10-15 minuten je project. Sluit af met een planning voor de laatste weken. Je krijgt feedback op basis van de eindcriteria van het project. |
-| Week 18 \(04 jun\) | [Eindoplevering](eindoplevering.md) | Eerste & derde lezer  Voorlopige beoordeling | Lever alles digitaal in. |
-| Week 19 \(11 jun\) | [Promovideo](promovideo.md) | Eerste & derde lezer Voorlopige beoordeling | Inleveren van een promovideo van het eindproduct.  |
-| Week 20 \(18 jun\) | [Eindpresentatie](eindoplevering.md) | Eerste & derde lezer  Definitieve beoordeling | Geef een presentatie van 10-15 minuten over je project en sluit af met conclusies, aanbevelingen en een reflectie. |
+| Week 18 \(04 jun\) | [Eindoplevering](eindoplevering.md) | Eerste & derde lezer  Voorlopige beoordeling | Lever alles digitaal in. Zie afbeelding ... |
+| Week 19 \(11 jun\) | Promovideo | Eerste & derde lezer Voorlopige beoordeling | Inleveren van een promovideo van het eindproduct.  |
+| Week 20 \(18 jun\) | Eindpresentatie | Eerste & derde lezer  Definitieve beoordeling | Geef een presentatie van 10-15 minuten over je project en sluit af met conclusies, aanbevelingen en een reflectie. |
+
+![Afbeelding ...: Eindopleveringen van de afstudeerproject.](../.gitbook/assets/screen-shot-2018-06-05-at-10.09.46.png)
 

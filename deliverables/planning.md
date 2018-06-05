@@ -64,8 +64,8 @@ Voor de ontwerpfase zal ik tien weken nodig hebben. Tijdens deze zes weken zal i
 | **Week** | **Deliverables** |
 | --- | --- |
 | Week 18 | [Eindoplevering](eindoplevering.md) \(design rationale + reflectie\) |
-| Week 19 | [Promovideo](promovideo.md) |
-| Week 20 | [Eindpresentatie](eindpresentatie.md) |
+| Week 19 | [Promovideo]() |
+| Week 20 | [Eindpresentatie]() |
 
 
 

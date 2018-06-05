@@ -28,8 +28,8 @@
 * [Feedback Frenzy](deliverables/feedback-frenzy.md)
 * [Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
 * [Eindoplevering](deliverables/eindoplevering.md)
-* [Promovideo](deliverables/promovideo.md)
-* [Eindpresentatie](deliverables/eindpresentatie.md)
+* [Promovideo]()
+* [Eindpresentatie]()
 
 ## -
 

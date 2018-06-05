@@ -1,4 +1,18 @@
 # 5.3 Pitch projectvoorstel
 
-Documenten voor mijn afstudeerproject.
+## Opdrachtgever
+
+Jungle Minds
+
+
+
+## Probleemsituatie
+
+
+
+## Design challenge
+
+
+
+## Product visie
 

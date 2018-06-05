@@ -52,8 +52,6 @@
 * [5.6 Feedback Frenzy](deliverables/feedback-frenzy.md)
 * [5.7 Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
 * [5.8 Eindoplevering](deliverables/eindoplevering.md)
-* [5.9 Promovideo](deliverables/promovideo.md)
-* [5.10 Eindpresentatie](deliverables/eindpresentatie.md)
 
 ## 6. Bijlage
 

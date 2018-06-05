@@ -4,7 +4,7 @@
 
 Jungle Minds \(2018\) Jungle day XL 1 pdf. 
 
-Jungle Minds \(2017\) Nieuwe huisstijl pdf. 
+Jungle Minds \(2015\) huidige huisstijl pdf. 
 
 
 

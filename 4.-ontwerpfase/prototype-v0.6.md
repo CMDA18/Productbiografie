@@ -2,7 +2,7 @@
 
 Uitgaande van mijn vorige prototypes, mijn onderzoek en de onderzoeksvraag “Hoe kan een webapp ervoor zorgen dat nieuwe medewerkers van Jungle Minds de benodigde informatie over procedures en regels binnen het bedrijf verkrijgen, zodat er efficiënter met de inwerktijd wordt omgegaan?” heb ik prototype 0.5 van The guide to the Jungle gemaakt. 
 
-Hier volgen de belangrijkste schermen van prototype 0.6:
+Hier volgen de belangrijkste schermen van prototype 0.5:
 
 **Overview**
 

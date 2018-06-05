@@ -16,6 +16,10 @@
 
 ### Menu uitklapbaar
 
+
+
+### Progress bars
+
 Inspiration wall
 
 http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/
@@ -27,10 +31,6 @@ http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/
 
 
 http://ui-patterns.com/patterns/Unlock-features/examples/18276 unlock patytern
-
-
-
-Nederlandse spreekwoorden in Engels \(https://kunst-en-cultuur.infonu.nl/taal/23563-nederlandse-spreekwoorden.html\)
 
 
 

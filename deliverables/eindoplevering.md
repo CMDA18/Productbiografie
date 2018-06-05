@@ -1,4 +1,16 @@
 # 5.8 Eindoplevering
 
-Documenten voor mijn afstudeerproject.
+## Design rationale
+
+
+
+## Product biografie
+
+
+
+## Het product
+
+
+
+## Reflectie
 
