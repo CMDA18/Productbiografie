@@ -29,7 +29,7 @@ Op afbeelding ... wordt een de hoofdmenu weergeven van de applicatie. Deze menu 
 
 ## Peer review 
 
-Deze prototype heb ik door middel van een "peer review" getest met mijn medecollega's van CMD. Hieruit heb ik de volgende inzichten gekregen:
+Deze prototype heb ik door middel van een [peer review](../6.5-prototype-tests/6.5.1-peer-review-v0.1.md) getest met mijn medecollega's van CMD. Hieruit heb ik de volgende inzichten gekregen:
 
 * Zo snel mogelijk beginnen met het ontwerpen van een testbare versie van een prototype. 
 * Gebruik de huisstijl van het bedrijf om de "look & feel" over te brengen.

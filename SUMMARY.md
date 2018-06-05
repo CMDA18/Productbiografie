@@ -68,6 +68,10 @@
 * [6.4 Surveys](onderzoek-methodes/surveys/README.md)
   * [6.4.1 Working at Jungle Minds](onderzoek-methodes/surveys/working-at-jungle-minds.md)
   * 6.4.2 Inwerkproces
+* [6.5 Prototype tests](6.5-prototype-tests/README.md)
+  * [6.5.1 Peer review v0.1](6.5-prototype-tests/6.5.1-peer-review-v0.1.md)
+  * [6.5.2 Expert review v0.3](6.5-prototype-tests/6.5.2-expert-review-v0.3.md)
+  * [6.5.3 Expert review v0.4](6.5-prototype-tests/6.5.3-expert-review-v0.4.md)
 
 ## \_
 
