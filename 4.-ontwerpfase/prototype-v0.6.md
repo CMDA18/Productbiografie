@@ -6,7 +6,7 @@ Uitgaande van mijn vorige prototypes, mijn onderzoek en de onderzoeksvraag “Ho
 
 Hier volgen de belangrijkste schermen van prototype 0.5:
 
-#### **Overview**
+### **Overview**
 
 In afbeelding ... ziet u de visuele weergave van de overview pagina, dit is de homepage van het applicatie. In deze pagina ziet de gebruiker 6 onderwerpen. Deze pagina bestaat uit drie hoofdcomponenten, namelijk: 
 
@@ -18,7 +18,7 @@ De component van de verzameling van kaarten bestaat uit 6 kaarten. Elke kaart wo
 
 ![Overview pagina](../.gitbook/assets/overview-2%20%281%29.jpg)
 
-#### **0.1 Jungle Minds**
+### **0.1 Jungle Minds**
 
 In afbeelding ... ziet u de visuele weergave van de Jungle Minds pagina. In deze pagina worden de belangrijkste momenten van het bedrijf weergegeven in een vorm van een tijdlijn. Het verhaal begint in 2000 wanneer het bedrijf is opgericht en gaat tot de laatste belangrijke gebeurtenis, in dit geval is het 2017. Deze pagina bestaat uit de volgende componenten:
 
@@ -41,7 +41,7 @@ In deze pagina wordt er door middel van de tijdlijn slider de geschiedenis van h
 
 ![Afbeelding ...:](../.gitbook/assets/0.1-jungle-minds-modal%20%281%29.jpg)
 
-#### **0.2 The Jungle Culture**
+### **0.2 The Jungle Culture**
 
 In The Jungle Culture pagina wordt de cultuur van Jungle Minds beschreven. Hier worden belangrijke begrippen van het bedrijf uitgelegd. De Cultuur van Jungle Minds bestaat uit twee delen. Het eerste deel gaat over de Jungle Maslow. Dit is een piramide die laat zien hoe het bedrijf gevestigd is.  Elk aspect van de piramide wordt uitgelegd in de tekst component. Het tweede gedeelte gaat over de Jungle Formule. Hierin worden de verwachtingen voor een medewerker van Jungle Minds in kaart gebracht. Deze pagina bestaat uit de volgende componenten:
 
@@ -61,9 +61,9 @@ In The Jungle Culture pagina wordt de cultuur van Jungle Minds beschreven. Hier 
 
 Wanneer de pagina uit meerdere delen bestaat, wordt de component \(tekst met plaatje\) om en om links of rechts gealigned.  Zie afbeelding ... voor de visuele weergave van deze pagina. 
 
-![Afbeelding ...:](../.gitbook/assets/0.2-the-jungle-culture-copy%20%281%29.jpg)
+![Afbeelding ...:](../.gitbook/assets/0.2-the-jungle-culture-copy.jpg)
 
-**0.3 Our People**
+### **0.3 Our People**
 
 In de Our People pagina wordt er per expertise binnen het bedrijf uitgelegd wat het inhoudt en worden de medewerkers weergegeven die voor de betreffende expertise werken. Zie afbeelding ... voor de visuele weergave van Our People pagina. Deze pagina bestaat uit de volgende componenten:
 
@@ -73,13 +73,16 @@ In de Our People pagina wordt er per expertise binnen het bedrijf uitgelegd wat 
 * Subtitel met de naam van de expertise.
 * Korte omschrijving van de expertise.
 * Medewerker kaart: 
+
   * Foto van Medewerker.
   * Naam van medewerker.
   * Modal met informatie over de medewerker.
 
-![Afbeelding ...:](../.gitbook/assets/0.3-our-people-copy%20%281%29.jpg)
 
-**0.4 How We Work**
+
+  ![Afbeelding ...:](../.gitbook/assets/0.3-our-people-copy%20%282%29.jpg)
+
+### **0.4 How We Work**
 
 In de How We Work pagina wordt er uitgelegd hoe Jungle Minds te werk gaat met hun projecten. Zie afbeelding 9 voor de visuele weergave van deze pagina. Deze pagina bestaat uit de volgende componenten:
 
@@ -108,7 +111,7 @@ In de How We Work pagina wordt er uitgelegd hoe Jungle Minds te werk gaat met hu
 
 Wanneer de pagina uit meerdere delen bestaat, wordt de component \(tekst met plaatje\) om en om links of rechts gealigned.  Zie afbeelding ... voor de visuele weergave van deze pagina.
 
-![Afbeelding ...:](../.gitbook/assets/0.4-how-we-work-copy.jpg)
+![Afbeelding ..:](../.gitbook/assets/0.4-how-we-work-copy%20%281%29.jpg)
 
 **0.5 Our Clients**
 
@@ -122,9 +125,9 @@ Deze pagina bestaat uit de volgende componenten:
 * Een lijst met de klanten van Jungle Minds
 * Verschillende quotes vanuit de partners van Jungle Minds.
 
-![Afbeelding ...:](../.gitbook/assets/0.5-our-clients-copy.jpg)
+![Afbeelding ...:](../.gitbook/assets/0.5-our-clients-copy%20%282%29.jpg)
 
-**0.6 FAQ**
+### **0.6 FAQ**
 
 In de FAQ pagina worden de meest voorkomende vragen weergeven. Zie afbeelding 11 voor de weergave ervan. In deze pagina worden er een selectie van 15 vragen weergegeven die medewerkers vaak stellen. Deze worden in een harmonica menu weergegeven en wanneer er op geklikt wordt klapt het open en krijgt de gebruiker het antwoord te zien met daarbij de bijbehorende persoon die over dat onderwerp gaat.  Deze pagina bestaat uit de volgende componenten:
 
