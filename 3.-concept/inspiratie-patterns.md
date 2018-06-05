@@ -1,5 +1,21 @@
 # 3.3 Inspiratie patterns
 
+## Patterns
+
+### \(side\) navigation
+
+
+
+### modal
+
+
+
+### "Iframe" design
+
+
+
+### Menu uitklapbaar
+
 Inspiration wall
 
 http://www.rmmbr.com/portfolio\_items/pre-onboarding-programma-euro-caps/

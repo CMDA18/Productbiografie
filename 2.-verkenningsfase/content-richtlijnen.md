@@ -18,14 +18,16 @@ Uit het artikel "Hoe je nieuwe medewerkers succesvol integreert" schrijven Drain
     * Kondig de komst van de nieuwe teamleden aan in een e-mail of een vergadering.
     * Stel een welkomstpakket samen met relevante informatie over elke nieuwe medewerker: loopbaan, nieuwe functie, de rol die hij of zij gaat spelen.
 
+### Conclusie
 
-
-Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier onderwerpen in de webapp moeten komen. 
+Aan de hand van de voorafgaande onderzoek heb ik besloten dat de volgende vier onderwerpen in de webapp moeten komen:
 
 * Manier van Werken van Jungle Minds
 * De Rollen binnen Jungle Minds
 * Bij wie kan je terecht voor welke vragen \(FAQ\)
 * Cultuur van het bedrijf naar voren brengen
+
+
 
 
 

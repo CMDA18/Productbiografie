@@ -16,11 +16,11 @@
 
 ## 4. Prototyping
 
-* [Inleiding](4.-ontwerpen/inleiding.md)
+* [Inleiding](4.-ontwerpfase/inleiding.md)
 
 ## Deliverables
 
-* [Deliverables](deliverables/deliverables.md)
+* [Deliverables](deliverables/inleiding.md)
 * [Projectvoorstel](https://github.com/CMDA18/Productbiografie/tree/d16c777de30a11c9cf842b51b021115339af451d/deliverables/projectvoorstel-de.md)
 * [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
 * [Design Brief](deliverables/design-brief.md)

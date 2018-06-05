@@ -1,22 +1,8 @@
 # 5.5 Planning
 
-## Werkwijze
-
 Binnen deze twintig weken wil ik mijn project verdelen in 3 hoofdfasen. Namelijk: verkenning, idee ontwikkeling en realisatie. Hieronder beschrijf ik de drie losse fases. Maar in de praktijk zullen ze elkaar overlappen aan de hand van de informatie dat ik zal verkrijgen van elke fase. 
 
-### **Verkenning** 
-
-Tijdens de verkenningsfase wil ik mij voornamelijk richten op onderzoek naar de behoeftes van de verschillende stakeholders, hoe andere bedrijven deze situatie aanpakken en literair onderzoek. Ik schat dat ik zes weken bezig zal zijn met het verzamelen en het verwerken van allerlei informatie uit verschillende onderzoeken. 
-
-### **Idee ontwikkeling** 
-
-Tijdens mijn idee ontwikkeling wil ik de focus leggen bij design patterns onderzoek en mijn concepten ontwikkelingen. Ik wil zo veel mogelijke potentiële concepten uitschetsen en aan het einde van deze fase wil ik een low-fi prototype hebben gemaakt van het meest potentiële concept. Ik schat dat ik vier weken hiermee bezig zal zijn. 
-
-### **Realisatie** 
-
-Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken zal ik mij bezig houden met het maken en testen van een high-fi prototype van het eindproduct. Als eindproduct wil ik in ieder geval een product maken waarbij de algemene procedures en informatie van Jungle Minds goed overgebracht wordt naar de nieuwe medewerkers. 
-
-## Planning
+### Planning
 
 * [Project voorstel](planning.md#project-voorstel): Week 0/2
 * [Onderzoek](planning.md#onderzoek): Week 3/6
@@ -24,54 +10,62 @@ Voor de fase realisatie zal ik tien weken nodig hebben. Tijdens deze ties weken 
 * [Prototyping](planning.md#prototyping): Week 10/17
 * [Afronding](planning.md#afronding): Week 18/20
 
-### Project voorstel
+
+
+## **Project voorstel**
 
 | **Week** | **Deliverables** | **Methods** |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Week 0/2 | Concept Overview | Ideation / Fly on the wall / Interview |
-|  | Requirements List | Fly on the wall / Literature Study |
-|  | [Design Brief](design-brief.md) | Literature Study / Interview |
-|  | [Planning](planning.md) |  |
+| ​Week 2 | Requirements List | Fly on the wall / Literature Study |
+| ​Week 3 | ​[Design Brief](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/design-brief)​ | Literature Study / Interview |
+| ​Week 3 | ​[Planning](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/planning)​ | ​ |
 
-### Onderzoek
+## **Verkenningsfase** 
 
-| **Week** | **Deliverables** | **Methods** |
-| --- | --- | --- |
-| Week 3/6 | Mood board Jungle minds | Interview / Survey / Fly on the wall |
-|  | Customer journey \(huidige situatie\) | Orienting Expert Interview / Survey / Context mapping |
-|  | Customer journey \(gewenste situatie\) | Interview / Survey / Context mapping |
-|  | Requirements List | Orienting Expert Interview / Interview / Survey / Literature Study |
-|  | Content richtlijnen  | Orienting Expert Interview / Interview / Survey / Literature Study / Storytelling |
-
-### Ontwerp
+Tijdens de verkenningsfase wil ik mij voornamelijk richten op onderzoek naar de behoeftes van de verschillende stakeholders, hoe andere bedrijven deze situatie aanpakken en literair onderzoek. Ik schat dat ik zes weken bezig zal zijn met het verzamelen en het verwerken van allerlei informatie uit verschillende onderzoeken.Tijdens deze fase wil ik meer informatie verkrijgen over de probleemsituatie en de wensen van de klant en doelgroep.
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
-| Week 7/9 | Comparison chart | Best, good & bad practices / Interview / Survey |
-|  | Inspiration wall | Design Pattern Search / Best, good & bad practices |
-|  | Concept: 10 ideeën | Sketching / Storytelling / Ideation |
-|  | Concept: 3 ideeën | Ideation / Storytelling |
-|  | Risk analyse: 3 ideeën | Proof of Concept / Co-reflection |
+| Week 3/6              | Mood board Jungle minds | Interview / Survey / Fly on the wall |
+| Week 4 | Customer journey \(huidige situatie\) | Orienting Expert Interview / Survey / Context mapping |
+| Week 4 | Customer journey \(gewenste situatie\) | Interview / Survey / Context mapping |
+| Week 2/9 | Requirements List | Orienting Expert Interview / Interview / Survey / Literature Study |
+| Week 8 | Content richtlijnen  | Orienting Expert Interview / Interview / Survey / Literature Study / Storytelling |
 
-### Prototyping
+## **Conceptfase**
+
+Tijdens mijn conceptfase wil ik de focus leggen bij design patterns onderzoek en mijn concepten ontwikkelingen. Ik wil zo veel mogelijke potentiële concepten uitschetsen en aan het einde van deze fase wil ik een low-fi prototype hebben gemaakt van het meest potentiële concept. Ik schat dat ik vier weken hiermee bezig zal zijn. 
 
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
-| Week 10/17 | Prototyping v.01 | Prototyping / Peer Review |
-|  | [Feedback Frenzy](feedback-frenzy.md) \(poster\) | Peer Review / Expo |
-|  | Prototyping v.03 | Think aloud / Peer Review |
-|  | [Groenlicht presentatie](groenlicht-presentatie.md) |  |
-|  | Prototyping v.06 | Usability Testing / Peer Review |
-|  | Prototyping v.09 | Usability Testing / \(Product\) Quality Review |
-|  | Prototyping v.1.0 |  |
+| Week 8/9 | Comparison chart | Best, good & bad practices / Interview / Survey |
+| Week 9/11 | Inspiration wall | Design Pattern Search / Best, good & bad practices |
+| Week 7/11 | Concept schetsen  | Sketching / Storytelling / Ideation |
+| Week 10/11 | Concept: 3 ideeën | Ideation / Storytelling |
+| Week 10/11 | Risk analyse: 3 ideeën | Proof of Concept / Co-reflection |
 
-### Afronding
+## **Ontwerpfase**
+
+Voor de ontwerpfase zal ik tien weken nodig hebben. Tijdens deze zes weken zal ik mij bezig houden met het maken en testen van een high-fi prototype van het eindproduct. Als eindproduct wil ik in ieder geval een product maken waarbij de algemene procedures en informatie van Jungle Minds goed overgebracht wordt naar de nieuwe medewerkers. 
+
+| **Week** | **Deliverables** | **Methods** |
+| --- | --- | --- |
+| Week 10 | Prototyping v.01 | Prototyping / Peer Review |
+| Week 10 | [Feedback Frenzy](feedback-frenzy.md)  | Peer Review / Expo |
+| Week 12 | Prototyping v.03 | Think aloud / Peer Review |
+| Week 15 | [Groenlicht presentatie](groenlicht-presentatie.md) |  |
+| Week 16 | Prototyping v.06 | Usability Testing / Peer Review |
+| Week 17 | Prototyping v.09 | Usability Testing / \(Product\) Quality Review |
+| Week 18 | Prototyping v.1.0 |  |
+
+## Afronding
 
 | **Week** | **Deliverables** |
 | --- | --- |
-| Week 18/20 | [Eindoplevering](eindoplevering.md) \(design rationale + reflectie\) |
-|  | [Promovideo](promovideo.md) |
-|  | [Eindpresentatie](eindpresentatie.md) |
+| Week 18 | [Eindoplevering](eindoplevering.md) \(design rationale + reflectie\) |
+| Week 19 | [Promovideo](promovideo.md) |
+| Week 20 | [Eindpresentatie](eindpresentatie.md) |
 
 
 

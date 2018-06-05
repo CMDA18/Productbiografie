@@ -29,22 +29,22 @@
 * [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
 * [3.6 Conclusie](3.-concept/conclusie.md)
 
-## 4. Ontwerpen
+## 4. Ontwerpfase
 
-* [4.1 Inleiding](4.-ontwerpen/inleiding.md)
-* [4.2 Identiteit & merkbeleving](4.-ontwerpen/4.2-identiteit-and-merkbeleving.md)
-* [4.2 Prototype v0.1](4.-ontwerpen/prototype-v0.1.md)
-* [4.3 Prototype v0.3](4.-ontwerpen/prototype-v0.3.md)
-* [4.4 Prototype v0.4](4.-ontwerpen/4.4-prototype-v0.4.md)
-* [4.5 Prototype v0.5](4.-ontwerpen/prototype-v0.6.md)
-* [4.6 Prototype v0.7](4.-ontwerpen/untitled.md)
-* [4.7 Prototype v0.9](4.-ontwerpen/prototype-v0.9.md)
-* [4.8 Prototype v1.0](4.-ontwerpen/prototype-v1.0.md)
-* [4.9 Conclusie](4.-ontwerpen/4.7-conclusie.md)
+* [4.1 Inleiding](4.-ontwerpfase/inleiding.md)
+* [4.2 Identiteit & merkbeleving](4.-ontwerpfase/4.2-identiteit-and-merkbeleving.md)
+* [4.2 Prototype v0.1](4.-ontwerpfase/prototype-v0.1.md)
+* [4.3 Prototype v0.3](4.-ontwerpfase/prototype-v0.3.md)
+* [4.4 Prototype v0.4](4.-ontwerpfase/4.4-prototype-v0.4.md)
+* [4.5 Prototype v0.5](4.-ontwerpfase/prototype-v0.6.md)
+* [4.6 Prototype v0.7](4.-ontwerpfase/untitled.md)
+* [4.7 Prototype v0.9](4.-ontwerpfase/prototype-v0.9.md)
+* [4.8 Prototype v1.0](4.-ontwerpfase/prototype-v1.0.md)
+* [4.9 Conclusie](4.-ontwerpfase/4.7-conclusie.md)
 
 ## 5. Deliverables
 
-* [5.1 Deliverables](deliverables/deliverables.md)
+* [5.1 Inleiding](deliverables/inleiding.md)
 * [5.2 Projectvoorstel](deliverables/projectvoorstel.md)
 * [5.3 Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
 * [5.4 Design Brief](deliverables/design-brief.md)
