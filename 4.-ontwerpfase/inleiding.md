@@ -7,7 +7,7 @@ Week 12/ 18
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- | --- | --- | --- |
 | Week 12 | [Prototype v0.1](prototype-v0.1.md) | Best, good & bad practices / Interview / Survey |
-| [​](../3.-concept/inspiratie-patterns.md)Week 13 | Prototype | Design Pattern Search / Best, good & bad practices |
+| [​](../3.-concept/3.3-inspiratie-patterns.md)Week 13 | Prototype | Design Pattern Search / Best, good & bad practices |
 | ​Week 14 | Prototype | Sketching / Storytelling / Ideation |
 | ​Week 15 | Prototype | Ideation / Storytelling |
 | ​Week 18 | [Prototype v1.0](prototype-v1.0.md) | Proof of Concept / Co-reflection |

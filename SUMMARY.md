@@ -5,29 +5,29 @@
 
 ## 1. Introductie
 
-* [1.1 Algemene informatie](1.-introductie/algemene-informatie.md)
-* [1.2 Aanleiding Project](1.-introductie/aanleiding-project.md)
-* [1.3 Inleiding](1.-introductie/inleiding.md)
-* [1.4 Onderzoeksvragen](1.-introductie/onderzoeksvragen.md)
+* [1.1 Algemene informatie](1.-introductie/1.1-algemene-informatie.md)
+* [1.2 Aanleiding Project](1.-introductie/1.2-aanleiding-project.md)
+* [1.3 Inleiding](1.-introductie/1.3-inleiding.md)
+* [1.4 Onderzoeksvragen](1.-introductie/1.4-onderzoeksvragen.md)
 
 ## 2. Verkenningsfase
 
-* [2.1 Inleiding](2.-verkenningsfase/inleiding.md)
-* [2.2 Jungle Minds](2.-verkenningsfase/jungle-minds.md)
-* [2.3 De context](2.-verkenningsfase/de-context.md)
-* [2.4 Customer journey](2.-verkenningsfase/customer-journey.md)
-* [2.5 Content richtlijnen](2.-verkenningsfase/content-richtlijnen.md)
-* [2.6 Requirements list](2.-verkenningsfase/requirements-list.md)
-* [2.7 Conclusie](2.-verkenningsfase/conclusie.md)
+* [2.1 Inleiding](2.-verkenningsfase/2.1-inleiding.md)
+* [2.2 Jungle Minds](2.-verkenningsfase/2.2-jungle-minds.md)
+* [2.3 De context](2.-verkenningsfase/2.3-de-context.md)
+* [2.4 Customer journey](2.-verkenningsfase/2.4-customer-journey.md)
+* [2.5 Content richtlijnen](2.-verkenningsfase/2.5-content-richtlijnen.md)
+* [2.6 Requirements list](2.-verkenningsfase/2.6-requirements-list.md)
+* [2.7 Conclusie](2.-verkenningsfase/2.7-conclusie.md)
 
 ## 3. conceptfase
 
-* [3.1 Inleiding](3.-concept/inleiding.md)
-* [3.2 Best, good & bad practices](3.-concept/best-good-and-bad-practices.md)
-* [3.3 Inspiratie patterns](3.-concept/inspiratie-patterns.md)
-* [3.4 Concept schetsen](3.-concept/concept-schetsen.md)
-* [3.5 Concept: 3 ideeën](3.-concept/concept-3-ideeen.md)
-* [3.6 Conclusie](3.-concept/conclusie.md)
+* [3.1 Inleiding](3.-concept/3.1-inleiding.md)
+* [3.2 Best, good & bad practices](3.-concept/3.2-best-good-and-bad-practices.md)
+* [3.3 Inspiratie patterns](3.-concept/3.3-inspiratie-patterns.md)
+* [3.4 Concept schetsen](3.-concept/3.4-concept-schetsen.md)
+* [3.5 Concept en de flow](3.-concept/3.5-concept-en-de-flow.md)
+* [3.6 Conclusie](3.-concept/3.6-conclusie.md)
 
 ## 4. Ontwerpfase
 

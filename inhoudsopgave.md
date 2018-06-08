@@ -2,17 +2,17 @@
 
 ## 1. Introductie
 
-* [Algemene informatie](1.-introductie/algemene-informatie.md)
-* [Aanleiding Project](1.-introductie/aanleiding-project.md)
-* [Inleiding](1.-introductie/inleiding.md)
+* [Algemene informatie](1.-introductie/1.1-algemene-informatie.md)
+* [Aanleiding Project](1.-introductie/1.2-aanleiding-project.md)
+* [Inleiding](1.-introductie/1.3-inleiding.md)
 
 ## 2. Onderzoek
 
-* [Inleiding](2.-verkenningsfase/inleiding.md)
+* [Inleiding](2.-verkenningsfase/2.1-inleiding.md)
 
 ## 3. Ontwerp
 
-* [Inleiding](3.-concept/inleiding.md)
+* [Inleiding](3.-concept/3.1-inleiding.md)
 
 ## 4. Prototyping
 
