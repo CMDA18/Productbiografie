@@ -8,7 +8,8 @@
 
 ### 0.1
 
-
+**The Elder Scrolls**  
+[http://sherubthakur.github.io/react-horizontal-timeline/](http://sherubthakur.github.io/react-horizontal-timeline/)
 
 ### 0.2
 
