@@ -26,7 +26,7 @@
 * [3.2 Best, good & bad practices](3.-concept/3.2-best-good-and-bad-practices.md)
 * [3.3 Inspiratie patterns](3.-concept/3.3-inspiratie-patterns.md)
 * [3.4 Concept schetsen](3.-concept/3.4-concept-schetsen.md)
-* [3.5 Concept en de flow](3.-concept/3.5-concept-en-de-flow.md)
+* [3.5 Het concept](3.-concept/3.5-het-concept.md)
 * [3.6 Conclusie](3.-concept/3.6-conclusie.md)
 
 ## 4. Ontwerpfase

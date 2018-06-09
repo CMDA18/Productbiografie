@@ -1,50 +1,78 @@
+---
+description: 'testresultaat: moet een uitleg pagina toevoegen en quiz'
+---
+
 # 4.6 Prototype v0.7
 
 ## Prototype
+
+
 
 ### Overzicht
 
 
 
-### 0.1
-
-**The Elder Scrolls**  
-[http://sherubthakur.github.io/react-horizontal-timeline/](http://sherubthakur.github.io/react-horizontal-timeline/)
-
-### 0.2
-
-
-
-### 0.3
-
-
-
-### 0.4
-
-
-
-### 0.5
-
-
+![Afbeelding](../.gitbook/assets/overview.png)
 
 ### FAQ
 
-![](../.gitbook/assets/overview-2.jpg)
 
-![](../.gitbook/assets/0.1-jungle-minds-copy%20%281%29.jpg)
 
-![](../.gitbook/assets/0.1-jungle-minds-modal.jpg)
 
-![](../.gitbook/assets/0.2-the-jungle-culture-copy.jpg)
 
-![](../.gitbook/assets/0.3-our-people-copy%20%282%29.jpg)
+![Afbeelding](../.gitbook/assets/faq.jpg)
 
-![](../.gitbook/assets/0.4-how-we-work-copy%20%281%29.jpg)
 
-![](../.gitbook/assets/0.5-our-clients-copy%20%282%29.jpg)
 
-![](../.gitbook/assets/0.6-faq-copy%20%281%29.jpg)
+### Module 1
 
+![](../.gitbook/assets/module-1.1.png)
+
+![](../.gitbook/assets/module-1.2.png)
+
+![](../.gitbook/assets/module-1.3.png)
+
+### Module 2
+
+
+
+![](../.gitbook/assets/module-2.1.png)
+
+![](../.gitbook/assets/module-2.2.png)
+
+![](../.gitbook/assets/module-2.3%20%281%29.png)
+
+### Module 3
+
+
+
+![](../.gitbook/assets/module-3.1.png)
+
+![](../.gitbook/assets/module-3.2.png)
+
+![](../.gitbook/assets/module-3.3.png)
+
+### Module 4
+
+
+
+![](../.gitbook/assets/module-4.1.jpg)
+
+![](../.gitbook/assets/module-4.2.jpg)
+
+![](../.gitbook/assets/module-4.3.jpg)
+
+### Module 5
+
+
+
+![](../.gitbook/assets/module-5.1.jpg)
+
+![](../.gitbook/assets/module-5.2.jpg)
+
+![](../.gitbook/assets/module-5.3.jpg)
+
+  
 
 
 Prototype v0.6
