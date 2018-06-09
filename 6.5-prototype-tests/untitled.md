@@ -1,20 +1,34 @@
 # 6.5.6 Usability testing v.0.9
 
-Voor het testen van mijn [prototype v0.4](../4.-ontwerpfase/4.4-prototype-v0.4.md) heb ik gekozen om een expert review te doen op het gebied van visual design. Dit heb ik gedaan omdat ik wilde testen of mijn ontwerp buikbaar was om het te  kunnen testen met de doelgroep. 
+Wanner ik mijn [concept](../3.-concept/3.5-het-concept.md#versie-0-7-greater-than) weer had gewijzigd heb ik [prototype v.0.9](../4.-ontwerpfase/prototype-v0.9.md) gemaakt. Deze versie van de prototype heb ik kunnen testen met de doelgroep. Door het te testen van de prototype heb ik antwoord kunnen geven op deelvraag 1: [“1. Waarom is een webapp relevant voor nieuwe medewerkers?”](../1.-introductie/1.4-onderzoeksvragen.md#deelvraag-1-1) en zo mijn onderzoek kunnen afbakenen zodat ik antwoord op mijn design challenge kon geven.
+
+Gedurende mijn project waren er geen nieuwe medewerkers aangenomen voor Jungle Minds, hierdoor heb ik mijn prototype getest met andere 2 personen die buiten Jungle Minds werken, maar wel de rol hebben van een nieuwe medewerker in een andere bedrijf en ik heb het getest met de twee meeste recente medewerkers van Jungle Minds. 
 
 ## Testplan 
 
-De prototype heb ik getest met Noor, een van de visual designers van het bedrijf. 
+Tijdens het testen ervan was voor mij belangrijk om de volgende te weten:
 
-Tijdens het testen heb ik de volgende vragen gesteld:
+* Hoe de gebruiker de balans tussen ongeschreven en geschreven tekst ervoer.
+* Of de informatie in gids van toegevoegdewaarde was voor de werkflow.
+* Hoe de interactie van de gids evaren werd.
 
-* Zijn er inconsistencies die je in het ontwerp ziet?
-* Zijn er bepaalde componenten die je anders zoude vormgeven i.v.m. de huisstijl?
-* Kun je elke pagina doorlopen en vertellen wat jou opvalt?
+
+
+## Testresultaten
+
+### Testpersoon 1: 
+
+### Testpersoon 2:
+
+### Testpersoon 3:
+
+### Testpersoon 4: 
 
 ## Inzichten
 
 ####  
+
+Door middle van de inzichten verkregen van de testresultaten heb ik prototype versie 0.9 verder gecodeerd en verbeterd naar prototype versie 1.0. 
 
 ### conclusie
 
