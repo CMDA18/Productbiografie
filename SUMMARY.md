@@ -72,10 +72,10 @@
   * [6.5.1 Peer review v.0.1](6.5-prototype-tests/6.5.1-peer-review-v0.1.md)
   * [6.5.2 Expert review v.0.3](6.5-prototype-tests/6.5.2-expert-review-v0.3.md)
   * [6.5.3 Expert review v.0.4](6.5-prototype-tests/6.5.3-expert-review-v0.4.md)
-  * [6.5.3 Expert review v.0.5](6.5-prototype-tests/6.5.3-expert-review-v0.5.md)
-  * [6.5.4 Usability testing v.0.7](6.5-prototype-tests/6.5.4-usability-testing-v.0.7.md)
-  * [6.5.5 Usability testing v.0.9](6.5-prototype-tests/untitled.md)
-  * [6.5.6 Expert review v.0.9](6.5-prototype-tests/6.5.6-expert-review-v.0.9.md)
+  * [6.5.4 Expert review v.0.5](6.5-prototype-tests/6.5.3-expert-review-v0.5.md)
+  * [6.5.5 Usability testing v.0.7](6.5-prototype-tests/6.5.4-usability-testing-v.0.7.md)
+  * [6.5.6 Usability testing v.0.9](6.5-prototype-tests/untitled.md)
+  * [6.5.7 Expert review v.0.9](6.5-prototype-tests/6.5.6-expert-review-v.0.9.md)
 
 ## \_
 

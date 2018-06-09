@@ -142,11 +142,16 @@ In de FAQ pagina worden de meest voorkomende vragen weergeven. Zie afbeelding 10
 
 Deze prototype heb ik door middel van een [Expert review](../6.5-prototype-tests/6.5.3-expert-review-v0.5.md) getest met een van de visual designers van Jungle Minds. Hieruit heb ik de volgende inzichten gekregen:
 
-* Test 
+* De content moet in weken verdeeld worden.
+* Er moet een indicatie komen van progressie.
+* De introductiescherm moet een invulveld bevatten voor naam en startdatum.
+* Er moeten opdrachten komen tussen de informatie door.
+
+
 
 ### conclusie
 
-De belangrijkste bevinding uit de
+Uit de Expert review bleek dat mijn klant en ik niet op hetzelfde lijn zatten qua gedachten over een onboarding tool. Ik had het concept vooral gericht op de informatieve kant ervan terwijl de klant het meer interactief wilde hebben. Het was voor mij erg handig om deze Expert review te hebben gedaan, Ik was qua planning gelukkig nog op tijd om nog van concept te kunnen veranderen en een product maken waar het bedrijf echt aan wat heeft. 
 
 
 
