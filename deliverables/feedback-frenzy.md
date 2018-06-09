@@ -2,7 +2,10 @@
 
 ## Poster
 
-Foto poster
+De poster is te downloaden op:  
+[https://mega.nz/\#!suoBSaqZ!M18SI8yi30LZbiDM3S0yZcYabgnttokip-IHpH6g2kA](https://mega.nz/#!suoBSaqZ!M18SI8yi30LZbiDM3S0yZcYabgnttokip-IHpH6g2kA)
+
+![Feedback Frenzy poster](../.gitbook/assets/0001-2.jpg)
 
 ## Lo-fi prototype
 

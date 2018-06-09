@@ -14,7 +14,7 @@ Hier volgen de schermen van prototype versie 0.7:
 
 
 
-![Afbeelding](../.gitbook/assets/overview.png)
+![Afbeelding 109: ](../.gitbook/assets/overview.png)
 
 ### FAQ
 
