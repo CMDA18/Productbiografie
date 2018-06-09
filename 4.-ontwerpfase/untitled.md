@@ -2,7 +2,7 @@
 description: 'testresultaat: moet een uitleg pagina toevoegen en quiz'
 ---
 
-# 4.6 Prototype v0.7
+# 4.6 Prototype v.0.7
 
 ## Prototype
 

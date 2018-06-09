@@ -18,8 +18,8 @@ Binnen deze twintig weken wil ik mijn project verdelen in 3 hoofdfasen. Namelijk
 | --- | --- | --- | --- | --- |
 | Week 0/2 | Concept Overview | Ideation / Fly on the wall / Interview |
 | ​Week 2 | Requirements List | Fly on the wall / Literature Study |
-| ​Week 3 | ​[Design Brief](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/design-brief)​ | Literature Study / Interview |
-| ​Week 3 | ​[Planning](https://cmda18.gitbook.io/afstudeerproject/~/edit/primary/deliverables/planning)​ | ​ |
+| ​Week 3 | ​Design Brief​ | Literature Study / Interview |
+| ​Week 3 | ​Planning​ | ​ |
 
 ## **Verkenningsfase** 
 
@@ -52,9 +52,9 @@ Voor de ontwerpfase zal ik tien weken nodig hebben. Tijdens deze zes weken zal i
 | **Week** | **Deliverables** | **Methods** |
 | --- | --- | --- |
 | Week 10 | Prototyping v.01 | Prototyping / Peer Review |
-| Week 10 | [Feedback Frenzy](feedback-frenzy.md)  | Peer Review / Expo |
+| Week 10 | Feedback Frenzy  | Peer Review / Expo |
 | Week 12 | Prototyping v.03 | Think aloud / Peer Review |
-| Week 15 | [Groenlicht presentatie](groenlicht-presentatie.md) |  |
+| Week 15 | Groenlicht presentatie |  |
 | Week 16 | Prototyping v.06 | Usability Testing / Peer Review |
 | Week 17 | Prototyping v.09 | Usability Testing / \(Product\) Quality Review |
 | Week 18 | Prototyping v.1.0 |  |
@@ -63,9 +63,9 @@ Voor de ontwerpfase zal ik tien weken nodig hebben. Tijdens deze zes weken zal i
 
 | **Week** | **Deliverables** |
 | --- | --- |
-| Week 18 | [Eindoplevering](eindoplevering.md) \(design rationale + reflectie\) |
-| Week 19 | [Promovideo]() |
-| Week 20 | [Eindpresentatie]() |
+| Week 18 | Eindoplevering \(design rationale + reflectie\) |
+| Week 19 | Promovideo |
+| Week 20 | Eindpresentatie |
 
 
 

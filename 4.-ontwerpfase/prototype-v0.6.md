@@ -1,4 +1,4 @@
-# 4.5 Prototype v0.5
+# 4.5 Prototype v.0.5
 
 ## Prototype
 

@@ -1,4 +1,4 @@
-# 4.8 Prototype v1.0
+# 4.8 Prototype v.1.0
 
 ## Prototype
 

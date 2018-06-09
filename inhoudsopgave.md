@@ -33,6 +33,6 @@
 
 ## -
 
-* [Woordenlijst](_/woordenlijst.md)
+* [Woordenlijst]()
 * [Bibliografie](_/bibliografie.md)
 

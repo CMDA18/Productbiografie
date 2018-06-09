@@ -33,13 +33,13 @@
 
 * [4.1 Inleiding](4.-ontwerpfase/inleiding.md)
 * [4.2 Identiteit & merkbeleving](4.-ontwerpfase/4.2-identiteit-and-merkbeleving.md)
-* [4.2 Prototype v0.1](4.-ontwerpfase/prototype-v0.1.md)
-* [4.3 Prototype v0.3](4.-ontwerpfase/prototype-v0.3.md)
-* [4.4 Prototype v0.4](4.-ontwerpfase/4.4-prototype-v0.4.md)
-* [4.5 Prototype v0.5](4.-ontwerpfase/prototype-v0.6.md)
-* [4.6 Prototype v0.7](4.-ontwerpfase/untitled.md)
-* [4.7 Prototype v0.9](4.-ontwerpfase/prototype-v0.9.md)
-* [4.8 Prototype v1.0](4.-ontwerpfase/prototype-v1.0.md)
+* [4.2 Prototype v.0.1](4.-ontwerpfase/prototype-v0.1.md)
+* [4.3 Prototype v.0.3](4.-ontwerpfase/prototype-v0.3.md)
+* [4.4 Prototype v.0.4](4.-ontwerpfase/4.4-prototype-v0.4.md)
+* [4.5 Prototype v.0.5](4.-ontwerpfase/prototype-v0.6.md)
+* [4.6 Prototype v.0.7](4.-ontwerpfase/untitled.md)
+* [4.7 Prototype v.0.9](4.-ontwerpfase/prototype-v0.9.md)
+* [4.8 Prototype v.1.0](4.-ontwerpfase/prototype-v1.0.md)
 * [4.9 Conclusie](4.-ontwerpfase/4.7-conclusie.md)
 
 ## 5. Deliverables
@@ -69,13 +69,15 @@
   * [6.4.1 Working at Jungle Minds](onderzoek-methodes/surveys/working-at-jungle-minds.md)
   * [6.4.2 Inwerkproces](onderzoek-methodes/surveys/inwerkproces.md)
 * [6.5 Prototype tests](6.5-prototype-tests/README.md)
-  * [6.5.1 Peer review v0.1](6.5-prototype-tests/6.5.1-peer-review-v0.1.md)
-  * [6.5.2 Expert review v0.3](6.5-prototype-tests/6.5.2-expert-review-v0.3.md)
-  * [6.5.3 Expert review v0.4](6.5-prototype-tests/6.5.3-expert-review-v0.4.md)
-  * [6.5.3 Expert review v0.5](6.5-prototype-tests/6.5.3-expert-review-v0.5.md)
+  * [6.5.1 Peer review v.0.1](6.5-prototype-tests/6.5.1-peer-review-v0.1.md)
+  * [6.5.2 Expert review v.0.3](6.5-prototype-tests/6.5.2-expert-review-v0.3.md)
+  * [6.5.3 Expert review v.0.4](6.5-prototype-tests/6.5.3-expert-review-v0.4.md)
+  * [6.5.3 Expert review v.0.5](6.5-prototype-tests/6.5.3-expert-review-v0.5.md)
+  * [6.5.4 Usability testing v.0.7](6.5-prototype-tests/6.5.4-usability-testing-v.0.7.md)
+  * [6.5.5 Usability testing v.0.9](6.5-prototype-tests/untitled.md)
+  * [6.5.6 Expert review v.0.9](6.5-prototype-tests/6.5.6-expert-review-v.0.9.md)
 
 ## \_
 
-* [Woordenlijst](_/woordenlijst.md)
 * [Bibliografie](_/bibliografie.md)
 
