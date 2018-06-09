@@ -1,8 +1,10 @@
 # 6.4.1 Working at Jungle Minds
 
-
+Bij de survey met de medewerkers van Jungle Minds heb ik verschillende inzichten kunnen krijgen over hoe zij over Jungle Minds en de inwerkproces denken. Dit heeft mij zeer geholpen om een beter beeld te krijgen van het bedrijf en de informatie die wordt gegeven tijdens de inwerkperiode. Daarnaast heb ik doormiddel van deze survey de vraag naar de content voor de onboarding tool kunnen bepalen.
 
 ### Survey
+
+De enquête
 
 ![caption](../../.gitbook/assets/screen-shot-2018-04-02-at-19.41.19.png)
 
