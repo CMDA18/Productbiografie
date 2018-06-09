@@ -18,7 +18,7 @@ Voor de introductie pagina, heb ik twee variaties van "[Zero state](../3.-concep
 
 Dit is het eerste scherm die de gebruiker te zien krijgt na de introductiescherm. Ze krijgt eerst informatie over het bedrijf, die wordt weergegeven door middel van tekst een plaatje. Zie afbeelding 86 en 87 voor de weergave van deze pagina.
 
-Deze pagina bestaat uit componenten:
+Deze pagina bestaat uit de volgende  componenten:
 
 * Menu:
   * Is altijd in beeld aan de linkerkant.
@@ -36,7 +36,7 @@ Deze pagina bestaat uit componenten:
 
 Bij deze pagina worden de medewerkers van het bedrijf in beeld gebracht. Zie afbeelding 88 en 89 voor de weergave van deze pagina.
 
-Deze pagina bestaat uit componenten:
+Deze pagina bestaat uit de volgende  componenten:
 
 * Menu:
   * Is altijd in beeld aan de linkerkant.
@@ -54,13 +54,23 @@ Deze pagina bestaat uit componenten:
 
 ### Our Team modal
 
-![Afbeelding 90: Variatie 1](../.gitbook/assets/our-team-modal-white.jpg)
+Wanneer op een van de team component wordt geklikt opent er een modal met meer gegevens van de desbetreffende medewerker.
 
-![Afbeelding 91: Variatie 2](../.gitbook/assets/blue%20%281%29.jpg)
+Deze pagina bestaat uit de volgende  componenten:
 
-![Afbeelding 92: Variatie 3](../.gitbook/assets/blue-copy%20%281%29.jpg)
+* Modal:
+  * Naam
+  * Foto
+  * Expertise
+  * Eigen verhaal
 
+Voor de modal heb ik een aantal variaties gemaakt waarbij de huisstijl componenten op verschillende manier toegepast worden, zie afbeelding 90, 91 en 92. Door middel van een expert review met een visual designer van Jungle Minds wil ik een keuze maken voor welke variatie ik moet gaan gebruiken.
 
+![Afbeelding 90: Modal variatie 1](../.gitbook/assets/our-team-modal-white.jpg)
+
+![Afbeelding 91: Modal variatie 2](../.gitbook/assets/blue%20%281%29.jpg)
+
+![Afbeelding 92: Modal variatie 3](../.gitbook/assets/blue-copy%20%281%29.jpg)
 
 ## Expert review
 
