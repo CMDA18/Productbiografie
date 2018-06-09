@@ -2,25 +2,55 @@
 
 ## Prototype 
 
-Vanaf prototype v0.3 ben ik begonnen met het gebruiken van de nieuwe huisstijl. Deze wordt beschreven in [4.2 Identiteit & merkbeleving](4.2-identiteit-and-merkbeleving.md#nieuwe-huisstijl). Tijdens heb bouwen van deze prototype ben ik bezig geweest met het testen van verschillende variaties die ik zal kunnen toepassen voor het eindproduct., zie afbeelding 84 tot en met 92. 
+Vanaf prototype v0.3 ben ik begonnen met het gebruiken van de nieuwe huisstijl. Deze wordt beschreven in [4.2 Identiteit & merkbeleving](4.2-identiteit-and-merkbeleving.md#nieuwe-huisstijl). Tijdens heb bouwen van deze prototype ben ik bezig geweest met het testen van verschillende variaties die ik zal kunnen toepassen voor het eindproduct.
+
+Ik wilde een beter idee krijgen over hoe ik de content zou structureren en hoe ik het huisstijl zou toepassen. Omdat ik tijdens deze fase nog geen content had heb ik gewerkt met "Lorem ipsum".
 
 ### Introductie pagina
 
-![Afbeelding 84: Variatie 1](../.gitbook/assets/home.jpg)
+Voor de introductie pagina, heb ik twee variaties van "[Zero state](../3.-concept/3.4-concept-schetsen.md#zero-state)" uit 3.4 Concept schetsen gedigitaliseerd. Zie afbeelding 84 en 85. In een latere fase zal ik testen met de opdrachtgever en de doelgroep welke van de twee variaties gewenst is.
 
-![Afbeelding 85: Variatie 2](../.gitbook/assets/home-copy.png)
+![Afbeelding 84: Gebruiker krijgt toegang tot de tool door op de knop te drukken](../.gitbook/assets/home.jpg)
+
+![Afbeelding 85: Gebruiker krijgt toegang tot de tool door naam in te vullen.](../.gitbook/assets/home-copy.png)
 
 ### Beginscherm: Jungle Minds pagina
 
-![Afbeelding 86: Side menu open](../.gitbook/assets/foto-en-tekst.jpg)
+Dit is het eerste scherm die de gebruiker te zien krijgt na de introductiescherm. Ze krijgt eerst informatie over het bedrijf, die wordt weergegeven door middel van tekst een plaatje. Zie afbeelding 86 en 87 voor de weergave van deze pagina.
 
-![Afbeelding 87: Side menu dicht](../.gitbook/assets/foto-en-tekst-variatie.jpg)
+Deze pagina bestaat uit componenten:
+
+* Menu:
+  * Is altijd in beeld aan de linkerkant.
+  * Bevat icon en tekst
+* Pagina titel
+* Introductie tekst
+* Text
+* Foto
+
+![Afbeelding 86: Menu is open, icon en tekst zijn zichtbaar.](../.gitbook/assets/foto-en-tekst.jpg)
+
+![Afbeelding 87: Menu is dicht, alleen iconen zijn zichtbaar.](../.gitbook/assets/foto-en-tekst-variatie.jpg)
 
 ### Our team pagina
 
-![Afbeelding 88: Side menu open](../.gitbook/assets/our-team-menu-open.jpg)
+Bij deze pagina worden de medewerkers van het bedrijf in beeld gebracht. Zie afbeelding 88 en 89 voor de weergave van deze pagina.
 
-![Afbeelding 89: Side menu dicht](../.gitbook/assets/our-team-menu-closed%20%281%29.jpg)
+Deze pagina bestaat uit componenten:
+
+* Menu:
+  * Is altijd in beeld aan de linkerkant.
+  * Bevat icon en tekst
+* Pagina titel
+* Element van medewerkers:
+  * Foto
+  * Naam
+  * Expertise
+  * modal \(opent wanneer op de foto geklikt wordt.\)
+
+![Afbeelding 88: Our team pagina wanneer menu open is.](../.gitbook/assets/our-team-menu-open.jpg)
+
+![Afbeelding 89: Our team pagina wanneer menu dicht is.](../.gitbook/assets/our-team-menu-closed%20%281%29.jpg)
 
 ### Our Team modal
 
