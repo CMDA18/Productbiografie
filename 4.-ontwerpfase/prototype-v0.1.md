@@ -6,26 +6,21 @@ Voor de feedback Frenzy heb ik een lo-fi prototype gemaakt om de richting van mi
 
 Zie hieronder de schermen die gebruikt zijn voor de prototype met een korte uitleg erover:
 
-* Introductie pagina
+* Introductie pagina Op afbeelding 80 zie je de introductie pagina van de "Guide to the Jungle". Bij deze pagina wordt de logo van het product duidelijk naar voren gebracht en het pagina bevat een input veld waar de gebruikers hun naam kunnen invullen. Door de naam te hebben ingevuld op deze pagina wordt de naam van de gebruiker in andere pagina's weer getoond. Dit zorgt  ervoor dat de gebruiker op een persoonlijke manier wordt benaderd door de applicatie. 
 
-![Afbeelding ...: Introductie pagina van het product](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.17.png)
+![Afbeelding 80: Introductie pagina van het product](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.17.png)
 
-Op afbeelding ... zie je de introductie pagina van de "Guide to the Jungle". Bij deze pagina wordt de logo van het product duidelijk naar voren gebracht en het pagina bevat een input veld waar de gebruikers hun naam kunnen invullen. Door de naam te hebben ingevuld op deze pagina wordt de naam van de gebruiker in andere pagina's weer getoond. Dit zorgt  ervoor dat de gebruiker op een persoonlijke manier wordt benaderd door de applicatie. 
+* Hoofdmenu Op afbeelding 81 wordt een de hoofdmenu weergeven van de applicatie. Deze menu bevat twee keuze's namelijk "What is Jungle Minds" wat informatie bevat over het bedrijf zelf, denk aan de cultuur, normen, waarden, medewerkers en de mensen waarvoor Jungle Minds werkt. Zie afbeelding 82 voor de weergave van deze pagina. En de andere keuze is "Inside the Jungle" die informatie bevat over procedures van het bedrijf en inhoudelijke informatie als financiën. Zie afbeelding 83 voor de weergave van de "Inside the Jungle" pagina.
 
-* Hoofdmenu
-
-![Afbeelding ...: Hoofdmenu van de applicatie.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.33.png)
-
-  
-Op afbeelding ... wordt een de hoofdmenu weergeven van de applicatie. Deze menu bevat twee keuze's namelijk "What is Jungle Minds" wat informatie bevat over het bedrijf zelf, denk aan de cultuur, normen, waarden, medewerkers en de mensen waarvoor Jungle Minds werkt. Zie afbeelding ... voor de weergave van deze pagina. En de andere keuze is "Inside the Jungle" die informatie bevat over procedures van het bedrijf en inhoudelijke informatie als financiën. Zie afbeelding ... voor de weergave van de "Inside the Jungle" pagina.
+![Afbeelding 81: Hoofdmenu van de applicatie.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.33.png)
 
 * "What is Jungle Minds" pagina
 
-![Afbeelding ..: &quot;What is Jungle Minds&quot; pagina.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.54.png)
+![Afbeelding 82: &quot;What is Jungle Minds&quot; pagina.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.54.png)
 
 * "Inside the Jungle" pagina
 
-![Afbeelding ...: &quot;Inside the Jungle&quot; pagina.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.43.png)
+![Afbeelding 83: &quot;Inside the Jungle&quot; pagina.](../.gitbook/assets/screen-shot-2018-06-02-at-13.15.43.png)
 
 ## Peer review 
 

@@ -1,16 +1,22 @@
 # 4.1 Inleiding
 
-Week 12/ 18
+Tijdens de ontwerpfase heb ik mij voornamelijk gericht op het gebied van het maken en testen van prototypes. Tijdens deze fase heb ik me gericht op het beantwoorden van deelvraag 1, "[1. Waarom is een webapp relevant voor nieuwe medewerkers?](../1.-introductie/1.4-onderzoeksvragen.md#deelvraag-1)". De deelvragen met subdeelvragen zijn terug te vinden op [1.4 Onderzoeksvragen](../1.-introductie/1.4-onderzoeksvragen.md#deelvraag-1).
 
 ## Ontwerpen
 
+De ontwerpfase heeft plaats gevonden in week 12 tot en met week 18. Hieronder ziet u een tabel met de verschillende deliverables die ik heb opgeleverd tijdens deze fase met daarbij in welke week ik ermee bezig was en welke onderzoeksmethode ik gebruik heb om het te kunnen opleveren.
+
 | **Week** | **Deliverables** | **Methods** |
-| --- | --- | --- | --- | --- | --- |
-| Week 12 | [Prototype v0.1](prototype-v0.1.md) | Best, good & bad practices / Interview / Survey |
-| [​](../3.-concept/3.3-inspiratie-patterns.md)Week 13 | Prototype | Design Pattern Search / Best, good & bad practices |
-| ​Week 14 | Prototype | Sketching / Storytelling / Ideation |
-| ​Week 15 | Prototype | Ideation / Storytelling |
-| ​Week 18 | [Prototype v1.0](prototype-v1.0.md) | Proof of Concept / Co-reflection |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Week 12 | [Prototype v.0.1](prototype-v0.1.md) | Best, good & bad practices / Peer review / Design Pattern Search |
+| [​](../3.-concept/3.3-inspiratie-patterns.md)Week 13 | Prototype v.0.3 | Design Pattern Search / Best, good & bad practices / Expert review  |
+| ​Week 14 | Prototype v.0.4 | Sketching / Design Pattern Search / Expert review  |
+| ​Week 15 | Prototype v.0.5 | Ideation / Expert review / Expert review  |
+| Week 16 | Prototype v.0.7 | Design Pattern Search / Doelgroep testen |
+| Week 17 | Prototype v.0.9 | Proof of Concept / Expert review / Doelgroep testen |
+| ​Week 18 | [Prototype v1.0](prototype-v1.0.md) | Proof of Concept  |
+
+Lees "[4.9 Conclusie](4.7-conclusie.md)" voor een samenvatting van de inzichten verkregen tijdens deze fase.
 
 ## Reflectie 
 
