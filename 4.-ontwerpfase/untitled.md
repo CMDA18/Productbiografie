@@ -12,13 +12,18 @@ Hier volgen de schermen van prototype versie 0.7:
 
 ### Overzicht
 
+In afbeelding 109 ziet u de visuele weergave van de overzicht pagina, dit is de homepage van het applicatie. In deze pagina ziet u de gebruiker 6 onderwerpen. Deze pagina bestaat uit drie hoofdcomponenten, namelijk: 
 
+* De pagina titel.
+* Een sectie titel met een introductie tekst.
+* Een verzameling van kaarten. 
+  * Elke module wordt per week vrijgegeven.
 
 ![Afbeelding 109: ](../.gitbook/assets/overview.png)
 
 ### FAQ
 
-
+Bij dit pagina worden de meeste gestelde vragen weergegeven. Dit zijn vragen met betrekking tot de rooster, uren en 
 
 
 

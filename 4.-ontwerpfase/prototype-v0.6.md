@@ -8,7 +8,7 @@ Hier volgen de belangrijkste schermen van prototype 0.5:
 
 ### **Overview**
 
-In afbeelding 101 ziet u de visuele weergave van de overview pagina, dit is de homepage van het applicatie. In deze pagina ziet de gebruiker 6 onderwerpen. Deze pagina bestaat uit drie hoofdcomponenten, namelijk: 
+In afbeelding 101 ziet u de visuele weergave van de overview pagina, dit is de homepage van het applicatie. In deze pagina ziet u de gebruiker 6 onderwerpen. Deze pagina bestaat uit drie hoofdcomponenten, namelijk: 
 
 * De pagina titel.
 * Een sectie titel met een introductie tekst.
