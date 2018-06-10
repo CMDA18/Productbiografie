@@ -149,13 +149,9 @@ Afbeelding 20: Voorbeeld weergave van Cornerstone. \(Cornerstone, z.j.\)
 
 Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)
 
-Afbeelding 21: Voorbeeld weergave van Tinqwise. \(Tinqwise, z.j.\)
-
 Afbeelding 22: Antwoorden van fabrique op de enquête
 
 Afbeelding 23: E-mail vertuurd naar Huge.
-
-Afbeelding 24: E-mail verstuurd naar Ideo.
 
 Afbeelding 24: Antwoord e-mail gekregen van Ideo.
 
@@ -306,4 +302,24 @@ Afbeelding 96: Weergave van de content uit "The Jungle Culture".
 Afbeelding 97: Weergave van de pagina "Our People".
 
 Afbeelding 98: Weergave van de pagina "Hoe we work"
+
+Afbeelding 99: Our Clients pagina.
+
+Afbeelding 100: FAQ pagina.
+
+Afbeelding 101: Overview pagina
+
+Afbeelding 102: Jungle Minds pagina.
+
+Afbeelding 103: Modal weergave.
+
+Afbeelding 104: The Jungle Culture pagina.
+
+Afbeelding 105: Our People pagina.
+
+Afbeelding 106: How we Work pagina.
+
+Afbeelding 107: Our Clients pagina.
+
+Afbeelding 108: FAQ pagina.
 
