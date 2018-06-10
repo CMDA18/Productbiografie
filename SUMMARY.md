@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Afstudeerproject: Welkom to the Jungle](README.md)
-* [Inhoudsopgave](inhoudsopgave.md)
 
 ## 1. Introductie
 
