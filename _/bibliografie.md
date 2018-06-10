@@ -6,8 +6,6 @@ Jungle Minds \(2018\) Jungle day XL 1 pdf.
 
 Jungle Minds \(2015\) huidige huisstijl pdf. 
 
-
-
 Foot, M. en Hook, C. \(2009\) Human resource management. Amsterdam: Pearson Education Benelux BV. 
 
 ### **Bronnen** 
@@ -18,7 +16,7 @@ BambooHR \(z.j.\), _Employee Self-Onboarding Software_. Verkregen op 15 februari
 
 Bellinzin, A. T. \(2017\), _Warm welkom: de beste introductie van je nieuwe medewerker_. Verkregen op 15 januari 2018, van [https://peoplebusiness.nl/ artikelen/hr-trends/introductie-nieuwe-medewerker ](https://peoplebusiness.nl/%20artikelen/hr-trends/introductie-nieuwe-medewerker%20)
 
-Brown, J. \(2007\), _Employee orientation: Keeping new employees on board. humanresources._ about. com/library/weekly/nosearch/nuc042102a.htm, 20\(02\), 2014. 
+Brown, J. \(2007\), _Employee orientation: Keeping new employees on board. humanresources._ Verkregen op 15 januari 2018, van [https://cdn2.hubspot.net/](https://cdn2.hubspot.net/%20hub/59176/file-15741175-pdf/docs/employee_orientation.pdf)[hub/59176/file-15741175-pdf/docs/employee\_orientation.pdf ](https://cdn2.hubspot.net/%20hub/59176/file-15741175-pdf/docs/employee_orientation.pdf)
 
 Cornerstone \(z.j.\), _Cornerstone Onboarding_. Verkregen op 15 februari 2018, van [https://www.cornerstoneondemand.nl/onboarding ](http://www.%20managementissues.com/index.php/organisatietools/83-organisatietools/552-hoe-geef-je-de-introductie-van-nieuwe-medewerkers-vorm%20)
 
@@ -34,7 +32,7 @@ Huge, \(2018\) _Born in Brooklyn._ [https://www.hugeinc.com/us](https://l.facebo
 
 Hulick, S., \(2017\). _Bulletproof User Onboarding._ Verkregen op 23/03/2018 [https://ux.useronboard.com/bulletproof-user-onboarding-f34ee03f655f](https://l.facebook.com/l.php?u=https%3A%2F%2Fux.useronboard.com%2Fbulletproof-user-onboarding-f34ee03f655f&h=ATNL3o1FvFK78Ol1iYWoTsIDH_gjJ9zDTYT-oCCUvUBMICHu22-BcwE3RF3OQcUGfYcWCJfxZEoIE1uI4TIH4epvQS6CgM11ISyhbrwItGPE0TRRySIXrA)
 
-Ideo U, \(2018\), _About Ideo U._ [https://www.ideou.com/pages/about-us](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ideou.com%2Fpages%2Fabout-us&h=ATNL3o1FvFK78Ol1iYWoTsIDH_gjJ9zDTYT-oCCUvUBMICHu22-BcwE3RF3OQcUGfYcWCJfxZEoIE1uI4TIH4epvQS6CgM11ISyhbrwItGPE0TRRySIXrA)
+Ideo U, \(2018\), _About Ideo U._ Verkregen op 23/03/2018, van  [https://www.ideou.com/pages/about-us](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ideou.com%2Fpages%2Fabout-us&h=ATNL3o1FvFK78Ol1iYWoTsIDH_gjJ9zDTYT-oCCUvUBMICHu22-BcwE3RF3OQcUGfYcWCJfxZEoIE1uI4TIH4epvQS6CgM11ISyhbrwItGPE0TRRySIXrA)
 
 Ideo, \(2018\) _We are a global design company committed to creating positive impact._ [https://www.ideo.com/about](https://www.ideo.com/about)
 
@@ -72,38 +70,6 @@ Weidema, N. \(2017\), _Onboarding Tools: de mogelijkheden en aandachtspunten._ V
 Young, N. \(z.j.\). [https://www.hongkiat.com/blog/timeline-in-web-design/](https://www.hongkiat.com/blog/timeline-in-web-design/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bibliografie
-
-
-
-Foto's: dropbox Jungle Minds
-
-Pdf Welkom to the jungle 2018
-
-Pdf Jungle day 1 2018
-
-{% embed data="{\"url\":\"http://cmdmethods.nl/\",\"type\":\"link\",\"title\":\"CMD Methods Pack - find a combination of research methods that suit your needs\",\"caption\":\"http://cmdmethods.nl\"}" %}
-
-{% embed data="{\"url\":\"https://jungleminds.nl/ons-verhaal\",\"type\":\"link\",\"title\":\"Story\",\"description\":\"We zijn een onafhankelijk digitaal bureau dat merken in staat stelt echte gebruikerswaarde te leveren.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.jungleminds.com/assets/favicons/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.jungleminds.com/media/\_large/readme.jpg?mtime=20160629173012\",\"width\":960,\"height\":640,\"aspectRatio\":0.6666666666666666},\"caption\":\"https://jungleminds.nl/ons-verhaal\"}" %}
-
-{% embed data="{\"url\":\"https://www.grafiektool.nl/graph\",\"type\":\"link\",\"title\":\"ONLINE GRAFIEKEN \| ontwerp en maak je eigen online grafieken en diagrammen\",\"description\":\"Grafieken en diagrammen zijn een handig hulpmiddel om bepaalde informatie te visualiseren. Op grafiektool.nl kun je online diverse grafieken en diagrammen maken, delen en bewerken. Onder andere staafdiagrammen, lijn grafieken, taart diagrammen, XY grafieken en Bubble diagrammen zijn mogelijk.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.grafiektool.nl/images/coast-icon-228x228.png\",\"width\":228,\"height\":228,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.grafiektool.nl/images/logo\_big.png\",\"width\":300,\"height\":300,\"aspectRatio\":1},\"caption\":\"https://www.grafiektool.nl/graph\"}" %}
-
-{% embed data="{\"url\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\",\"type\":\"link\",\"title\":\"APA-stijl voorbeelden\",\"description\":\"In dit artikel kun je voorbeelden vinden van verwijzingen voor meestgebruikte bronnen volgens de APA-stijl.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.scribbr.nl/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.scribbr.nl/wp-content/themes/scribbr-2017/img/opengraph/logo.png\",\"width\":750,\"height\":750,\"aspectRatio\":1},\"caption\":\"https://www.scribbr.nl/category/apa-stijl/apa-voorbeelden/\"}" %}
 
 ### Aflbeeldingen:
 
