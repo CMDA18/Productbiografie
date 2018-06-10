@@ -16,18 +16,18 @@
 
 ## 4. Prototyping
 
-* [Inleiding](4.-ontwerpfase/inleiding.md)
+* [Inleiding](4.-ontwerpfase/4.1-inleiding.md)
 
 ## Deliverables
 
-* [Deliverables](deliverables/inleiding.md)
+* [Deliverables](deliverables/5.1-inleiding.md)
 * [Projectvoorstel](https://github.com/CMDA18/Productbiografie/tree/d16c777de30a11c9cf842b51b021115339af451d/deliverables/projectvoorstel-de.md)
-* [Pitch projectvoorstel](deliverables/pitch-projectvoorstel.md)
-* [Design Brief](deliverables/design-brief.md)
-* [Planning](deliverables/planning.md)
-* [Feedback Frenzy](deliverables/feedback-frenzy.md)
-* [Groenlicht presentatie](deliverables/groenlicht-presentatie.md)
-* [Eindoplevering](deliverables/eindoplevering.md)
+* [Pitch projectvoorstel](deliverables/5.3-pitch-projectvoorstel.md)
+* [Design Brief](deliverables/5.4-design-brief.md)
+* [Planning](deliverables/5.5-planning.md)
+* [Feedback Frenzy](deliverables/5.6-feedback-frenzy.md)
+* [Groenlicht presentatie](deliverables/5.7-groenlicht-presentatie.md)
+* [Eindoplevering](deliverables/5.8-eindoplevering.md)
 * [Promovideo]()
 * [Eindpresentatie]()
 
