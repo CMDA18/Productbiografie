@@ -33,14 +33,14 @@
 
 * [4.1 Inleiding](4.-ontwerpfase/4.1-inleiding.md)
 * [4.2 Identiteit & merkbeleving](4.-ontwerpfase/4.2-identiteit-and-merkbeleving.md)
-* [4.2 Prototype v.0.1](4.-ontwerpfase/4.2-prototype-v.0.1.md)
-* [4.3 Prototype v.0.3](4.-ontwerpfase/4.3-prototype-v.0.3.md)
-* [4.4 Prototype v.0.4](4.-ontwerpfase/4.4-prototype-v.0.4.md)
-* [4.5 Prototype v.0.5](4.-ontwerpfase/4.5-prototype-v.0.5.md)
-* [4.6 Prototype v.0.7](4.-ontwerpfase/4.6-prototype-v.0.7.md)
-* [4.7 Prototype v.0.9](4.-ontwerpfase/4.7-prototype-v.0.9.md)
-* [4.8 Prototype v.1.0](4.-ontwerpfase/4.8-prototype-v.1.0.md)
-* [4.9 Conclusie](4.-ontwerpfase/4.9-conclusie.md)
+* [4.3 Prototype v.0.1](4.-ontwerpfase/4.2-prototype-v.0.1.md)
+* [4.4 Prototype v.0.3](4.-ontwerpfase/4.3-prototype-v.0.3.md)
+* [4.5 Prototype v.0.4](4.-ontwerpfase/4.4-prototype-v.0.4.md)
+* [4.6 Prototype v.0.5](4.-ontwerpfase/4.5-prototype-v.0.5.md)
+* [4.7 Prototype v.0.7](4.-ontwerpfase/4.6-prototype-v.0.7.md)
+* [4.8 Prototype v.0.9](4.-ontwerpfase/4.7-prototype-v.0.9.md)
+* [4.9 Prototype v.1.0](4.-ontwerpfase/4.8-prototype-v.1.0.md)
+* [4.10 Conclusie](4.-ontwerpfase/4.9-conclusie.md)
 
 ## 5. Deliverables
 
