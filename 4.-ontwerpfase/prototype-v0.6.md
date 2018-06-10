@@ -35,11 +35,11 @@ In afbeelding 102 ziet u de visuele weergave van de Jungle Minds pagina. In deze
   * De quote over het onderwerp.
   * Modal met informatie over het persoon van de quote.
 
-  ![Afbeelding 102:](../.gitbook/assets/0.1-jungle-minds-copy.jpg)
+  ![Afbeelding 102: Jungle Minds pagina.](../.gitbook/assets/0.1-jungle-minds-copy.jpg)
 
 In deze pagina wordt er door middel van de tijdlijn slider de geschiedenis van het bedrijf weergegeven. Dit geeft de groei ambitie van het bedrijf aan en met de quotes van de medewerkers wordt er elke keer een persoonlijk verhaal verteld over hoe een persoon een project ervaren heeft of wat hij of zij er zo leuk aan vond. Door deze verhalen te kunnen lezen kan de gebruiker zich beter inleven in het onderwerp. Daarnaast maken deze verhaaltjes het makkelijk voor een nieuwe medewerker naar een collega toe te stappen en een praatje te maken. De foto van de quote is klikbaar. Wanneer erop geklikt wordt, opent  er een modal met informatie over de desbetreffende medewerker.. Dit gebeurt overigens bij elke quote. Zie afbeelding 103 voor de visuele weergave. 
 
-![Afbeelding 103:](../.gitbook/assets/0.1-jungle-minds-modal%20%281%29.jpg)
+![Afbeelding 103: Modal weergave.](../.gitbook/assets/0.1-jungle-minds-modal%20%281%29.jpg)
 
 ### **0.2 The Jungle Culture**
 
@@ -61,7 +61,7 @@ In The Jungle Culture pagina wordt de cultuur van Jungle Minds beschreven. Hier 
 
 Wanneer de pagina uit meerdere delen bestaat, wordt de component \(tekst met plaatje\) om en om links of rechts gealigned.  Zie afbeelding 104 voor de visuele weergave van deze pagina. 
 
-![Afbeelding 104:](../.gitbook/assets/0.2-the-jungle-culture-copy.jpg)
+![Afbeelding 104: The Jungle Culture pagina](../.gitbook/assets/0.2-the-jungle-culture-copy.jpg)
 
 ### **0.3 Our People**
 
@@ -80,7 +80,7 @@ In de Our People pagina wordt er per expertise binnen het bedrijf uitgelegd wat 
 
 
 
-  ![Afbeelding 105:](../.gitbook/assets/0.3-our-people-copy%20%282%29.jpg)
+  ![Afbeelding 105: Our People pagina](../.gitbook/assets/0.3-our-people-copy%20%282%29.jpg)
 
 ### **0.4 How We Work**
 
@@ -111,7 +111,7 @@ In de How We Work pagina wordt er uitgelegd hoe Jungle Minds te werk gaat met hu
 
 Wanneer de pagina uit meerdere delen bestaat, wordt de component \(tekst met plaatje\) om en om links of rechts gealigned. 
 
-![Afbeelding 106:](../.gitbook/assets/0.4-how-we-work-copy%20%281%29.jpg)
+![Afbeelding 106: How we Work pagina](../.gitbook/assets/0.4-how-we-work-copy%20%281%29.jpg)
 
 **0.5 Our Clients**
 
@@ -125,7 +125,7 @@ Deze pagina bestaat uit de volgende componenten:
 * Een lijst met de klanten van Jungle Minds
 * Verschillende quotes vanuit de partners van Jungle Minds.
 
-![Afbeelding 107:](../.gitbook/assets/0.5-our-clients-copy%20%282%29.jpg)
+![Afbeelding 107: Our Clients pagina.](../.gitbook/assets/0.5-our-clients-copy%20%282%29.jpg)
 
 ### **0.6 FAQ**
 
@@ -136,7 +136,7 @@ In de FAQ pagina worden de meest voorkomende vragen weergeven. Zie afbeelding 10
 * Harmonica menu 
   * Vragen met antwoorden
 
-![Afbeelding 108:](../.gitbook/assets/0.6-faq-copy.jpg)
+![Afbeelding 108: FAQ pagina.](../.gitbook/assets/0.6-faq-copy.jpg)
 
 ## Expert review
 
